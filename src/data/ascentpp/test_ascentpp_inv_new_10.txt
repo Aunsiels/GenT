@@ -1,0 +1,2347 @@
+restaurant	serve	sushi[SEP]japanese restaurant	used for	eat sushi<|endoftext|>
+eating	maintain	health[SEP]maintain good health	has prerequisite	eat healthfully<|endoftext|>
+milk	be produced by	mammal[SEP]milk	receives action	produced by mammals<|endoftext|>
+cyclist	ride	bike[SEP]cyclist	capable of	ride bike<|endoftext|>
+bank	have	many customers[SEP]banks	has a	customers<|endoftext|>
+ocean	taken	place[SEP]ocean	at location	water<|endoftext|>
+boat	be used for	commercial purposes[SEP]boat	used for	transport<|endoftext|>
+coach	push	player[SEP]coach	capable of	push players<|endoftext|>
+cook	prepare	meal[SEP]cook	capable of	cook meal<|endoftext|>
+toilet	use	water[SEP]water	at location	toilet<|endoftext|>
+food	be used for	cooking[SEP]cooking	used for	eating<|endoftext|>
+square	be surrounded by	the city hall[SEP]public square	part of	city<|endoftext|>
+heat	cause	explosion[SEP]heat	receives action	generated in explosion<|endoftext|>
+bookshelf	be used to store	book[SEP]shelf	used for	storing books<|endoftext|>
+sunspot	be	visible[SEP]sunspot	at location	sun<|endoftext|>
+condition	cause	cramp[SEP]cramp	manner of	suffer<|endoftext|>
+fee	vary to	property[SEP]fee	has property	annual<|endoftext|>
+future	be n’t	something[SEP]future	distinct from	present<|endoftext|>
+glass	be used in	door[SEP]door	capable of	glass<|endoftext|>
+rat	have	keen sense of smell[SEP]rats	has a	exquisitely sensitive sense of smell<|endoftext|>
+person	feel	calm[SEP]person	desires	calm mind<|endoftext|>
+marijuana	be	high[SEP]marijuana	capable of	get high<|endoftext|>
+digestive system	include	liver[SEP]liver	part of	digestive system<|endoftext|>
+high ground	be surrounded by	tree[SEP]ground	at location	tree<|endoftext|>
+classroom	be used for	workshop[SEP]classroom	used for	teachers to work in<|endoftext|>
+earring	be for	pierced ears[SEP]ear	receives action	pierced to wear earring<|endoftext|>
+mold	be found on	carpet[SEP]mold	at location	carpet<|endoftext|>
+sample	use	spectrophotometer[SEP]spectrophotometer	at location	chemistry lab<|endoftext|>
+balloon	rise into	the air[SEP]balloon	capable of	rise into air<|endoftext|>
+navigation	use	compass[SEP]compass	used for	navigation<|endoftext|>
+mural	adorn	wall[SEP]mural	at location	wall<|endoftext|>
+clothing	be stored in	closet[SEP]clothing closet	used for	storing clothes in convenient way<|endoftext|>
+performance	delight	audience[SEP]great performance	capable of	delight audience<|endoftext|>
+restaurant	serve	fresh seafood[SEP]seafood restaurant	has a	variety of seafood to offer<|endoftext|>
+process	add to	overall efficiency of the appliance[SEP]electronic appliance	used for	doing things more efficiently<|endoftext|>
+experience	need	bathtub[SEP]having bath	has prerequisite	bathtub<|endoftext|>
+appendicular skeleton	be formed by	pelvic girdle[SEP]pectoral girdle	part of	appendicular skeleton<|endoftext|>
+memorial	be	monument[SEP]monument	used for	memorial<|endoftext|>
+tree	provide	shade[SEP]tree	capable of	shade car<|endoftext|>
+mirror	be common in	interrogation rooms[SEP]and two way mirror	receives action	used in police station interrogation rooms<|endoftext|>
+toxin	contaminate	waterway[SEP]toxins	at location	water<|endoftext|>
+happiness	last	lifetime[SEP]happiness	capable of	last lifetime<|endoftext|>
+slave	be used in	the south[SEP]slave	at location	south<|endoftext|>
+student	experience	life[SEP]student	at location	every aspect of life<|endoftext|>
+bottle	store	ink[SEP]ink	at location	ink bottle<|endoftext|>
+car	move at	speed[SEP]car	capable of	move quickly<|endoftext|>
+clothing	be known as	clothe[SEP]cloth	at location	clothes<|endoftext|>
+sun	melt	the snow[SEP]sun	capable of	melt snow<|endoftext|>
+wind	be	east[SEP]wind	capable of	blow to east<|endoftext|>
+lead	be	poison[SEP]lead	capable of	poison human<|endoftext|>
+house	contain	personal possessions[SEP]house	used for	holding material possessions<|endoftext|>
+piano	be used for	concert[SEP]piano	used for	perform music<|endoftext|>
+state	be	north dakota[SEP]north dakota	part of	united states<|endoftext|>
+potato pancake	be known as	latke[SEP]potato pancake	instance of	pancake<|endoftext|>
+government	use	law[SEP]government	used for	enact laws<|endoftext|>
+meal	be made from	ingredient[SEP]meal	created by	ingredients<|endoftext|>
+orbit	place	satellite[SEP]satellite	at location	orbit<|endoftext|>
+person	achieve	their goals[SEP]person	desires	attain goals<|endoftext|>
+lawyer	make	comment[SEP]lawyer	capable of	object to comment<|endoftext|>
+student	belong to	class[SEP]student	capable of	belong to class<|endoftext|>
+light	be used in	area[SEP]light	used for	illuminating area<|endoftext|>
+bank	increase	interest rates[SEP]bank	capable of	increase interest rates<|endoftext|>
+group	be	smarter than the smartest people[SEP]smart people	capable of	group things well<|endoftext|>
+curtain	cover	the window[SEP]curtain	used for	covering window<|endoftext|>
+restaurant	have	two dining areas[SEP]restaurant dining area	used for	eating<|endoftext|>
+pencil	need	sharpening[SEP]pencil sharpener	used for	pencils<|endoftext|>
+harpsichord	be used in	renaissance and baroque music[SEP]harpsichord	used for	making music<|endoftext|>
+parking	be available in	lot[SEP]parking lot	used for	parking<|endoftext|>
+poison ivy	have	three leaves[SEP]poison ivy	has a	three shiny leaves<|endoftext|>
+glass	withstand	impact[SEP]glass	capable of	withstand modest forces<|endoftext|>
+drawing	use	acrylic[SEP]acrylic	used for	painting pictures<|endoftext|>
+change	be	reversed[SEP]change by reversal	manner of	change<|endoftext|>
+diamond	be	the hardest natural substance[SEP]diamond	defined as	hardest substance on earth<|endoftext|>
+horse	be used for	breeding[SEP]horse	used for	breeding<|endoftext|>
+stunt	be performed by	professional[SEP]stunt	manner of	perform<|endoftext|>
+red wine	cause	headache[SEP]red wine	causes	migraines<|endoftext|>
+duct tape	be used in	construction[SEP]duct tape	capable of	stick to many surfaces<|endoftext|>
+metric system	measure	mass[SEP]metric weight unit	part of	metric system<|endoftext|>
+committee	elect	chairperson[SEP]chairperson	capable of	head committee<|endoftext|>
+prerequisite	be	required[SEP]help	has prerequisite	ask what need<|endoftext|>
+library	have	group study rooms[SEP]room study	at location	library<|endoftext|>
+dark matter	interact	massive particles[SEP]weakly interacting massive particle	part of	dark matter<|endoftext|>
+attempt	use	the appeal[SEP]appeal	manner of	challenge<|endoftext|>
+grief	be caused by	divorce[SEP]getting divorce	causes	lot of grief<|endoftext|>
+farmer	use	tractor[SEP]farmer	capable of	use tractor<|endoftext|>
+food	look	healthy[SEP]look better	has prerequisite	eat healthy foods<|endoftext|>
+hallway	lead to	room[SEP]hallway	used for	going from one room to another<|endoftext|>
+restaurant	serve	chinese[SEP]chinese restaurant	at location	china<|endoftext|>
+rocking chair	be attached to	the bottom of the legs[SEP]rocking chair	used for	rocking back and forth<|endoftext|>
+grill	placed in	oven[SEP]grill	at location	oven<|endoftext|>
+pizza	have	much cheese[SEP]most pizza	has a	cheese on<|endoftext|>
+vodka	be	colorless[SEP]vodka	has property	colourless<|endoftext|>
+fun	go for	walk[SEP]going for walk	used for	having fun<|endoftext|>
+firefighter	use	hose[SEP]firefighter	capable of	pull hose<|endoftext|>
+magazine	feature	photography[SEP]magazine	part of	camera<|endoftext|>
+desire	live	better life[SEP]person	desires	better life<|endoftext|>
+cornea	cover	the front of the eye[SEP]cornea	part of	eye<|endoftext|>
+calculator	be easy to	use[SEP]use calculator	has prerequisite	want to add numbers<|endoftext|>
+screwdriver	open	paint[SEP]screwdriver	used for	open can of paint<|endoftext|>
+restaurant	serve	chicken[SEP]chicken	at location	fast food restaurant<|endoftext|>
+odor	be	noticeable smell[SEP]smell	distinct from	see<|endoftext|>
+fabric	use	thread[SEP]fabric	made of	thread<|endoftext|>
+field	be	dirt[SEP]dirt	at location	field<|endoftext|>
+dinner	feature	chef[SEP]dinner	created by	chef<|endoftext|>
+understanding	bring	peace[SEP]understanding better	causes	peace<|endoftext|>
+red line	be	rapid transit line[SEP]red line	instance of	rapid transit<|endoftext|>
+plan	achieve	the organization’s goals[SEP]organizations	capable of	plan goals and objectives<|endoftext|>
+metal	be used in	car[SEP]metal	used for	making car<|endoftext|>
+trial	attend	informed consent process[SEP]informed consent	receives action	needed for treatments procedures or tests<|endoftext|>
+people	live in	home[SEP]people living there	at location	home<|endoftext|>
+communication	be performed in	the network[SEP]network	manner of	communicate<|endoftext|>
+car	use	fuel[SEP]cars	capable of	use fuel<|endoftext|>
+sewer	carry	sewage[SEP]sewer	part of	sewage system<|endoftext|>
+city	be filled with	monument[SEP]monument	at location	city<|endoftext|>
+debit card	be used for	payment[SEP]debit card	used for	using when dont have cash<|endoftext|>
+investor	back	project[SEP]investor	capable of	back project<|endoftext|>
+banker	lend	money[SEP]banker	used for	lending money<|endoftext|>
+museum	feature	ancient artifacts[SEP]artefacts	at location	museum<|endoftext|>
+child	play in	the sandbox[SEP]child	capable of	play in sandbox<|endoftext|>
+vertebrate	share	bone[SEP]bone	at location	vertebrates<|endoftext|>
+cat	sit on	chair[SEP]cat	at location	sitting on chair<|endoftext|>
+coil	be	heated[SEP]coil	used for	conducting heat<|endoftext|>
+cash	pay	bill[SEP]cash bill	used for	pay<|endoftext|>
+calculator	provide	recommendation[SEP]use calculator	has prerequisite	buy calculator<|endoftext|>
+change	be	elicited[SEP]excite	manner of	change<|endoftext|>
+silver	be	more rare than gold[SEP]silver	distinct from	gold<|endoftext|>
+haircut	look	good[SEP]going to get haircut	used for	looking better<|endoftext|>
+desire	own	home[SEP]person	desires	own home<|endoftext|>
+garden	produce	vegetable[SEP]vegetables	at location	vegetable garden<|endoftext|>
+amusement park	feature	carousel[SEP]carousel	at location	carnival<|endoftext|>
+money	buy	christmas presents[SEP]buying christmas presents	used for	people who have money<|endoftext|>
+sea	be	the mediterranean[SEP]mediterranean sea	instance of	sea<|endoftext|>
+sick person	take	medication[SEP]sick person	capable of	take medicine<|endoftext|>
+debit card	be used for	payment[SEP]debit card	used for	paying for<|endoftext|>
+athlete	be able to	swim[SEP]swimming	capable of	sport<|endoftext|>
+lake	be	fresh water[SEP]water	at location	lake<|endoftext|>
+waffle	keep in	the fridge[SEP]waffles	at location	fridge<|endoftext|>
+bear	have	way[SEP]bear	manner of	have<|endoftext|>
+yogurt	contain	live cultures[SEP]yogurt	has a	active cultures<|endoftext|>
+campus	have	spacious classrooms[SEP]university	has a	classrooms<|endoftext|>
+condition	be diagnosed by	physical exam[SEP]having physical exam	used for	diagnosing disease<|endoftext|>
+protein	be found in	cottage cheese[SEP]cottage cheese	has property	high in protein<|endoftext|>
+kitchen	be equipped with	table[SEP]table	at location	kitchen<|endoftext|>
+bookcase	store	book[SEP]bookcase	at location	house<|endoftext|>
+sound wave	travel through	the air[SEP]sound waves	at location	air<|endoftext|>
+way	get in	touch[SEP]get	manner of	touch<|endoftext|>
+hotel	feature	gift shops[SEP]gift shop	at location	hotel<|endoftext|>
+design	be utilized through	rug[SEP]designs	at location	rug<|endoftext|>
+desire	give	life[SEP]person	desires	give and take<|endoftext|>
+fireplace	add	warmth[SEP]fireplace	used for	warmth<|endoftext|>
+party	be at	home[SEP]party	at location	home<|endoftext|>
+coin	be used to purchase	item[SEP]coin	used for	small purchases<|endoftext|>
+cavity	spread to	other teeth[SEP]cavity	at location	teeth<|endoftext|>
+backpack	contain	flashlight[SEP]flashlight	at location	backpack<|endoftext|>
+guy	have	different personalities[SEP]different people	has a	different personalities<|endoftext|>
+fluoride	be found in	mouthwash[SEP]fluoride mouthwash	at location	medecine cabinet<|endoftext|>
+problem	cause	crash[SEP]crash	causes	crash<|endoftext|>
+rock	form	mountain[SEP]rock	at location	mountain<|endoftext|>
+artist	use	bright colors[SEP]artist	capable of	color picture<|endoftext|>
+region	include	manitoba[SEP]manitoba	part of	canada<|endoftext|>
+fund	finance	operation[SEP]fund	manner of	finance<|endoftext|>
+bidet	be attached to	the toilet[SEP]bidet	receives action	used after toilet<|endoftext|>
+visitor	enjoy	many museums[SEP]visitors	capable of	look around museums<|endoftext|>
+centrifuge	spin	gas[SEP]centrifuge	manner of	spin<|endoftext|>
+tile	be found in	the kitchen[SEP]tile	used for	kitchen<|endoftext|>
+coupon	save	money[SEP]coupon	capable of	save us lot of money<|endoftext|>
+needle	deliver	drug[SEP]needle	used for	deliver drug<|endoftext|>
+sprinkler	water	your lawn[SEP]sprinkler	capable of	water lawn<|endoftext|>
+trial	feature	testimony[SEP]testimony	part of	trial<|endoftext|>
+colleague	send	message[SEP]one	capable of	forward message to colleague<|endoftext|>
+apartment	be located in	the old town[SEP]apartment	at location	town<|endoftext|>
+phillips screwdriver	be	required[SEP]phillips screwdriver	used for	screw phillip<|endoftext|>
+fur	provide	natural insulation[SEP]fur	used for	insulation<|endoftext|>
+sport	cause	injury[SEP]sport	causes	injury<|endoftext|>
+jellyfish	be found in	every ocean[SEP]jellyfish	at location	warm ocean<|endoftext|>
+mouse	have	three buttons[SEP]computer mouse	has a	one to three buttons<|endoftext|>
+oven	be found in	the kitchen[SEP]oven	at location	stove<|endoftext|>
+good	overcome	evil[SEP]good	capable of	fight evil<|endoftext|>
+restaurant	serve	french[SEP]french restaurant	used for	dining in style<|endoftext|>
+accident	cause	loss[SEP]being involved in accident	causes	loss<|endoftext|>
+lake	have	inlet[SEP]inlet	part of	lake<|endoftext|>
+harpsichord	be used in	renaissance and baroque music[SEP]harpsichord	used for	play classical original music<|endoftext|>
+restaurant	have	a wine cellar[SEP]wine cellar	at location	restaurant<|endoftext|>
+desire	breathe	clean air[SEP]person	desires	breathe fresh air<|endoftext|>
+restaurant	serve	chinese food[SEP]chinese restaurant	used for	serving chinese food<|endoftext|>
+heat	be used for	cooking[SEP]heat	used for	cooking<|endoftext|>
+pizza	have	plenty of toppings[SEP]pizza toppings	part of	pizza<|endoftext|>
+jerusalem artichoke	be not	artichoke[SEP]jerusalem artichoke	part of	jerusalem artichoke<|endoftext|>
+lie	destroy	trust[SEP]lie	capable of	destroy trust<|endoftext|>
+purpose	take	action[SEP]purpose to	has a	action<|endoftext|>
+library	have	over 275 km of shelves[SEP]library	has a	many shelves<|endoftext|>
+clothing	be stored in	closet[SEP]clothes closet	used for	put clothes in<|endoftext|>
+garden	need	weeding[SEP]weeding garden	used for	gardener to do<|endoftext|>
+melatonin	reduce	sleep onset latency[SEP]sleep	has prerequisite	take melatonin<|endoftext|>
+paella	be	a rice dish[SEP]rice	part of	paella<|endoftext|>
+mammal	have	hair[SEP]mammals	has a	hair or fur<|endoftext|>
+tissue	line	abdominal cavity[SEP]abdominal cavity	part of	abdomen<|endoftext|>
+fun	reduce	stress[SEP]having fun	causes	stress relief<|endoftext|>
+cave	be	underground[SEP]underground area	at location	cave<|endoftext|>
+bladder	be	full[SEP]bladder	capable of	full<|endoftext|>
+storm	open	the season[SEP]storm	at location	season<|endoftext|>
+caffeine	be	stimulant[SEP]coffee	has a	stimulant drug caffeine<|endoftext|>
+tooth	straightened with	brace[SEP]braces	used for	straighten teeth<|endoftext|>
+pond	be filled with	water lilies[SEP]water lillies	at location	pond<|endoftext|>
+rug	be	focal point of a room[SEP]rug	at location	front of door<|endoftext|>
+yacht	be used for	sport[SEP]yacht	used for	travel<|endoftext|>
+library	subscribe to	journal[SEP]journal	at location	library<|endoftext|>
+change	affect	the manner[SEP]affect	manner of	change<|endoftext|>
+intervention	provide	assistance[SEP]giving assistance	causes	help<|endoftext|>
+machinery	be used in	processing[SEP]machinery	used for	function<|endoftext|>
+lawyer	try	case[SEP]lawyer	capable of	try case<|endoftext|>
+working	earn	money[SEP]working	used for	earning money<|endoftext|>
+poison ivy	cause	rash[SEP]poison ivy	capable of	form rash on skin<|endoftext|>
+carbon dioxide	cause	global warming[SEP]worldwide excess of carbon dioxide	has a	resulted in global warming<|endoftext|>
+goal	be	listening[SEP]listen	motivated by goal	there to hear<|endoftext|>
+car	be behind	door[SEP]door	at location	car<|endoftext|>
+standing	cause	fatigue[SEP]standing in line	causes	fatigue<|endoftext|>
+garden hose	be used to convey	water[SEP]garden hose	used for	watering garden<|endoftext|>
+product	be used in	other industries[SEP]industry	used for	making type of product<|endoftext|>
+dance	include	samba[SEP]dance samba	has prerequisite	have samba music to dance to<|endoftext|>
+camera	zoom to	preset position[SEP]zoom lens	at location	camera configuration<|endoftext|>
+trial	determine	guilt[SEP]conducting trial	causes	determining guilt or innocence<|endoftext|>
+exhaust	consist of	the pipe[SEP]exhaust pipe	part of	car<|endoftext|>
+recipe	be	success[SEP]following recipe	causes	success<|endoftext|>
+manhattan	be	city[SEP]new york city	part of	manhattan<|endoftext|>
+prerequisite	be	fit[SEP]get fit	has prerequisite	practice<|endoftext|>
+breakfast	be served in	bed[SEP]eat breakfast in bed	has subevent	use tray<|endoftext|>
+scuba diving	require	training[SEP]becoming scuba diver	has prerequisite	training<|endoftext|>
+weapon	be used for	sport[SEP]weapon	used for	defence<|endoftext|>
+candle	be used for	light[SEP]candle	used for	burning<|endoftext|>
+sailor	man	ship[SEP]sailors	capable of	man ship<|endoftext|>
+transistor	be used as	amplifier[SEP]transistors	used for	implement amplifiers and voltage controlled switches<|endoftext|>
+tile	be used to form	wall and floor coverings[SEP]tile	used for	cover floor or wall<|endoftext|>
+ice cream	be	creamy[SEP]ice cream	has property	cold creamy and sweet<|endoftext|>
+article	appear in	newspaper[SEP]article	at location	newspaper in editor's office<|endoftext|>
+blood pressure	use	cuff[SEP]blood pressure cuff	at location	doctor<|endoftext|>
+tree	make up	the forest[SEP]tree	part of	forest<|endoftext|>
+understanding	lead to	innovation[SEP]knowledge	part of	innovation<|endoftext|>
+change	be made by	naflgd[SEP]inflate	manner of	change<|endoftext|>
+hypothesis	explain	observation[SEP]hypothesis	part of	theory<|endoftext|>
+year	have	365 days[SEP]one year	has a	365.25 days<|endoftext|>
+dining area	have	seating[SEP]dining area	at location	home<|endoftext|>
+apple tree	bloom at	same time[SEP]apple tree	at location	bloom<|endoftext|>
+army	be at	war[SEP]army	at location	war<|endoftext|>
+ball	be used in	golf[SEP]ball	used for	play golf<|endoftext|>
+desire	grow in	knowledge[SEP]desire for knowledge	causes desire	learn about world<|endoftext|>
+structure	use	spreadsheet[SEP]layout of spreadsheet	has property	important<|endoftext|>
+death	will	cause[SEP]killing	causes	will die<|endoftext|>
+student	complete	test[SEP]student	capable of	complete test<|endoftext|>
+bald eagle	live in	alaska[SEP]bald eagle	at location	coastal areas of alaska<|endoftext|>
+judge	act as	referee[SEP]referee	manner of	judge<|endoftext|>
+umbrella	be	lightweight[SEP]umbrella	has property	lightweight<|endoftext|>
+health	stay	healthy[SEP]staying healthy	has prerequisite	avoiding health destroying conditions<|endoftext|>
+people	be at	war[SEP]people	at location	war<|endoftext|>
+gallery	exhibit	art[SEP]gallery	at location	art museum<|endoftext|>
+cat	have	12 whiskers[SEP]cat	has a	whiskers<|endoftext|>
+prerequisite	be	taken[SEP]get	has prerequisite	say please<|endoftext|>
+beaver	build	lodge[SEP]beaver	at location	lodge<|endoftext|>
+dog	be able to	run[SEP]dog	capable of	run<|endoftext|>
+report	be	vindication[SEP]vindicate	manner of	acquit<|endoftext|>
+state	be	missouri[SEP]missouri	part of	united states<|endoftext|>
+public library	provide	book[SEP]public library	has a	books<|endoftext|>
+hotel	be used for	meeting[SEP]hotel	used for	hold meeting<|endoftext|>
+writing	require	patience[SEP]writing	has prerequisite	patience<|endoftext|>
+reptile	include	lizard[SEP]lizard	at location	reptile family<|endoftext|>
+affix	be	word parts[SEP]affix	part of	word<|endoftext|>
+scale	measure	weight[SEP]scale	used for	weigh people or things<|endoftext|>
+payment	be made from	savings account[SEP]getting paid	used for	savings accounts<|endoftext|>
+label	be	self-adhesive[SEP]self adhesive label	at location	self adhesive label package<|endoftext|>
+wreath	be hung on	door[SEP]wreath	at location	front door<|endoftext|>
+fuel	be injected into	intake manifold[SEP]intake manifold	part of	fuel system<|endoftext|>
+vacation	reduce	stress[SEP]going on vacation	has subevent	relief of stress<|endoftext|>
+preacher	should	preach[SEP]preacher	capable of	preach<|endoftext|>
+musical instrument	be used to provide	the ground[SEP]instrument	used for	making music<|endoftext|>
+toilet seat	be	warm[SEP]toilet seat	used for	comfort<|endoftext|>
+radiator	cool	the engine[SEP]car radiator	used for	cool engine<|endoftext|>
+pedestrian	walk on	the street[SEP]pedestrian	at location	street corner<|endoftext|>
+nurse	care for	child[SEP]nurses	capable of	care for kids<|endoftext|>
+college student	complete	the location[SEP]student	at location	university<|endoftext|>
+center	be located in	france[SEP]centre	part of	france<|endoftext|>
+collision	take	the form of shock[SEP]shock	manner of	collide<|endoftext|>
+lens	be located inside	the eye[SEP]lens	part of	eye<|endoftext|>
+rain	cause	flooding[SEP]rain	capable of	cause floods<|endoftext|>
+desire	create	art[SEP]inspiration	causes desire	create art<|endoftext|>
+bald eagle	be perched in	tree[SEP]bald eagle	at location	treetop<|endoftext|>
+dining area	enjoy	meal[SEP]restaurant dining area	used for	eating dinner<|endoftext|>
+change	taken place in	the world[SEP]revolutionize	manner of	change<|endoftext|>
+sun	shine through	the rain[SEP]sun shine	capable of	follow rain<|endoftext|>
+polish	be	good[SEP]polish	manner of	better<|endoftext|>
+glass	have	high refractive index[SEP]glass	has a	refractive index<|endoftext|>
+auditorium	orchestra	pit[SEP]orchestra pit	at location	concert hall<|endoftext|>
+cook	prepare	food[SEP]cook	capable of	cook food<|endoftext|>
+coffee table	face	the couch[SEP]coffee table	at location	front of couch<|endoftext|>
+piano	play	music[SEP]piano	at location	music school<|endoftext|>
+backyard	be	grassy[SEP]lawn	at location	backyard<|endoftext|>
+walk	enhance	health[SEP]walking	used for	health<|endoftext|>
+bag	be made of	leather[SEP]punch bag	made of	leather<|endoftext|>
+flower	have	three petals[SEP]flowers	has a	few petals<|endoftext|>
+report	develop	unmanageable epileptic convulsions[SEP]having epileptic fit	has subevent	convulsions<|endoftext|>
+lake	cover	area[SEP]lake	at location	moist area<|endoftext|>
+party	have	fun[SEP]have party	has subevent	fun<|endoftext|>
+album	use	music[SEP]album	used for	play<|endoftext|>
+home	be listed within	the subdivision[SEP]house	at location	subdivision<|endoftext|>
+cat	climb	tree[SEP]cat	capable of	climb up tree<|endoftext|>
+station	be served by	train[SEP]train station	used for	get on train<|endoftext|>
+u.s.	protect	property[SEP]protect which	has property	important to us<|endoftext|>
+cook	make	adjustment[SEP]cook	manner of	change<|endoftext|>
+key	be used for	encryption[SEP]key	used for	encryption<|endoftext|>
+sense	be	felt[SEP]feel	manner of	be<|endoftext|>
+laughter	bring	people[SEP]make people laugh	has subevent	hear laughter<|endoftext|>
+anode	electrolyte	104[SEP]anode	part of	electrolytic cell<|endoftext|>
+funeral	be attended by	thousands of mourners[SEP]group of mourners	at location	funeral<|endoftext|>
+working	bring	prosperity[SEP]working	causes	prosperity<|endoftext|>
+paint	prevent	rust[SEP]painting	capable of	prevents from rusting<|endoftext|>
+person	have	many friends[SEP]person	desires	many good friends<|endoftext|>
+car	brake to	stop[SEP]stop car	has prerequisite	press brake<|endoftext|>
+soda	contain	high fructose corn syrup[SEP]pepsi	made of	high fructose corn syrup<|endoftext|>
+prerequisite	use	keyboard[SEP]type	has prerequisite	go to keyboard<|endoftext|>
+process	perform	calculation[SEP]process	manner of	calculate<|endoftext|>
+camera	take	another shot[SEP]camera	used for	taking photographs<|endoftext|>
+fact	form	opinion[SEP]fact	distinct from	opinion<|endoftext|>
+trial	result in	conviction[SEP]conducting trial	causes	conviction<|endoftext|>
+paper	present	area[SEP]paper	at location	floor<|endoftext|>
+problem	be associated with	drift[SEP]drift	manner of	circulate<|endoftext|>
+board game	be	useful[SEP]board game	used for	play<|endoftext|>
+trial	be	stressful[SEP]conducting trial	causes	stress<|endoftext|>
+building	contain	vending machines[SEP]vending machines	at location	bus depot<|endoftext|>
+freezer	be loaded with	food[SEP]freezer	used for	freezing fresh food<|endoftext|>
+budget	be	calculated[SEP]budget	manner of	calculate<|endoftext|>
+food	be purchased for	consumption[SEP]buying food	used for	consumption<|endoftext|>
+glacier	leave	moraine[SEP]moraine	part of	glacier<|endoftext|>
+bee	swarm around	area[SEP]bee	at location	swarm<|endoftext|>
+course	be	compact[SEP]compact	manner of	be<|endoftext|>
+vitamin	claim to cure	illness[SEP]vitamins	receives action	required for good health<|endoftext|>
+soil	surround	the tree[SEP]soil	at location	tree<|endoftext|>
+ottoman	add	decoration[SEP]ottoman	used for	decoration<|endoftext|>
+class	study	the book of proverbs[SEP]proverbs	part of	sapiential book<|endoftext|>
+patchwork	be used to make	quilt[SEP]making patchwork quilt	has prerequisite	patchs of material<|endoftext|>
+box	be made of	cardboard[SEP]cardboard box	used for	put stuff in<|endoftext|>
+cat	live in	area[SEP]cat	at location	residential area<|endoftext|>
+college student	go to	high school[SEP]student	capable of	go to high school<|endoftext|>
+scuba diving	result in	death[SEP]going scuba diving	capable of	cause death<|endoftext|>
+silicone	be used in	lubricant[SEP]silicone	used for	lubricants<|endoftext|>
+course	start on	time[SEP]go on	manner of	start<|endoftext|>
+concept	be	balance[SEP]balance	manner of	be<|endoftext|>
+forest	be surrounded by	tree[SEP]forest	has a	many trees<|endoftext|>
+plan	be	effective[SEP]good plan	capable of	further goals<|endoftext|>
+drink	indulge in	flirtation[SEP]drinking alcohol	has subevent	flirt<|endoftext|>
+typewriter	use	letter[SEP]typewriter	used for	type stuff<|endoftext|>
+average	be	22%[SEP]average	manner of	total<|endoftext|>
+desire	breathe	clean air[SEP]person	desires	breathe fresh clean air<|endoftext|>
+microwave	be used to cook	food[SEP]microwave oven	used for	heat foods and liquids<|endoftext|>
+problem	be related to	plumbing[SEP]plumbing	part of	construction<|endoftext|>
+judge	order	the person[SEP]judge	desires	order<|endoftext|>
+film	win	several awards[SEP]movies	capable of	win awards<|endoftext|>
+dining room	have	sideboard[SEP]sideboard	at location	dining room<|endoftext|>
+learning	take	time[SEP]learning	capable of	take long time<|endoftext|>
+shower	have	body wash[SEP]take shower	has subevent	wash body<|endoftext|>
+home	walk in	closet[SEP]walk	at location	closet in expensive house<|endoftext|>
+tripod	have	three legs[SEP]tripod	has a	three legs<|endoftext|>
+addict	use	cocaine[SEP]cocaine use	capable of	lead to addiction<|endoftext|>
+lung	be known as	alveolus[SEP]alveolus	part of	lung<|endoftext|>
+air conditioner	make in	hot climates[SEP]air conditioner	has property	very important in warm climates<|endoftext|>
+chest	be used to keep	clothe[SEP]chest	used for	storing things in<|endoftext|>
+car	be in	the parking lot[SEP]car	at location	parking lot<|endoftext|>
+arrow	be	pointed[SEP]arrow	capable of	pointing ain direction<|endoftext|>
+intervention	include	cardiopulmonary resuscitation[SEP]cardiac massage	part of	cardiopulmonary resuscitation<|endoftext|>
+snoring	be	an instance of sound sleep[SEP]snoring	has prerequisite	being asleep<|endoftext|>
+spaghetti squash	be	cooked[SEP]spaghetti squash	part of	spaghetti squash<|endoftext|>
+police	direct	traffic[SEP]police	capable of	direct traffic<|endoftext|>
+health	stay	healthy[SEP]staying healthy	used for	living long life<|endoftext|>
+manufacturer	use	vinyl[SEP]vinyl	used for	manufacturing purposes<|endoftext|>
+apology	be	unnecessary[SEP]apology	capable of	right offense<|endoftext|>
+money	be invested in	the stock market[SEP]investing money in stock markets	causes desire	know how stock market performed<|endoftext|>
+truck	land on	its roof[SEP]roof	part of	truck<|endoftext|>
+tea	be served with	sugar[SEP]sugar	used for	sweetening cup of tea<|endoftext|>
+building	consist of	first floor[SEP]ground floor	defined as	first floor in building<|endoftext|>
+sale	give	way[SEP]sell	Entails	give<|endoftext|>
+problem	cause	pain[SEP]trouble	capable of	cause pain<|endoftext|>
+course	offer	putting[SEP]put up	manner of	offer<|endoftext|>
+river	flow into	the bay[SEP]river	capable of	flow into bay<|endoftext|>
+tongue	swallow	food[SEP]tongue	capable of	taste food<|endoftext|>
+wallet	contain	credit cards[SEP]wallet	used for	holding credit cards<|endoftext|>
+shop	sell	other items[SEP]items for sale	at location	shop<|endoftext|>
+mental illness	be involved in	the criminal justice system[SEP]mental health issues	receives action	connected with criminal justice<|endoftext|>
+instrument	be made of	brass[SEP]brass instrument	used for	make sounds<|endoftext|>
+solar system	have	eight planets[SEP]solar system	has a	9 known planets<|endoftext|>
+machine	consist of	container[SEP]machine	capable of	box product in container<|endoftext|>
+door	be secured by	lock[SEP]lock	part of	door<|endoftext|>
+person	buy	car[SEP]person	capable of	buy car<|endoftext|>
+doctor	be followed by	physical examination[SEP]have physical examination	has first subevent	go to doctor's office<|endoftext|>
+road	be filled with	roadblock[SEP]road	at location	roadblock<|endoftext|>
+south	be	virginia[SEP]virginia	part of	south<|endoftext|>
+refrigerator	be used to store	food[SEP]refrigerator	used for	store food<|endoftext|>
+soap	be used to wash	hand[SEP]soap	used for	washing yourself<|endoftext|>
+restaurant	serve	fast food[SEP]meal	at location	fast food restaurant<|endoftext|>
+desire	be	surprised[SEP]person	desires	surprised<|endoftext|>
+doctor	wear	white coats[SEP]doctors	capable of	weare white coats<|endoftext|>
+bottle	contain	liquid[SEP]bottle	used for	storing liquid<|endoftext|>
+bed	be	dirty[SEP]dirty	at location	bed<|endoftext|>
+note	be	mutilated[SEP]gouge	manner of	mutilate<|endoftext|>
+giant squid	be	rare[SEP]giant squid	at location	sea<|endoftext|>
+recipe	use	potato[SEP]potato	at location	recipe<|endoftext|>
+tree	grow in	mountain[SEP]tree	at location	top of mountain<|endoftext|>
+woman	have	ovary[SEP]ovary	part of	female<|endoftext|>
+marching band	perform at	parade[SEP]marching band	part of	parade<|endoftext|>
+hex	be	spell[SEP]spell	manner of	hex<|endoftext|>
+library	have	many books[SEP]libraries	has a	many books<|endoftext|>
+change	necessitate	re[SEP]reticulate	manner of	change<|endoftext|>
+prerequisite	include passing	a series of written examinations[SEP]pass university exams	has prerequisite	know stuff<|endoftext|>
+garden hose	be	a garden hose[SEP]garden hose	at location	yard<|endoftext|>
+empathy	be	more important[SEP]understanding better	used for	empathy<|endoftext|>
+polar bear	be found on	land[SEP]polar bear	at location	artic<|endoftext|>
+big toe	bend toward	other toes[SEP]big toe	part of	foot<|endoftext|>
+chest	be	helpful form of storage[SEP]chest	used for	storage<|endoftext|>
+happiness	lead to	success[SEP]success	capable of	bring joy<|endoftext|>
+human	live in	china[SEP]human	at location	china<|endoftext|>
+machinery	be used in	construction[SEP]machinery	used for	work<|endoftext|>
+crop	be grown with	synthetic fertilizers[SEP]making grow	has subevent	add fertilizer<|endoftext|>
+people	manage	pain[SEP]people	capable of	suffer pain<|endoftext|>
+living room	be furnished with	a coffee table[SEP]typical livingroom	has a	coffee table<|endoftext|>
+homeowner	mow	their lawns[SEP]homeowner	capable of	mow lawn<|endoftext|>
+squirrel	live in	tree[SEP]squirrel	at location	tree<|endoftext|>
+restaurant	serve	fresh seafood[SEP]seafood restaurant	used for	serving fish<|endoftext|>
+fish	be in	the pond[SEP]fish	at location	pond<|endoftext|>
+people	be capable to	contact others[SEP]people	capable of	call people<|endoftext|>
+dream	be associated with	rem sleep[SEP]dreaming	has subevent	rem sleep<|endoftext|>
+church	be used for	mass[SEP]church	used for	worship<|endoftext|>
+teacher	identify	studentsstrengths[SEP]teacher	capable of	list students<|endoftext|>
+run	be	[SEP]run	manner of	be<|endoftext|>
+platform	be designed for	use[SEP]platform	used for	supporting<|endoftext|>
+jewelry	include	necklace[SEP]necklace	used for	jewelry<|endoftext|>
+person	take	bath[SEP]human	capable of	take bath<|endoftext|>
+thunderstorm	cause	damage[SEP]thunderstorm	causes	destruction<|endoftext|>
+real estate agent	worked with	many properties[SEP]real estate agent	used for	selling property<|endoftext|>
+heat	be used for	cooling[SEP]cooling off	used for	reducing body temperature<|endoftext|>
+people	be able to	speak[SEP]people	capable of	speak words<|endoftext|>
+problem	solve	thinking[SEP]thinking	used for	solve problems<|endoftext|>
+politician	be	honest[SEP]politician	capable of	look honest<|endoftext|>
+condition	be associated with	rem sleep[SEP]going to sleep	causes	will experience rem sleep<|endoftext|>
+state	change	the way[SEP]come to	manner of	change state<|endoftext|>
+forest	be	stream[SEP]stream	at location	forest<|endoftext|>
+piano	be used for	concert[SEP]playing piano	used for	entertainment<|endoftext|>
+calculator	be easy to	use[SEP]add up numbers	has prerequisite	turn on calculator<|endoftext|>
+house	use	original materials[SEP]house	made of	building material<|endoftext|>
+denture	be fitted for	your mouth[SEP]dentures	at location	mouth<|endoftext|>
+screen	be	appropriate[SEP]screen	manner of	choose<|endoftext|>
+watt	be	a unit of power[SEP]unit of power	defined as	watt<|endoftext|>
+hand	lead	the body[SEP]hand	manner of	lead<|endoftext|>
+roller coaster	be	popular amusement ride[SEP]roller coaster	at location	carnival<|endoftext|>
+pitcher	throw	fastball[SEP]pitcher	capable of	throw fast ball<|endoftext|>
+rug	be placed on	the floor[SEP]rug	used for	for covering floor<|endoftext|>
+city	be filled with	cinema[SEP]cinema	at location	every big city<|endoftext|>
+firearm	be used for	humane killing of animals[SEP]gun	used for	killing animals<|endoftext|>
+dog	sense	danger[SEP]dogs	capable of	sense danger<|endoftext|>
+fun	reduce	stress[SEP]having fun	used for	lowering stress<|endoftext|>
+generosity	give	support[SEP]generosity	causes desire	help<|endoftext|>
+waste	be used as	raw material[SEP]waste	distinct from	usable<|endoftext|>
+alarm clock	be	clock[SEP]alarm clock	used for	clock time<|endoftext|>
+cupboard	be stocked with	pot[SEP]pot	at location	cupboard<|endoftext|>
+scalpel	be used for	surgery[SEP]scalpel	used for	cutting<|endoftext|>
+student	be able to	spend time[SEP]student	capable of	spend time on and assignment<|endoftext|>
+image	illustrate	the text[SEP]illustrate	manner of	picture<|endoftext|>
+change	be	captured[SEP]capture	manner of	change<|endoftext|>
+plant	include	radish[SEP]radish	part of	radish plant<|endoftext|>
+region	include	tanzania[SEP]tanzania	part of	east africa<|endoftext|>
+person	give	hug[SEP]person	desires	nice hug<|endoftext|>
+glass	be used for	bottle[SEP]glass	used for	drinking<|endoftext|>
+fun	play for	beginner[SEP]play	has prerequisite	do fun<|endoftext|>
+tile	be used to form	wall and floor coverings[SEP]tile	used for	covering walls<|endoftext|>
+bed	provide	comfort[SEP]comfort	at location	bed<|endoftext|>
+town	have	buddhist temple[SEP]buddhists	at location	temple<|endoftext|>
+way	disinfect	surface[SEP]disinfect	manner of	clean<|endoftext|>
+wave	be	sound[SEP]wave	part of	sound<|endoftext|>
+surface	be	mirror[SEP]surface	at location	mirror<|endoftext|>
+fire	need	fuel[SEP]fire	capable of	need fuel<|endoftext|>
+castle	be built in	germany[SEP]castle	at location	germany<|endoftext|>
+silicone	be used in	breast implants[SEP]silicone	used for	augment breast size<|endoftext|>
+person	live	meaningful life[SEP]person	desires	have meaningful life<|endoftext|>
+altar	be used for	burnt offerings[SEP]altar	used for	sacrifices<|endoftext|>
+people	live in	town[SEP]people	at location	town<|endoftext|>
+fungus	grow in	area[SEP]fungus	at location	biology laboratory<|endoftext|>
+rotor	consist of	main shaft[SEP]rotor head	part of	main rotor<|endoftext|>
+actor	play	important role[SEP]role	used for	actor to play<|endoftext|>
+church	abound in	every city[SEP]church	at location	every town<|endoftext|>
+bacteria	be found in	the mouth[SEP]bacteria	at location	mouth<|endoftext|>
+heart attack	be known as	myocardial infarction[SEP]myocardial infarction	part of	heart attack<|endoftext|>
+potato	contain	carbohydrate[SEP]potatoes	has property	high in carbohydrates<|endoftext|>
+taboo	be	forbidding[SEP]taboo	manner of	restrict<|endoftext|>
+researcher	work at	the facility[SEP]researcher	at location	laboratory<|endoftext|>
+fungus	grow on	tree[SEP]fungus	capable of	grows on dead trees<|endoftext|>
+approach	use	microscope[SEP]examining thing	has subevent	use microscope<|endoftext|>
+case	be settled by	compromise[SEP]compromise	manner of	settle<|endoftext|>
+plot	be	planned[SEP]plot	manner of	plan<|endoftext|>
+taste	be	good[SEP]good taste	part of	style<|endoftext|>
+fireplace	sit	unused[SEP]fireplace	used for	relaxing in front of<|endoftext|>
+change	improve	posture[SEP]right	manner of	change posture<|endoftext|>
+inspector	can	determine[SEP]inspector	capable of	look for clues<|endoftext|>
+library	have	many books[SEP]library	has a	lots of books<|endoftext|>
+lawyer	be familiar with	procedure[SEP]lawyer	capable of	subject witness to examination<|endoftext|>
+goal	spend	money[SEP]spend money	motivated by goal	satisfy need<|endoftext|>
+porcupine	have	quill[SEP]quill	part of	porcupine<|endoftext|>
+home	be	website[SEP]home	at location	website<|endoftext|>
+buying	cost	a lot of money[SEP]buying	causes	spending lot of money<|endoftext|>
+good health	require	exercise[SEP]maintain good health	has prerequisite	exercise more<|endoftext|>
+marching band	consist of	percussion[SEP]percussion instrument	at location	marching band<|endoftext|>
+calculator	be	accurate[SEP]use calculator	motivated by goal	calculate numbers accurately<|endoftext|>
+dog	walk on	leash[SEP]walking dog	has prerequisite	leash<|endoftext|>
+club	meet at	place[SEP]club	at location	meeting place<|endoftext|>
+money	buy	christmas presents[SEP]buying christmas presents	used for	christmas time<|endoftext|>
+body	contain	a few centimeters of bowel[SEP]bowel	part of	body<|endoftext|>
+change	be for	the worse[SEP]worsen	manner of	change<|endoftext|>
+gallery	work with	museum[SEP]gallery	at location	museum<|endoftext|>
+course	focus on	conversational skills[SEP]having conversation	used for	developing conversational skills<|endoftext|>
+bus	be designed to carry	many passengers[SEP]bus	used for	carry people<|endoftext|>
+tower	be	historic castle[SEP]tower	at location	medieval castle<|endoftext|>
+speed	be	slow[SEP]speed	capable of	slow time<|endoftext|>
+health insurance	cover	cost[SEP]health insurance	capable of	cover emergency room costs<|endoftext|>
+tea	be made in	teapot[SEP]tea	at location	teapot<|endoftext|>
+machine	dispense	cigarette[SEP]machine	used for	dispense cigarettes<|endoftext|>
+club	hold	tournament[SEP]club	capable of	hold tournaments<|endoftext|>
+car	sit on	its wheels[SEP]car	has a	wheels<|endoftext|>
+mutation	use	quikchange site-directed mutagenesis kit[SEP]mutagenesis	part of	mutation<|endoftext|>
+part	be	stagnant[SEP]stagnate	manner of	be<|endoftext|>
+plant	grow in	pot[SEP]pot where plants	capable of	grow<|endoftext|>
+criminal	pick	lock[SEP]criminal	capable of	pick lock<|endoftext|>
+people	speak	different languages[SEP]people	capable of	speak languages<|endoftext|>
+medicine	be used to treat	other conditions[SEP]medicine	used for	healthy<|endoftext|>
+act	obstruct	justice[SEP]obstruct justice	has prerequisite	reconsider<|endoftext|>
+peace	not be	separated[SEP]confusion	distinct from	peace<|endoftext|>
+rifle	be	accurate[SEP]rifle	has property	more accurate than pistol<|endoftext|>
+approach	improve	self-esteem[SEP]improving yourself	causes	gain self esteem<|endoftext|>
+apartment	be located in	residential area[SEP]apartment house	at location	apartment complex<|endoftext|>
+website	create	desire[SEP]create website	motivated by goal	share interests and knowledge<|endoftext|>
+spoon	be used for	soup[SEP]spoon	used for	serving soup<|endoftext|>
+cup	be studded with	saucer[SEP]saucer	used for	hold cup<|endoftext|>
+ground floor	sit	room[SEP]floor	part of	room<|endoftext|>
+house	have	new plumbing[SEP]house	has a	plumbing<|endoftext|>
+detector	be connected to	the building fire alarm system[SEP]fire alarm	at location	building<|endoftext|>
+fluoride	prevent	tooth decay[SEP]fluoride mouthwash	used for	preventing tooth decay<|endoftext|>
+state	be	north korea[SEP]north korea	part of	asia<|endoftext|>
+change	be of	importance[SEP]vitalize	manner of	change<|endoftext|>
+desire	spend	more time[SEP]person	desires	more leisure time<|endoftext|>
+winter	spend	time[SEP]winter	manner of	spend<|endoftext|>
+restaurant	serve	italian cuisine[SEP]italian restaurant	used for	have meal<|endoftext|>
+pancreas	be	part of the digestive system[SEP]pancreas	part of	human digestive system<|endoftext|>
+human	drink	tea[SEP]person	desires	cup of tea<|endoftext|>
+fox	live in	forest[SEP]fox	at location	wooded areas<|endoftext|>
+skylight	provide	natural light[SEP]skylight	used for	let in natural light<|endoftext|>
+information	be shown on	the map[SEP]map	used for	information<|endoftext|>
+curtain	be same as	the curtain for kitchen[SEP]window curtain	at location	kitchen<|endoftext|>
+passenger	board	boat[SEP]passenger	capable of	board boat<|endoftext|>
+paper	present	area[SEP]paper	at location	sheaf<|endoftext|>
+poem	deal with	love[SEP]poem	capable of	fill with love<|endoftext|>
+count	be maintained by	the counter[SEP]counter	used for	count things<|endoftext|>
+student	be able to	choose courses[SEP]student	capable of	choose course curriculum<|endoftext|>
+knowing	facilitate	the learning of the language[SEP]learning language	used for	understanding cultures<|endoftext|>
+frying pan	be used for	frying[SEP]pan	used for	fry food<|endoftext|>
+park	play	area[SEP]play ground	at location	park<|endoftext|>
+temperature	be considered	fever[SEP]have fever	has subevent	get very warm body temperature<|endoftext|>
+way	get	buy-in[SEP]buy	manner of	get<|endoftext|>
+toothpaste	contain	fluoride[SEP]fluoride toothpaste	used for	keeping mouth healthy<|endoftext|>
+mountain	collect	block sunlight[SEP]large mountains	capable of	block sunlight<|endoftext|>
+cattle	be fed	silage[SEP]silage	used for	feed cattle<|endoftext|>
+injury	play	sport[SEP]playing	causes	injury<|endoftext|>
+course	manage	operation[SEP]direct	manner of	manage<|endoftext|>
+exercise	play	sport[SEP]playing sport	used for	exercise<|endoftext|>
+speaker	pronounce	word[SEP]raise	manner of	pronounce<|endoftext|>
+newspaper	feature	article[SEP]news item	part of	newspaper<|endoftext|>
+lemur	live in	the wild[SEP]lemur	at location	wilderness<|endoftext|>
+dancer	participate in	the competition[SEP]dancer	capable of	dance in competition<|endoftext|>
+eating	lead to	obesity[SEP]having lunch	causes	obesity<|endoftext|>
+condition	cause	cramp[SEP]running	causes	getting cramp<|endoftext|>
+part	be used to make	hair gels[SEP]gel	used for	keep hair in place<|endoftext|>
+keyboard	be used to type	text[SEP]keyboard	used for	type on<|endoftext|>
+shower	be found in	bathroom[SEP]shower	at location	bath room<|endoftext|>
+mercury	be	the second densest planet[SEP]mercury	defined as	densest planet in solar system<|endoftext|>
+baby	have	three parents[SEP]babies	has a	father and mother<|endoftext|>
+wine	be stored in	cellar[SEP]wine cellar	used for	storage<|endoftext|>
+catheter	be used to drain	fluid[SEP]one type of catheter	used for	effect bladder drainage<|endoftext|>
+tree	require	ladder[SEP]ladder	used for	climbing tree<|endoftext|>
+goal	be to improve	quality of life[SEP]make better world	motivated by goal	higher quality of life<|endoftext|>
+carbohydrate	be composed of	oxygen[SEP]carbohydrate	has a	carbon hydrogen and oxygen<|endoftext|>
+garden hose	be	a garden hose[SEP]garden hose	at location	back yard<|endoftext|>
+clothing	cover	the body[SEP]clothes	used for	cover and beautify people's body<|endoftext|>
+patent	relate to	product[SEP]patent reference	part of	patent<|endoftext|>
+marble	be in	the jar[SEP]marble	at location	jar<|endoftext|>
+child	get	lost[SEP]child	capable of	get lost<|endoftext|>
+door	be secured by	lock[SEP]lock	part of	door<|endoftext|>
+blimp	be filled with	helium[SEP]blimps	receives action	filled with helium<|endoftext|>
+loom	be used to weave	saree[SEP]loom	used for	weave cloth<|endoftext|>
+cafe	serve	dessert[SEP]cafe	used for	serving desserts<|endoftext|>
+house	be used as	permanent residence[SEP]house	used for	residency<|endoftext|>
+leather	be used to make	saddle[SEP]leather	used for	make saddles<|endoftext|>
+region	include	el salvador[SEP]el salvador	part of	central america<|endoftext|>
+rust	be	iron[SEP]iron	capable of	rust<|endoftext|>
+product	be supplied to	lots of factories[SEP]factories	capable of	produce lot<|endoftext|>
+bicycle	have	two wheels[SEP]bicycle	has a	two wheels and pedals<|endoftext|>
+farmer	manage	their land[SEP]farmers	capable of	farm land<|endoftext|>
+people	cook	food[SEP]people	capable of	cook delicious food<|endoftext|>
+country	be located in	this region[SEP]country	at location	region<|endoftext|>
+mirror	reflect	light[SEP]mirror	used for	light reflection<|endoftext|>
+cafe	serve	espresso[SEP]cafe	used for	have espresso<|endoftext|>
+forklift	be used in	warehouse[SEP]forklift	used for	doing warehouse work<|endoftext|>
+winery	use	grape[SEP]grape	at location	winery<|endoftext|>
+child	play in	the park[SEP]kid	at location	park<|endoftext|>
+pledge	be	promise[SEP]pledge	manner of	promise<|endoftext|>
+church	be used for	wedding[SEP]church	used for	weddings<|endoftext|>
+advice	be given after	individual consultation[SEP]consult	manner of	advise<|endoftext|>
+change	be reflected in	vice[SEP]stratify	manner of	change<|endoftext|>
+ammunition	be used in	handgun[SEP]ammunition	at location	gun<|endoftext|>
+gun	be used in	the shooting[SEP]gun down	manner of	shoot<|endoftext|>
+debit card	be used at	atm[SEP]debit card	capable of	get money from atm machine<|endoftext|>
+spectrum	include	red[SEP]red	part of	spectrum<|endoftext|>
+stress	cause	irritation[SEP]working	causes	stress and irritation<|endoftext|>
+dog	be likely to	bite[SEP]dog	capable of	bite<|endoftext|>
+mental illness	be associated with	distress[SEP]mental illness	capable of	cause severe disturbance<|endoftext|>
+museum	feature	artifact[SEP]artifact	at location	museum<|endoftext|>
+real estate agent	not give	legal advice[SEP]real estate agent	capable of	misrepresent<|endoftext|>
+food	read	label[SEP]have food	has subevent	reading labels<|endoftext|>
+credit card	be used for	the purchase[SEP]credit	used for	make purchases<|endoftext|>
+trust	be	belief[SEP]trust	part of	faith<|endoftext|>
+river	erode	rock[SEP]water	capable of	erode rock formations<|endoftext|>
+ozone	be found in	the stratosphere[SEP]ozone layer	part of	stratosphere<|endoftext|>
+news	be handled in	the stock market[SEP]know how stock market performed	has prerequisite	read news paper<|endoftext|>
+grade	be based on	midterm[SEP]taking midterm	used for	figuring out appropriate grade<|endoftext|>
+birth control	be known as	contraception[SEP]birth control pill	used for	contraception<|endoftext|>
+circuit board	include	circuitry[SEP]circuitry	capable of	on board<|endoftext|>
+disease	be treated by	doctor[SEP]doctor	used for	diagnose illnesses<|endoftext|>
+bird	be	overhead[SEP]bird	at location	sky<|endoftext|>
+money	pay for	living expenses[SEP]earning living	used for	paying bills<|endoftext|>
+allergy	cause	scrubbing[SEP]cleaning	causes	allergies<|endoftext|>
+exercise	stay	healthy[SEP]staying healthy	has subevent	exercise<|endoftext|>
+piano	have	soundboard[SEP]soundboard	part of	piano<|endoftext|>
+desire	read	book[SEP]person	desires	read well written book<|endoftext|>
+positron	have	positive charge[SEP]positron	has a	positive electric charge<|endoftext|>
+sun	shine in	summer[SEP]sunshine	at location	summer<|endoftext|>
+skin	treat	acne[SEP]acne medication	used for	clearing up skin<|endoftext|>
+filter	be	separate[SEP]filter	manner of	separate<|endoftext|>
+food	be included in	meal[SEP]eat	has prerequisite	prepare meal<|endoftext|>
+car	fail to stop at	a stop sign[SEP]driving car	has subevent	stopping at stop sign<|endoftext|>
+proton	have	positive charge[SEP]protons	has a	positive charge<|endoftext|>
+people	live in	new homes[SEP]people	has a	more than one homes<|endoftext|>
+patio	overlook	garden[SEP]patio	at location	garden<|endoftext|>
+chapel	be used for	wedding[SEP]wedding chapel	used for	conducting wedding ceremony<|endoftext|>
+religion	have	many gods[SEP]religions	has a	very many gods<|endoftext|>
+barn	store	hay[SEP]hay	at location	barn<|endoftext|>
+church	be	carpeted[SEP]carpet	at location	church<|endoftext|>
+soap	be used to wash	hand[SEP]soap	capable of	wash hands<|endoftext|>
+light bulb	be used in	lamp[SEP]lamp	used for	light<|endoftext|>
+park	have	picnic tables[SEP]picnic table	at location	state park<|endoftext|>
+goal	learn	new things[SEP]learn	motivated by goal	need to know things<|endoftext|>
+museum	cover	sculpture[SEP]museum	at location	sculpture<|endoftext|>
+restaurant	be located in	japan[SEP]japanese restaurant	at location	major city<|endoftext|>
+cook	cook	other side[SEP]cook	Entails	cook<|endoftext|>
+people	doubt	everything[SEP]people	capable of	doubt people<|endoftext|>
+eyelid	be made up of	the conjunctiva[SEP]conjunctiva	part of	eyelid<|endoftext|>
+dining room	be used for	dining[SEP]dining room	used for	family meals<|endoftext|>
+owner	sign	check[SEP]owner	capable of	sign check<|endoftext|>
+use	retain	right[SEP]retain	manner of	keep<|endoftext|>
+bottle	be used for	beverage[SEP]bottle	used for	keeping liquid in<|endoftext|>
+doctor	check	vital[SEP]doctor	capable of	check vital signs<|endoftext|>
+pub	be located in	the city centre[SEP]pub	at location	english town or city<|endoftext|>
+anxiety	interfere with	work[SEP]returning to work	causes	anxiety<|endoftext|>
+soccer ball	be	kicked[SEP]play soccer	has subevent	kick soccer ball<|endoftext|>
+dog	turn around with	ease[SEP]dog	capable of	turn over<|endoftext|>
+master bedroom	be located on	main floor[SEP]master bedroom	defined as	main bedroom in dwelling<|endoftext|>
+dress	be stored in	a garment bag[SEP]garment bag	used for	store dresses<|endoftext|>
+amusement park	feature	ferris wheel[SEP]rides like ferris wheel	at location	carnival<|endoftext|>
+bunsen burner	be	device[SEP]bunsen burner	at location	laboratory<|endoftext|>
+garden	be used to grow	vegetable[SEP]vegetable garden	used for	growing food<|endoftext|>
+pool	be used for	swimming[SEP]pool	used for	swimming<|endoftext|>
+forklift	pick up	the pallet[SEP]forklift	used for	lifting and moving unloaded pallets<|endoftext|>
+ball bearing	use	ball[SEP]ball	at location	bearing<|endoftext|>
+student	complete	study[SEP]student	capable of	complete course of study<|endoftext|>
+person	have	desire[SEP]person	desires	have whatever want<|endoftext|>
+computer keyboard	use	an arrangement of buttons[SEP]buttons	used for	make keyboard work<|endoftext|>
+money	buy	beer[SEP]buy beer	has subevent	pay money<|endoftext|>
+guard	patrol	the area[SEP]patrol	manner of	guard<|endoftext|>
+chef	prepare	sauce[SEP]chef	capable of	cook with sauce<|endoftext|>
+information	use	pen[SEP]pen	used for	write down important information<|endoftext|>
+university	include	cornell[SEP]cornell university	part of	new york<|endoftext|>
+doctor	wear	a white lab coat[SEP]doctor	capable of	wear lab coat<|endoftext|>
+potato	cook in	the instant pot[SEP]potato	at location	cooking pot<|endoftext|>
+paper	be made of	cellulose[SEP]paper	made of	cellulose<|endoftext|>
+baker	make	bread[SEP]bread	created by	baker<|endoftext|>
+prerequisite	be required to be considered for	honors research[SEP]studying for subject	has prerequisite	interest<|endoftext|>
+gardener	plant	tree[SEP]gardener	capable of	plant tree<|endoftext|>
+welder	work in	manufacturing[SEP]welder	at location	welding shop<|endoftext|>
+school	bus	student[SEP]school children	at location	bus<|endoftext|>
+production line	consist of	etc[SEP]production line	used for	product<|endoftext|>
+detergent	be indicated for	hand cleaning[SEP]detergent	used for	cleaning<|endoftext|>
+space station	orbit	the earth[SEP]space station	at location	orbit<|endoftext|>
+estate	go to	the state[SEP]estate	part of	state<|endoftext|>
+door	close	all the way[SEP]door	capable of	close<|endoftext|>
+hydrogen	produce	water[SEP]water	made of	hydrogen and oxygen<|endoftext|>
+computer	control	electric fans[SEP]electric fan	at location	computer<|endoftext|>
+office building	contain	space[SEP]office	part of	office building<|endoftext|>
+cleanliness	follow to	godliness[SEP]cleanliness	has property	next to godliness<|endoftext|>
+chip	be made of	silicon[SEP]computer chip	made of	silicon<|endoftext|>
+couple	see	counselor[SEP]couple	capable of	see counselor<|endoftext|>
+clothing	be made of	denim[SEP]denim	used for	clothes<|endoftext|>
+mobile phone	be used to make	call[SEP]making phone call	used for	accessing internet<|endoftext|>
+condom	prevent	pregnancy[SEP]condom	used for	preventing pregnancy<|endoftext|>
+snare drum	be used in	orchestra[SEP]snare drum	used for	percussion<|endoftext|>
+name	be used for	identification purposes[SEP]name	used for	identify or<|endoftext|>
+sorrow	lead to	repentance[SEP]sorrow	causes desire	forgive<|endoftext|>
+nervous system	consist of	autonomic nervous system[SEP]autonomic nervous system	part of	nervous system<|endoftext|>
+hedgehog	use	its quills[SEP]quill	part of	hedgehog<|endoftext|>
+jellyfish	be found in	every ocean[SEP]jellyfish	at location	warm sea<|endoftext|>
+ceiling	cover	upper limits of a room[SEP]ceiling	defined as	top edge of room<|endoftext|>
+way	exploit	the system[SEP]use	manner of	exploit<|endoftext|>
+natural gas	fuel	stove[SEP]stove	capable of	electric or natural gas<|endoftext|>
+fungus	thrive in	damp[SEP]fungus	at location	dark damp area<|endoftext|>
+warehouse	store	supply[SEP]warehouse	capable of	store goods<|endoftext|>
+fast food	be cooked in	microwave oven[SEP]microwave oven	capable of	cook food very quickly<|endoftext|>
+football	be known as	soccer[SEP]football	defined as	correct name for soccer<|endoftext|>
+health	remain	good[SEP]maintaining good health	has subevent	good<|endoftext|>
+poll	be	survey[SEP]poll	manner of	survey<|endoftext|>
+affiliate	join	the program[SEP]affiliate	manner of	join<|endoftext|>
+flour	be used to make	bread[SEP]flour	receives action	used in making bread to eat<|endoftext|>
+conversation	cover	wide range of topics[SEP]conversation	capable of	branch into many topics<|endoftext|>
+coffee mug	be used for	coffee[SEP]mug	used for	put coffee in<|endoftext|>
+communication	use	telephone[SEP]telephones	used for	communication<|endoftext|>
+scientist	be n’t	perfect[SEP]scientist	capable of	perfect theory<|endoftext|>
+restaurant	have	friendly atmosphere[SEP]good restaurants	has a	nice atmosphere<|endoftext|>
+desire	know	god[SEP]person	desires	know god<|endoftext|>
+foot	be able to	move[SEP]with feet	capable of	step forward<|endoftext|>
+sport	require	coordination[SEP]playing sport	has prerequisite	coordination<|endoftext|>
+way	raise	question[SEP]call up	manner of	raise<|endoftext|>
+balcony	be made of	wood[SEP]balcony railing	made of	wood or metal<|endoftext|>
+dining room	be used for	dining[SEP]dining room	used for	eating meals in<|endoftext|>
+cat	love	milk[SEP]cat	desires	milk<|endoftext|>
+weapon	be made of	stone[SEP]stone	used for	weapon<|endoftext|>
+ice hockey	use	stick[SEP]hockey stick	used for	play hockey<|endoftext|>
+ship	turn	head[SEP]head	at location	ship<|endoftext|>
+information	be used for	new purpose[SEP]piece of information	used for	learn new<|endoftext|>
+course	do	justice[SEP]do justice	manner of	prize<|endoftext|>
+website	not limited to	video[SEP]website	capable of	streaming video<|endoftext|>
+source	cause	ringing telephone[SEP]making phone call	causes	rings<|endoftext|>
+expression	signal	disgust[SEP]disgust	manner of	stimulate<|endoftext|>
+doctor	be able to	remain[SEP]doctor	capable of	still patient<|endoftext|>
+toolbox	be found in	personal garages[SEP]tool box	at location	garage<|endoftext|>
+person	listen to	radio[SEP]person	capable of	listen to radio<|endoftext|>
+cash	be used to purchase	product[SEP]paying cash	used for	purchasing products<|endoftext|>
+piece	use	paper[SEP]piece of paper	used for	write stuff on<|endoftext|>
+actor	wear	costume[SEP]actor	capable of	put on costume<|endoftext|>
+information	not limited to	text[SEP]text	used for	passing on information<|endoftext|>
+homeless	find	shelter[SEP]homeless person	desires	shelter<|endoftext|>
+human body	be composed of	trillions of cells[SEP]human body	has a	billions of cells<|endoftext|>
+person	feel	special[SEP]person	desires	special<|endoftext|>
+people	play	chess[SEP]people	desires	play chess with other people<|endoftext|>
+fabric	be used for	clothe[SEP]cloth	used for	clothes<|endoftext|>
+exercise	promote	relaxation[SEP]getting exercise	used for	relaxation<|endoftext|>
+eating	cause	digestive problems[SEP]having lunch	causes	digestion<|endoftext|>
+way	store	pencil[SEP]pencils	at location	store<|endoftext|>
+food	stand inside	the park[SEP]food	at location	park<|endoftext|>
+sun	dry	everything[SEP]sun	capable of	dry almost everything<|endoftext|>
+good health	require	exercise[SEP]maintain good health	has prerequisite	get exercise<|endoftext|>
+person	not have	desire[SEP]person	desires	not to die<|endoftext|>
+approach	do	justice[SEP]do justice	manner of	treat<|endoftext|>
+people	have	ear[SEP]people	has a	ears<|endoftext|>
+pool	be used for	swimming[SEP]swimming pool	used for	play<|endoftext|>
+farmer	be able to	grow crops[SEP]farmer	capable of	grow plants<|endoftext|>
+diver	use	snorkel[SEP]snorkel	manner of	dive<|endoftext|>
+summer	sip	lemonade[SEP]lemonade	at location	summer<|endoftext|>
+nitrogen	be in	the air[SEP]nitrogen	at location	air<|endoftext|>
+money	be used for	job[SEP]getting job	used for	money<|endoftext|>
+human	be	alien[SEP]human	distinct from	alien<|endoftext|>
+calculator	be	helpful[SEP]using calculator	has prerequisite	numbers<|endoftext|>
+employer	be required to pay	employee[SEP]employer	capable of	require employee to work<|endoftext|>
+opportunity	jump at	the chance[SEP]jumping at chance	has prerequisite	taking opportunity<|endoftext|>
+testimony	be given in	court[SEP]hear testimony	has prerequisite	in courtroom<|endoftext|>
+police	force	entry[SEP]police	capable of	force entry<|endoftext|>
+mind	influence	each other[SEP]minding one's actions	capable of	influence others<|endoftext|>
+ink	be used in	fountain pens[SEP]fountain pen	receives action	filled with ink<|endoftext|>
+cat	see	the mouse[SEP]mouse	at location	cat<|endoftext|>
+family	have	same last name[SEP]families	has a	same last name<|endoftext|>
+party	celebrate	birthday[SEP]party	used for	celebrate birthday<|endoftext|>
+calculation	use	calculator[SEP]calculator	used for	doing arithmetic calculations accurately<|endoftext|>
+bedroom	be found on	different sides of the home[SEP]bedroom	part of	dwelling<|endoftext|>
+cat	see in	the dark[SEP]cat's eyes	capable of	shine in dark<|endoftext|>
+whale	be close to	shore[SEP]whale	at location	ocean<|endoftext|>
+birth control	be known as	contraception[SEP]birth control pill	used for	preventing conception<|endoftext|>
+lake	be used for	recreation[SEP]lake	used for	boating<|endoftext|>
+poverty	affect	family[SEP]starting family	causes	poverty<|endoftext|>
+cat	have	a litter of kittens[SEP]cats	has a	kittens<|endoftext|>
+park	have	a baseball diamond[SEP]baseball diamond	at location	park<|endoftext|>
+toothpaste	freshen	breath[SEP]gel toothpaste	used for	fresh breath<|endoftext|>
+country	be	central african republic[SEP]central african republic	part of	africa<|endoftext|>
+citizen	air	their grievances[SEP]people	capable of	air grievances<|endoftext|>
+tooth	chew	food[SEP]tooth	used for	chewing food<|endoftext|>
+leather	be used to make	belt[SEP]leather	used for	make belts<|endoftext|>
+home	feature	wine cellar[SEP]wine	at location	wine cellar<|endoftext|>
+information	use	tv[SEP]information	at location	television<|endoftext|>
+civil disobedience	be	necessary[SEP]civil disobedience	causes desire	obstruct justice<|endoftext|>
+cholesterol	be	harmful[SEP]cholesterol	has property	considered bad for heart<|endoftext|>
+bulimia	be	eating disorder[SEP]bulimia	defined as	commonest eating disorder<|endoftext|>
+day	be defined as	beginning at sunset[SEP]day	defined as	time from sunrise to sunset<|endoftext|>
+market	sell	clothing[SEP]market	used for	selling clothes<|endoftext|>
+lake	be within	the county of cumbria[SEP]lake district	part of	cumbria<|endoftext|>
+scientist	discover	truth[SEP]determining truth	used for	scientist<|endoftext|>
+island	visit in	the caribbean[SEP]caribbean island	part of	caribbean<|endoftext|>
+death	be caused by	drunk driving[SEP]drunk driving	causes	getting killed<|endoftext|>
+apartment	consist of	living room[SEP]living room	at location	apartment<|endoftext|>
+laughter	bring	joy[SEP]laughter	created by	happiness<|endoftext|>
+forest	feature	pond[SEP]pond	at location	forest<|endoftext|>
+people	drink	champagne[SEP]people	desires	drink champagne on special occasions<|endoftext|>
+library	provide	literature[SEP]literature	at location	library<|endoftext|>
+fall	be	term[SEP]fall	manner of	be<|endoftext|>
+typing	cause	carpal tunnel syndrome[SEP]typing extensively on keyboard	has a	effect of carpal tunnel syndrome<|endoftext|>
+change	affect	society[SEP]changing society society	causes	changed<|endoftext|>
+run	put	the tide[SEP]tide	manner of	run<|endoftext|>
+emu	be native to	australia[SEP]emu	has property	native to australia<|endoftext|>
+person	have	property[SEP]person	has property	singular for people<|endoftext|>
+ball	roll at	speed[SEP]ball	capable of	roll<|endoftext|>
+mental illness	be caused by	chemical imbalances[SEP]having nervous breakdown	used for	people with chemical imbalance<|endoftext|>
+wine	be stored in	cellar[SEP]wine cellar	used for	properly storing wine<|endoftext|>
+rifle	be	bolt[SEP]bolt	part of	rifle<|endoftext|>
+cpu	stand for	central processing unit[SEP]cpu board	part of	central processing unit<|endoftext|>
+preposition	be followed by	pronoun[SEP]preposition	distinct from	pronoun<|endoftext|>
+paint	be applied with	brush[SEP]brush	used for	paint<|endoftext|>
+condo	be located in	area[SEP]condo	at location	suburbia<|endoftext|>
+tree	add	beauty[SEP]tree	used for	add beauty<|endoftext|>
+newspaper	publish	column[SEP]column	part of	newspaper<|endoftext|>
+ground floor	house	office[SEP]ground floor	at location	office building<|endoftext|>
+electric heater	fit into	compact spaces[SEP]heater	used for	warm proximate space<|endoftext|>
+apple pie	be	made[SEP]apple	used for	making pie<|endoftext|>
+sun	go down	the temperature[SEP]sun goes down	has subevent	temperature lowers<|endoftext|>
+robot	be used in	manufacturing[SEP]robot	used for	building things<|endoftext|>
+file	contain	data[SEP]file	has a	data<|endoftext|>
+arthritis	affect	multiple joints[SEP]arthritis	capable of	may joints hurt<|endoftext|>
+food	be stored in	freezer[SEP]have food	has first subevent	put frozen items in freezer<|endoftext|>
+period	end	sentence[SEP]period	used for	marking end of sentence<|endoftext|>
+basement	be referred as	the cellar[SEP]basement	at location	cellar<|endoftext|>
+worker	join	union[SEP]worker	capable of	join union<|endoftext|>
+billboard	use	sensor[SEP]billboard	used for	communication<|endoftext|>
+politician	seek	power[SEP]politician	desires	power<|endoftext|>
+nutmeg	be	traditional ingredient[SEP]nutmeg	part of	nutmeg<|endoftext|>
+fire	warm	house[SEP]fire	capable of	warm house<|endoftext|>
+horse	be in	stall[SEP]horse	capable of	go into stall<|endoftext|>
+clock	be placed on	table[SEP]clock	at location	table<|endoftext|>
+court	be used to resolve	dispute[SEP]court system	used for	resolving disputes<|endoftext|>
+supermarket	sell	milk[SEP]grocery store	used for	buying milk<|endoftext|>
+dining area	have	seating[SEP]dining area	at location	resturant<|endoftext|>
+arm	hold	hand[SEP]hand	capable of	hand<|endoftext|>
+garden	be used to grow	vegetable[SEP]vegetable garden	used for	growing own vegetables<|endoftext|>
+information	identify	source[SEP]finding information	used for	gathering facts<|endoftext|>
+firefighter	put out	the fire[SEP]firefighter	capable of	put out fire<|endoftext|>
+change	be	accelerated[SEP]accelerate	manner of	change<|endoftext|>
+carpenter	be able to	sustain the structure[SEP]carpenter	capable of	build stable<|endoftext|>
+tube	drain	fluid[SEP]drain	capable of	tube<|endoftext|>
+family room	have	tv[SEP]family room	used for	watching tv<|endoftext|>
+person	feel	safe[SEP]person	desires	feel safe<|endoftext|>
+claim	be	reconsidered[SEP]requisition	manner of	claim<|endoftext|>
+black hole	be found in	the universe[SEP]black holes	at location	universe<|endoftext|>
+evolution	be	adaptation[SEP]adaptation	part of	evolution<|endoftext|>
+tomorrow	be same as	today[SEP]day before yesterday	distinct from	tomorrow<|endoftext|>
+foot	contain	12 inches[SEP]foot	has a	twelve inches<|endoftext|>
+health	stay	healthy[SEP]staying healthy	used for	keeping fit<|endoftext|>
+fishing	be good for	rainbow trout[SEP]fishing	used for	catching rainbow trout<|endoftext|>
+calculator	perform	subtraction[SEP]using calculator	has subevent	subtraction<|endoftext|>
+wardrobe	be utilized in	movie productions[SEP]wardrobe	used for	movie set<|endoftext|>
+beam	support	the roof[SEP]beam	used for	support roof<|endoftext|>
+knight	play	chess[SEP]chess knight	at location	chess board<|endoftext|>
+working	challenge at	time[SEP]challenge	at location	work<|endoftext|>
+baby	be exposed to	sudden loud noises[SEP]baby	capable of	fear loud noises<|endoftext|>
+brain	be located in	the medulla oblongata[SEP]medulla oblongata	part of	brainstem<|endoftext|>
+mashed potato	be	delicious[SEP]mashed potato	at location	dinner<|endoftext|>
+plant	use	water[SEP]water	used for	give plants drink<|endoftext|>
+goal	make	a lot of money[SEP]spend money	motivated by goal	have lot of money<|endoftext|>
+fire	cause	heat[SEP]starting fire	causes	heat<|endoftext|>
+wisdom	use	knowledge[SEP]wisdom	has property	more than just knowledge<|endoftext|>
+person	wear	hat[SEP]person	capable of	put on hat<|endoftext|>
+coin	be used to buy	food[SEP]coin	used for	paying for food<|endoftext|>
+person	want	revenge[SEP]person	desires	revenge for serious wrong<|endoftext|>
+scapegoat	take	the blame[SEP]scapegoat	capable of	shoulder blame<|endoftext|>
+bedroom	be at	the front of the house[SEP]bedroom	at location	house<|endoftext|>
+ship	carry	other aircraft[SEP]ships	capable of	carry aeroplanes<|endoftext|>
+gun	be used in	the shooting[SEP]gun	used for	shoot<|endoftext|>
+town	have	many part-time residents[SEP]town	used for	containing residents<|endoftext|>
+hotel	be located in	a resort area[SEP]resort hotel	part of	resort area<|endoftext|>
+food	be stored as	kitchen[SEP]kitchen	used for	storing food<|endoftext|>
+diver	use	scuba[SEP]becoming scuba diver	used for	exploration<|endoftext|>
+bar	enjoy	drink[SEP]bar place	capable of	go to drink<|endoftext|>
+application	be shown in	the diagram[SEP]diagram	at location	demonstration<|endoftext|>
+toothpaste	prevent	gum disease[SEP]gel toothpaste	used for	preventing gum disease<|endoftext|>
+news	be	interesting[SEP]interesting news	capable of	grab attention<|endoftext|>
+tire	be	pneumatic[SEP]casing	part of	pneumatic tire<|endoftext|>
+paper	be used for	writing[SEP]paper	used for	education<|endoftext|>
+problem	grow	bigger[SEP]making grow	causes	gets bigger<|endoftext|>
+lamp	sit on	table[SEP]night table	used for	holding lamp<|endoftext|>
+backyard	feature	pool[SEP]pool	at location	backyard<|endoftext|>
+desire	do	his will[SEP]will	manner of	desire<|endoftext|>
+card	provide	contact information[SEP]card	used for	give out contact details<|endoftext|>
+way	read	news[SEP]reading news	used for	informed<|endoftext|>
+education	be provided by	university[SEP]education	at location	university<|endoftext|>
+information	be used for	research[SEP]piece of information	used for	researching<|endoftext|>
+sunset	be	beautiful[SEP]beautiful sunset	capable of	blow away<|endoftext|>
+child	take	music lessons[SEP]child	capable of	take music lessons<|endoftext|>
+kitchen	become besides	meal preparation[SEP]kitchen	used for	food preparation area<|endoftext|>
+wax	be used in	candle[SEP]wax	capable of	bu used in candles<|endoftext|>
+inner ear	consist of	the cochlea[SEP]cochlea	part of	inner ear<|endoftext|>
+bite	feel	uneven[SEP]bite	manner of	ache<|endoftext|>
+neighbor	bang on	the door[SEP]door	at location	neighbor's house<|endoftext|>
+field	grow	wheat[SEP]wheat	used for	growing in field<|endoftext|>
+utopia	be	community[SEP]utopia	created by	community<|endoftext|>
+money	be paid for	work[SEP]getting paid	used for	work<|endoftext|>
+cart	be pulled by	horse[SEP]cart	capable of	follow horse<|endoftext|>
+support	give	way[SEP]support	manner of	give<|endoftext|>
+lizard	be	cold-blooded[SEP]lizard	has property	cold blooded<|endoftext|>
+information	not limited to	article[SEP]article in newspaper	used for	learn information<|endoftext|>
+tank	store	hose[SEP]hose	at location	shop<|endoftext|>
+door	separate	room[SEP]door	used for	separating rooms<|endoftext|>
+exercise	improve	health[SEP]exercising	causes	good health<|endoftext|>
+city	be served by	highway[SEP]highway	used for	drive to another city<|endoftext|>
+face	have	mouth[SEP]mouth	part of	face<|endoftext|>
+table	be set with	cup[SEP]set cup on table	has prerequisite	walk to table<|endoftext|>
+way	have	interaction[SEP]have	manner of	interact<|endoftext|>
+radiator	be designed to provide	high cooling performance[SEP]radiator	capable of	heat room<|endoftext|>
+steam	open	pore[SEP]steam	capable of	open pores<|endoftext|>
+mushroom	grow on	tree[SEP]mushroom	at location	tree<|endoftext|>
+shrinkage	be	minimal[SEP]shrink	manner of	decrease<|endoftext|>
+information	not limited to	article[SEP]article in magazine	used for	giving information<|endoftext|>
+park	have	picnic benches[SEP]benches to sit on	at location	park<|endoftext|>
+cigarette	cause	death[SEP]cigarettes	capable of	cause disease and death<|endoftext|>
+payment	use	check[SEP]paying by check	used for	convenience<|endoftext|>
+eating	cause	gas[SEP]eating too much	causes	gas<|endoftext|>
+change	be not	comfortable[SEP]tone down	manner of	change<|endoftext|>
+nicotine	be	addictive[SEP]nicotine	has property	addictive<|endoftext|>
+dining area	serve	dinner[SEP]restaurant dining area	used for	dinner served in courses<|endoftext|>
+people	have	low energy levels[SEP]people	has a	naturally low energy personalities<|endoftext|>
+property	have	its own swimming pool[SEP]swimming pool	has property	one kind of pool<|endoftext|>
+town	be connected by	bridge[SEP]bridge	at location	cities with rivers<|endoftext|>
+cash	be used to purchase	product[SEP]cash	used for	buy things with<|endoftext|>
+way	learn about	the world[SEP]learn about world	has prerequisite	go out<|endoftext|>
+ice cream	taste	crispy[SEP]eat ice cream	has subevent	taste sweet<|endoftext|>
+wine	be fermented	grape juice[SEP]wine	defined as	fermented juice of grapes<|endoftext|>
+mechanism	play	strong game of chess[SEP]playing game of chess	has subevent	play strategy<|endoftext|>
+fence	be located in	front yard[SEP]backyard fence	has a	gate in<|endoftext|>
+food	be distributed to	food pantries[SEP]pantries	capable of	store many foods<|endoftext|>
+bible	end with	the book of revelation[SEP]revelation	defined as	last book of bible<|endoftext|>
+student	participate in	the study[SEP]students	capable of	study<|endoftext|>
+open	lock on	the entrance[SEP]lock	at location	entrance<|endoftext|>
+camera	point at	the sky[SEP]sky	at location	photo<|endoftext|>
+paint	be used on	almost any surface[SEP]can of paint	used for	cover many square feet of surface<|endoftext|>
+software	be intended for	use[SEP]designing software	used for	helping others<|endoftext|>
+museum	have	extensive collection of items[SEP]museum	has a	collection of important things<|endoftext|>
+chapel	be used for	funeral[SEP]chapel	used for	holding funeral service<|endoftext|>
+spine	checked by	chiropractor[SEP]chiropractor	has property	training in adjustments of spine<|endoftext|>
+salt	be present in	vast quantities in seawater[SEP]oceans	has a	salt water in<|endoftext|>
+restaurant	serve	barbecue[SEP]barbecue restaurant	used for	eating barbecue meals out<|endoftext|>
+fee	be paid to	consultant[SEP]consultant	capable of	charge fee to client<|endoftext|>
+way	think about	thing[SEP]think about	manner of	think<|endoftext|>
+grapefruit	be related to	lemon[SEP]grapefruit	distinct from	lime<|endoftext|>
+change	be	fold[SEP]fold	manner of	change<|endoftext|>
+sun	dry out	the wood[SEP]sun	capable of	weather wood<|endoftext|>
+silencer	reduce	the noise[SEP]silence	distinct from	noisy<|endoftext|>
+river	flow through	the valley[SEP]river	capable of	course through valley<|endoftext|>
+teacher	hand out	paper[SEP]teacher	capable of	hand out papers<|endoftext|>
+hospital	be located in	city[SEP]hospital	at location	major city<|endoftext|>
+cancer	be caused by	smoking[SEP]smoking often	causes	cancer<|endoftext|>
+money	gets	spent[SEP]spending money	used for	getting<|endoftext|>
+experience	include	labor[SEP]labor	manner of	experience<|endoftext|>
+poisoning	cause	death[SEP]poison	causes	death<|endoftext|>
+doctor	have	years of experience[SEP]doctors	has a	many years of education<|endoftext|>
+fire	be used for	cooking[SEP]starting flame or fire	used for	cooking things<|endoftext|>
+wedding ring	symbolize	commitment[SEP]wedding ring	used for	symbolize relationship<|endoftext|>
+exercise	stay	fit[SEP]staying fit	has subevent	exercise<|endoftext|>
+information	understand	issue[SEP]piece of information	used for	explaining situation<|endoftext|>
+white wine	be made by	fermenting juice[SEP]wine	defined as	fermented juice of fruit product<|endoftext|>
+learning	getting	used[SEP]learning	used for	bettering yourself<|endoftext|>
+leap day	be added to	february[SEP]leap day	part of	february<|endoftext|>
+recipe	use	chicken[SEP]recipes	has a	ingredients contain chicken<|endoftext|>
+bus	be used for	public transportation[SEP]bus	used for	traveling<|endoftext|>
+rug	be	focal point of a room[SEP]rug	at location	living room<|endoftext|>
+merchant	manage	their stores[SEP]merchantise	at location	store<|endoftext|>
+snare drum	be used in	orchestra[SEP]snare drum	used for	music<|endoftext|>
+ball	bounce	their way[SEP]ball	capable of	bounces<|endoftext|>
+aircraft	be used in	war[SEP]airplane	used for	warfare<|endoftext|>
+glue	form	bond[SEP]glue	used for	bond items together<|endoftext|>
+plan	articulate	vision[SEP]vision	capable of	further plan<|endoftext|>
+line	be used for	commercial fishing[SEP]line	used for	fish<|endoftext|>
+monkey	eat	banana[SEP]monkey	desires	eat banana<|endoftext|>
+explosion	cause	death[SEP]explosion	causes	death<|endoftext|>
+radiator	be used on	standard central heating system[SEP]radiator	part of	heating system<|endoftext|>
+benefit	learn	new skills[SEP]giving assistance	causes	learning new skills<|endoftext|>
+space	be equipped with	table[SEP]space	at location	table<|endoftext|>
+nose	be	the center of the face[SEP]nose	at location	middle of face<|endoftext|>
+property	be paid into	overdrawn bank account[SEP]pay by check	has subevent	overdraft bank account<|endoftext|>
+well	be used for	water[SEP]well	used for	get water<|endoftext|>
+rest	be	explanation[SEP]rest	manner of	recumb<|endoftext|>
+clock	be	recorded[SEP]clock in	manner of	record<|endoftext|>
+tv	have	bluetooth[SEP]television	at location	bluetooth<|endoftext|>
+parade	feature	car[SEP]car	at location	parade<|endoftext|>
+device	use	cable[SEP]cable	at location	electrical device<|endoftext|>
+report	be	checked[SEP]check in	manner of	report<|endoftext|>
+flower	attract	pollinator[SEP]flower	used for	attracting pollinators<|endoftext|>
+flower	appear in	bridal bouquet[SEP]bridal bouquet	at location	wedding<|endoftext|>
+ship	head	east[SEP]ship	capable of	heading east<|endoftext|>
+lake	be surrounded by	forest[SEP]lake	at location	forest<|endoftext|>
+people	have	a sense of humor[SEP]persons	has a	different kinds of humor<|endoftext|>
+goal	be	listening[SEP]listen	motivated by goal	there's to hear<|endoftext|>
+factory	make	dandruff shampoo[SEP]dandruff shampoo	at location	store<|endoftext|>
+brain	be called	the circle of willis[SEP]circle of willis	part of	brain<|endoftext|>
+bottle	store	chemical[SEP]bottle	manner of	store<|endoftext|>
+universe	be made of	string[SEP]universe	made of	strings<|endoftext|>
+act	obstruct	justice[SEP]obstructing justice	causes	bad<|endoftext|>
+ball	be made of	plastic[SEP]ball	made of	plastic<|endoftext|>
+lamb	be	cut[SEP]cut of lamb	part of	lamb<|endoftext|>
+eating	take	place[SEP]take out	manner of	eat<|endoftext|>
+ring	be used as	wedding rings[SEP]wedding ring	used for	part of ceremony<|endoftext|>
+island	be	madeira[SEP]madeira	part of	madeira islands<|endoftext|>
+musical instrument	be used to provide	the ground[SEP]musical instrument	used for	making music and enjoyment<|endoftext|>
+cathedral	be built of	stone[SEP]building cathedral	has prerequisite	much stone<|endoftext|>
+marble	be	porous[SEP]marble	has property	porous<|endoftext|>
+poem	be noted for	its musicality[SEP]poetic rhythm	part of	poem<|endoftext|>
+bias	be	significant[SEP]handicap	manner of	bias<|endoftext|>
+table	be set with	cup[SEP]setting cup on table	has prerequisite	cup and table<|endoftext|>
+carnival	feature	ride[SEP]carnival ride	at location	carnival<|endoftext|>
+electrician	inspect	the wiring[SEP]electrician	capable of	check wiring<|endoftext|>
+cinema	be situated in	mall[SEP]cinema	at location	shopping mall<|endoftext|>
+body	be	squat[SEP]squat	manner of	be<|endoftext|>
+prospector	look for	gold[SEP]prospector	capable of	mine gold<|endoftext|>
+knowing	facilitate	the learning of the language[SEP]learning language	causes	being able to understand language<|endoftext|>
+god	create	everything[SEP]everything	created by	god<|endoftext|>
+emirate	be	abu dhabi[SEP]abu dhabi	part of	united arab emirates<|endoftext|>
+cheetah	be	fast[SEP]cheetah	capable of	run faster than person<|endoftext|>
+car	have	seat belts[SEP]cars	has a	seat belts<|endoftext|>
+opportunity	learn about	science[SEP]learn about science	motivated by goal	interesting job<|endoftext|>
+country	have	population[SEP]country	has a	inhabitants<|endoftext|>
+fox	have	long bushy tail[SEP]fox	has a	bushy tail<|endoftext|>
+evidence	be	authentic[SEP]prove	manner of	authenticate<|endoftext|>
+truth	be determined by	reality[SEP]determine truth	motivated by goal	lets understand reality<|endoftext|>
+supplier	sell	product[SEP]supplier	capable of	sell goods<|endoftext|>
+communication	convey	message[SEP]communicate	manner of	convey<|endoftext|>
+way	inspire	other[SEP]encourage	manner of	inspire<|endoftext|>
+person	believe in	god[SEP]person	capable of	believe in god<|endoftext|>
+fact	be considered with	other competent evidence[SEP]finding truth	has prerequisite	careful analysis of evidence<|endoftext|>
+city	put in	place[SEP]place	at location	city<|endoftext|>
+ontology	represent	concept[SEP]ontology	part of	metaphysics<|endoftext|>
+background	use	acrylic paint[SEP]acrylic	at location	paint<|endoftext|>
+flashlight	light	the way[SEP]light source	at location	flashlight<|endoftext|>
+deuterium	contain	tritium[SEP]source of deuterium	has property	essential for production of tritium<|endoftext|>
+fungus	grow in	area[SEP]fungus	at location	moldy areas<|endoftext|>
+appraisal	look at	condition[SEP]examining thing	has subevent	write appraisal<|endoftext|>
+potato	thicken	the soup[SEP]potato	at location	vegetable soup<|endoftext|>
+fungus	spread to	toenail[SEP]fungus	at location	toenail<|endoftext|>
+shop	be located on	the ground floor[SEP]floor	at location	store<|endoftext|>
+knight	play	chess[SEP]knight	at location	chessboard<|endoftext|>
+judge	question	witness[SEP]judge	capable of	question witness<|endoftext|>
+way	give	credence[SEP]requite	manner of	give<|endoftext|>
+valley	be surrounded by	mountain[SEP]mountain must	has a	valley<|endoftext|>
+spoon	be tapped on	the side of a bowl[SEP]spoon	at location	bowl<|endoftext|>
+apartment	be equipped with	microwave[SEP]microwave	at location	apartment<|endoftext|>
+restaurant	serve	spanish[SEP]spanish restaurant	used for	eating spanish food<|endoftext|>
+applicant	complete	prerequisite courses[SEP]passing course	has prerequisite	meeting requirements<|endoftext|>
+plumbing	use	plumbing fixtures[SEP]plumbing fixture	part of	plumbing<|endoftext|>
+food	be stored in	freezer[SEP]food	at location	freezer<|endoftext|>
+people	share	information[SEP]people	desires	share information<|endoftext|>
+restaurant	be located in	new york[SEP]restaurant	at location	new york<|endoftext|>
+painting	be sought by	museum[SEP]visit museum	motivated by goal	examine artwork<|endoftext|>
+triangle	have	three vertices[SEP]triangle	has a	three vertices<|endoftext|>
+payment	use	check[SEP]check	used for	pay bill<|endoftext|>
+way	use	map[SEP]map	capable of	help find way<|endoftext|>
+change	be	immaterial[SEP]immaterialize	manner of	change<|endoftext|>
+dish	use	ingredient[SEP]ingredient	part of	dish<|endoftext|>
+president	make	decision[SEP]president	used for	make decision for<|endoftext|>
+food	be used for	cooking[SEP]cooking	used for	part of meal preparation<|endoftext|>
+lung cancer	be caused by	smoking[SEP]smoking cigarettes	causes	lung cancer<|endoftext|>
+heating element	be	electric[SEP]heating element	part of	electric heater<|endoftext|>
+soup	be served in	bowl[SEP]spoon	at location	bowl of soup<|endoftext|>
+biopsy	use	needle[SEP]biopsy material	receives action	gathered in biopsy needle<|endoftext|>
+table	be used for	eating[SEP]table	used for	eating off of<|endoftext|>
+stress	manifest in	the body[SEP]bear down	manner of	stress<|endoftext|>
+nail	not extend beyond	the tip of the toe[SEP]nail	part of	toe<|endoftext|>
+food	stay	healthy[SEP]stay healthy	has subevent	eat healthy<|endoftext|>
+scuba diving	require	training[SEP]become scuba diver	has prerequisite	take lessons<|endoftext|>
+priest	hear	confession[SEP]priest	at location	confession<|endoftext|>
+radiation	affect	health[SEP]radiation	has property	bad for health<|endoftext|>
+fear	be	powerful motivator[SEP]propagandists	capable of	use fear to motivate<|endoftext|>
+people	eat	animal[SEP]people	capable of	eat animals<|endoftext|>
+people	be quick to	jump[SEP]people	capable of	jump<|endoftext|>
+cash	pay for	etc[SEP]pay cash	manner of	pay<|endoftext|>
+provision	apply to	specific project team[SEP]in charge of project	has prerequisite	know project team<|endoftext|>
+chef	prepare	chicken[SEP]chef	capable of	season chicken perfectly<|endoftext|>
+chlorophyll	be	green[SEP]grass green because	has a	chlorophyll<|endoftext|>
+light bulb	be used in	ambient lighting[SEP]light bulb	used for	illumination<|endoftext|>
+drink	be	port[SEP]port	manner of	drink<|endoftext|>
+purpose	play	role[SEP]role	used for	purpose<|endoftext|>
+change	be	complex[SEP]complexify	manner of	change<|endoftext|>
+opportunity	learn about	science[SEP]learn about science	motivated by goal	broaden horizons<|endoftext|>
+parent	get	good grades[SEP]getting good grade	used for	pleasing parents<|endoftext|>
+money	make	living[SEP]earning living	causes	making money<|endoftext|>
+door	lead to	shower room[SEP]shower door	used for	entry and exit to shower<|endoftext|>
+conversation	have	goal[SEP]have conversation	motivated by goal	discuss<|endoftext|>
+region	include	mongolia[SEP]mongolia	part of	asia<|endoftext|>
+good health	require	exercise[SEP]maintain good health	has prerequisite	exercise<|endoftext|>
+car	have	license plates[SEP]all cars	has a	license plates<|endoftext|>
+sidewalk	be filled with	pedestrian[SEP]sidewalk	used for	pedestrians<|endoftext|>
+lion	inhabit	savannah[SEP]lion	at location	savannah<|endoftext|>
+mother	care for	their children[SEP]moms	capable of	care for children<|endoftext|>
+testimony	receive at	public hearing[SEP]hearing testimony	causes	scrutinizing<|endoftext|>
+purpose	be to evaluate	the feasibility[SEP]take care of proposals	has subevent	evaluate for feasibility<|endoftext|>
+desire	read	book[SEP]person	desires	read interesting book<|endoftext|>
+product	contain	perfume[SEP]perfume	used for	perfume<|endoftext|>
+ball	be used in	tennis[SEP]tennis ball	used for	playing games<|endoftext|>
+paper	be turned into	corrugated cardboard[SEP]laminated and corrugated paper	used for	make cardboard<|endoftext|>
+waterfall	be covered with	moss[SEP]moss	at location	waterfall<|endoftext|>
+field	be grazed by	cattle[SEP]field	used for	grazing cattle<|endoftext|>
+tortoise	have	shell[SEP]tortoises	has a	shells<|endoftext|>
+dining room	be used for	dining[SEP]dining area	used for	entertaining guests<|endoftext|>
+year	turn into	decade[SEP]year	part of	decade<|endoftext|>
+oxygen	be produced by	plant[SEP]oxygen	created by	plants<|endoftext|>
+information	be provided through	the internet[SEP]information	at location	internet<|endoftext|>
+desire	learn	new things[SEP]person	desires	learn new concepts<|endoftext|>
+piano	be used for	concert[SEP]piano	used for	performing music<|endoftext|>
+instrument	include	french horn[SEP]french horn	used for	play in orchestra<|endoftext|>
+lawyer	be able to	object[SEP]lawyer	capable of	object in court<|endoftext|>
+ninja	be	samurai[SEP]samurai	capable of	fight ninja<|endoftext|>
+conditioner	promote	healthy hair growth[SEP]hair conditioner	used for	promoting healthy hair<|endoftext|>
+college	provide	knowledge[SEP]college	capable of	further knowledge<|endoftext|>
+mobile phone	be	useful[SEP]having mobile phone	used for	being reachable<|endoftext|>
+human body	consist of	nerve[SEP]nerve	part of	human body<|endoftext|>
+fan	go	crazy[SEP]fan	capable of	go crazy<|endoftext|>
+laughter	increase	happiness[SEP]happiness	capable of	lead to laughter<|endoftext|>
+highway	be sure to	consult a mexico road map[SEP]highway	at location	mexico<|endoftext|>
+bar	be stocked with	vodka[SEP]vodka	at location	bar<|endoftext|>
+sport	provide	enjoyment[SEP]playing sport	used for	enjoyment<|endoftext|>
+horse	race at	track[SEP]horse	at location	horse racetrack<|endoftext|>
+person	have	down syndrome[SEP]one impairment person might	has a	down's syndrome<|endoftext|>
+goal	buy	product[SEP]buy products	motivated by goal	desire<|endoftext|>
+department	institute	civil action[SEP]instituting civil action	causes	win<|endoftext|>
+information	help solve	crime[SEP]piece of information	used for	solve crime<|endoftext|>
+region	include	nova scotia[SEP]nova scotia	part of	maritime provinces<|endoftext|>
+clock	have	face[SEP]clock	has a	face<|endoftext|>
+people	receive	assistance[SEP]giving assistance	used for	helping people<|endoftext|>
+aquarium	be filled with	water[SEP]aquarium	has a	water<|endoftext|>
+fungus	develop in	moist and warm surroundings[SEP]fungus	at location	humid climate<|endoftext|>
+gas	be used as	fuel[SEP]gas	used for	fuel<|endoftext|>
+manner	be	in[SEP]hold	manner of	be<|endoftext|>
+circulatory system	consist of	the heart[SEP]heart	part of	circulatory system<|endoftext|>
+plan	include	hiking[SEP]hiking	has prerequisite	plan<|endoftext|>
+park	bike	trail[SEP]bike path	at location	park<|endoftext|>
+profession	require	trait[SEP]job	capable of	require trait<|endoftext|>
+grizzly bear	eat	salmon[SEP]grizzly bears	capable of	eat fresh salmon<|endoftext|>
+hay	be	clean[SEP]take	manner of	roll in hay<|endoftext|>
+uniform	consist of	hat[SEP]hat	used for	uniforms<|endoftext|>
+lawn mower	cut	a grass surface[SEP]lawnmower	used for	cut grass<|endoftext|>
+tram	cross	the bridge[SEP]tramp	at location	bridge<|endoftext|>
+cold weather	can	cause[SEP]cold weather	causes	cold<|endoftext|>
+parent	talk to	child[SEP]parent	capable of	talk to child<|endoftext|>
+bee	love	flower[SEP]bee	desires	flower<|endoftext|>
+brass	be used for	decoration[SEP]brass	used for	making sturdy and shiney objects<|endoftext|>
+dessert	include	sundae[SEP]sundae	instance of	dessert<|endoftext|>
+clothing	be	soiled[SEP]clothes	capable of	become soiled<|endoftext|>
+bath	be located in	south west of england[SEP]bath	part of	england<|endoftext|>
+car seat	be installed in	back seat[SEP]back	part of	car seat<|endoftext|>
+learning	see	the world[SEP]learning about world	causes	wise<|endoftext|>
+good	be	evil[SEP]good	distinct from	evil<|endoftext|>
+toaster	toast	bread[SEP]bread	receives action	toasted in toaster<|endoftext|>
+poster	be displayed in	post offices[SEP]wanted poster	at location	post office<|endoftext|>
+salt	add	flavor[SEP]salt	used for	adding flavor<|endoftext|>
+car	exhibit	squealing brakes[SEP]brakes	part of	car<|endoftext|>
+view	overlook	mountain[SEP]view	at location	top of mountain<|endoftext|>
+business	use	accounting software[SEP]designing software	used for	business accounting<|endoftext|>
+pencil	need	sharpening[SEP]electric pencil sharpener	used for	quickly sharpening many pencils<|endoftext|>
+insect	have	wing[SEP]wing	part of	insect<|endoftext|>
+method	provide	hemostasis[SEP]hemostasis	part of	operation<|endoftext|>
+minority	constitute	majority[SEP]majority	distinct from	minority<|endoftext|>
+helping	require	empathy[SEP]giving assistance	has prerequisite	empathy<|endoftext|>
+prerequisite	be	curiosity[SEP]finding information	has prerequisite	curiosity<|endoftext|>
+building	house	court[SEP]court	part of	building<|endoftext|>
+silver	be	more rare than gold[SEP]gold	distinct from	silver<|endoftext|>
+bird	be found in	garden[SEP]bird	at location	garden<|endoftext|>
+cat	love	tuna[SEP]cat	desires	tuna fish<|endoftext|>
+fun	climb	tree[SEP]having fun	has subevent	climbing tree<|endoftext|>
+mountaineer	climb	mountain[SEP]climber	at location	mountain<|endoftext|>
+homicide	cause	death[SEP]death	created by	homicide<|endoftext|>
+meal	be prepared for	lunch[SEP]have lunch	has prerequisite	prepare food<|endoftext|>
+writing	be	important way of communication[SEP]communicating	used for	writing<|endoftext|>
+design	form	the face of the clock[SEP]face	part of	clock<|endoftext|>
+party	be	motivated[SEP]have party	motivated by goal	socialize<|endoftext|>
+bird	be	observed[SEP]bird	manner of	observe<|endoftext|>
+watermelon	be	fruit[SEP]fruit of watermelon	has property	red<|endoftext|>
+condom	prevent	pregnancy[SEP]condom	used for	protection against pregnancy<|endoftext|>
+property	go to	school[SEP]children	has property	going to school<|endoftext|>
+bookshelf	be used to store	book[SEP]bookshelf	used for	hold books<|endoftext|>
+cotton	be used for	clothing[SEP]cotton	at location	clothing<|endoftext|>
+change	benefit	society[SEP]change society	motivated by goal	make difference<|endoftext|>
+house	have	sloped roofs[SEP]houses	has a	roofs<|endoftext|>
+odor	be caused by	cooking[SEP]cooking	causes	smells<|endoftext|>
+kitchen	be stocked with	sugar[SEP]sugar	at location	kitchen<|endoftext|>
+report	unearth	the matter-of-fact data[SEP]analyse	has subevent	gather informational facts to study<|endoftext|>
+foundation	own	building[SEP]building	has a	foundation<|endoftext|>
+tea	be made in	teapot[SEP]teakettle	used for	boil water to make tea<|endoftext|>
+company	be engaged in	the development of new products[SEP]company	capable of	market new product<|endoftext|>
+people	lend	hand[SEP]people	capable of	lend hand to each other<|endoftext|>
+bridge	provide	contract[SEP]contract	part of	bridge<|endoftext|>
+zucchini	be	one of those vegetables[SEP]zucchini	part of	zucchini<|endoftext|>
+heat	cause	pain[SEP]heat	causes	pain<|endoftext|>
+pharmacist	provide	medication[SEP]pharmacist	capable of	supply prescription drugs<|endoftext|>
+desire	breathe	clean air[SEP]person	desires	breathe clean air<|endoftext|>
+ceiling	cover	upper limits of a room[SEP]ceiling	used for	covering room<|endoftext|>
+camera	set	the aperture[SEP]aperture	part of	camera<|endoftext|>
+money	be used to purchase	good[SEP]money	used for	buying<|endoftext|>
+win	be followed by	loss[SEP]win	distinct from	lose<|endoftext|>
+acupuncture	stimulate	nerve[SEP]acupuncture needles	receives action	placed along peripheral nerves<|endoftext|>
+contract	be	promise[SEP]contract	manner of	promise<|endoftext|>
+calcium	build	strong bones[SEP]bones	has a	lot of calcium<|endoftext|>
+bible	say in	proverbs[SEP]proverbs	part of	old testament<|endoftext|>
+product	be placed in	a shopping cart[SEP]buy products	has subevent	put in shopping cart<|endoftext|>
+bedroom	be on	the ground floor[SEP]floor	at location	bed<|endoftext|>
+drive	be used for	testing purposes[SEP]drive	used for	testing car<|endoftext|>
+scissors	cut	paper[SEP]scissors	used for	cut<|endoftext|>
+conversation	use	etc[SEP]having conversation	used for	networking<|endoftext|>
+restaurant	serve	chinese food[SEP]chinese restaurant	used for	food<|endoftext|>
+necklace	be worn as	bracelet[SEP]necklace	used for	wearing around neck<|endoftext|>
+vegetable	be consumed by	other animals[SEP]grow vegetables	has subevent	animals eat vegetables<|endoftext|>
+eyeball	be	the cornea[SEP]cornea	part of	eyeball<|endoftext|>
+intervention	provide	assistance[SEP]giving assistance	used for	contributing to solution<|endoftext|>
+body	consist of	abdomen[SEP]abdomen	part of	torso<|endoftext|>
+felt	be used to make	hat[SEP]felt	used for	make hat<|endoftext|>
+surcharge	be	disclosed[SEP]surcharge	manner of	charge<|endoftext|>
+mirror	be	one uninterrupted thing of glass[SEP]glass	capable of	serve as mirror<|endoftext|>
+garden	be used to grow	vegetable[SEP]growing vegetables	used for	having live close to nature<|endoftext|>
+way	be	wind[SEP]wind	manner of	be<|endoftext|>
+cathode ray tube	contain	a phosphorescent screen[SEP]cathode ray tube	part of	oscilloscope<|endoftext|>
+spider	spin	webs[SEP]spider	capable of	spin webs<|endoftext|>
+dairy product	be	yogurt[SEP]yogurt	instance of	dairy product<|endoftext|>
+museum	focus on	art[SEP]museum	used for	seeing art<|endoftext|>
+food	be used for	cooking[SEP]cooking	used for	food preparation<|endoftext|>
+fish	see	the bait[SEP]fish	has subevent	fish see bait<|endoftext|>
+doctor	use	stethoscope[SEP]stethoscope	at location	doctor<|endoftext|>
+person	take	the oath of allegiance[SEP]taking oath	used for	swearing allegiance<|endoftext|>
+library	use	card catalogs[SEP]card catalog	used for	organizing items in library<|endoftext|>
+kitchen	be equipped with	coffee maker[SEP]coffee maker	at location	kitchen<|endoftext|>
+dentist	recommend	tooth[SEP]tooth	at location	dentist<|endoftext|>
+person	be	trustworthy[SEP]person	desires	considered trustworthy<|endoftext|>
+artist	create	original painting[SEP]painting	created by	artist<|endoftext|>
+astronaut	walk in	space[SEP]astronaut	capable of	space walk<|endoftext|>
+desire	improve	process[SEP]person	desires	improve method<|endoftext|>
+hand	hold	the cigarette[SEP]cigarette	at location	hand<|endoftext|>
+cotton	grow in	boll[SEP]cotton	at location	cotton boll<|endoftext|>
+money	cause	more problems[SEP]thinking	causes	money<|endoftext|>
+goal	be to find	the truth[SEP]find truth	motivated by goal	seek answers<|endoftext|>
+cat	provide	companionship[SEP]cat	used for	companionship<|endoftext|>
+paper	consist of	file[SEP]file	used for	storage of pieces of paper<|endoftext|>
+wallpaper	placed on	wall[SEP]wallpaper	used for	walls not painted<|endoftext|>
+evidence	be presented by	the prosecution[SEP]deciding criminal s fate	has subevent	hear evidence from lawyers<|endoftext|>
+eye	see	letter[SEP]reading letter	used for	eye<|endoftext|>
+bobby pin	be used in	other hair styles[SEP]bobby pin	used for	holding hair in place<|endoftext|>
+car	run	errand[SEP]run errands	has prerequisite	use car<|endoftext|>
+restaurant	serve	hamburger[SEP]hamburgers	at location	fast food restaurant<|endoftext|>
+travel	broaden	the mind[SEP]traveling	used for	broadening mind<|endoftext|>
+garden	be famous for	its lush green lawns[SEP]garden	capable of	consist of lawn and flowers<|endoftext|>
+museum	conduct	a year of self-study[SEP]visiting museum	used for	self enrichment<|endoftext|>
+restaurant	be located in	japan[SEP]japanese restaurant	at location	large town<|endoftext|>
+knee	sit on	chair[SEP]sitting on chair	has prerequisite	bend knees<|endoftext|>
+rudder	be used to steer	ship[SEP]rudder	used for	steer ship<|endoftext|>
+people	commit	crime[SEP]people	capable of	commit crimes<|endoftext|>
+human	have	five fingers[SEP]humans	has a	ten fingers<|endoftext|>
+dolphin	be able to	swim[SEP]dolphins	capable of	swim<|endoftext|>
+employer	fire	employee[SEP]employer	capable of	fire employee<|endoftext|>
+freezer	be stocked with	ice cream[SEP]freezer	used for	putting ice cream in<|endoftext|>
+tissue	function as	part of the endocrine system[SEP]endocrine system	part of	body<|endoftext|>
+toilet seat	be	warm[SEP]toilet seat	used for	comfortable sitting<|endoftext|>
+water ice	be	present[SEP]water	at location	ice<|endoftext|>
+monitor	check	box[SEP]monitor	at location	box<|endoftext|>
+sofa	be used for	people[SEP]sofabed	used for	guests<|endoftext|>
+breakfast	include	croissant[SEP]croissant	instance of	breakfast<|endoftext|>
+war	end in	defeat[SEP]war	capable of	end by decision<|endoftext|>
+auditorium	be used for	concert[SEP]conference auditorium	used for	performances<|endoftext|>
+gun	be used in	murder[SEP]committing murder	has subevent	use gun<|endoftext|>
+death	cause	suffering[SEP]dying	causes	eternal suffering<|endoftext|>
+manner	be	in[SEP]begin	manner of	be<|endoftext|>
+meal	use	equipped kitchen[SEP]kitchen	used for	eating meals<|endoftext|>
+aquarium	need	filter[SEP]aquarium	has a	filter<|endoftext|>
+capacitor	store	charge[SEP]capacitor	part of	distributor<|endoftext|>
+toothpaste	prevent	gum disease[SEP]toothpaste	used for	protecting gums from disease<|endoftext|>
+horse	shown	ability[SEP]horse	capable of	step high<|endoftext|>
+train	can	accelerate[SEP]trains	capable of	accelerate<|endoftext|>
+child	roll	ball[SEP]child	capable of	roll ball<|endoftext|>
+infection	cause	runny nose[SEP]illness	capable of	cause runny noses<|endoftext|>
+card	be used for	gaming[SEP]card	used for	playing card games<|endoftext|>
+calculator	be for	illustrative purposes[SEP]use calculator	has prerequisite	find purpose for using<|endoftext|>
+payment	use	check[SEP]checkbook	used for	method of payment<|endoftext|>
+inventor	come up with	idea[SEP]inventor	capable of	create new idea<|endoftext|>
+musician	play	their instruments[SEP]musicians	capable of	play musical instruments<|endoftext|>
+highway	connect	city[SEP]highway	at location	area surrounding city<|endoftext|>
+explosion	cause	destruction[SEP]explosion	causes	destruction<|endoftext|>
+zodiac	be divided into	twelve signs[SEP]zodiac	has a	twelve signs<|endoftext|>
+exercise	cause	problem[SEP]exercise	causes	fitness<|endoftext|>
+change	feel	relaxed[SEP]relax	manner of	change<|endoftext|>
+pharmacist	prepare	the medication[SEP]pharmacists	capable of	prepare medications from prescription<|endoftext|>
+diet	include	grape[SEP]grape	at location	diet<|endoftext|>
+marriage	survive	infidelity[SEP]infidelity	capable of	end marriage<|endoftext|>
+grinding	use	grinding wheel[SEP]grinding wheel	part of	grinder<|endoftext|>
+dance	be	polka[SEP]polka	manner of	dance<|endoftext|>
+firefighter	put out	flame[SEP]fireman	capable of	put out fire<|endoftext|>
+draft	be written in	english[SEP]draft	manner of	write<|endoftext|>
+food	be kept in	cold storage[SEP]cold storage	used for	preserve food<|endoftext|>
+piece	be added to	the collection[SEP]piece	part of	collection<|endoftext|>
+phone	be used to make	call[SEP]making phone call	used for	talking to<|endoftext|>
+restaurant	be sure to	make a reservation[SEP]eat in restaurant	has prerequisite	call ahead to make reservations<|endoftext|>
+jaw	connect to	the skull[SEP]jaw	part of	skull<|endoftext|>
+table	be used to hold	a variety of objects[SEP]table	used for	holding things<|endoftext|>
+part	be called	minute[SEP]second	part of	minute<|endoftext|>
+computer	use	electricity[SEP]use computer	has prerequisite	have electricity<|endoftext|>
+fish	include	kingfish[SEP]kingfish	part of	kingfish<|endoftext|>
+mental illness	be treated with	medication[SEP]medication	used for	treating mental illness<|endoftext|>
+oven	be used for	baking[SEP]baking oven	used for	baking<|endoftext|>
+golfer	use	club[SEP]club	used for	play golf<|endoftext|>
+way	be to put	the trash rubbish bin[SEP]garbage	capable of	place to put trash<|endoftext|>
+choke	make	no difference[SEP]choke	manner of	fail<|endoftext|>
+fast food	be	cheap[SEP]fast food	used for	cheap<|endoftext|>
+people	buy	car[SEP]people	capable of	buy car<|endoftext|>
+cup	be filled with	coffee[SEP]cup of coffee	used for	awake<|endoftext|>
+way	fall in	love[SEP]fall in love	manner of	fall<|endoftext|>
+experience	need	bathtub[SEP]bathe	has prerequisite	have bathtub<|endoftext|>
+change	be	cultivated[SEP]grow	manner of	change<|endoftext|>
+sign	be given in	table[SEP]sign in sheet	at location	table<|endoftext|>
+water heater	be located in	garage[SEP]water heater	at location	garage<|endoftext|>
+course	have	prerequisite subjects[SEP]taking exam	has prerequisite	knowledge of subject<|endoftext|>
+evidence	be adduced at	trial[SEP]conduct trial	has subevent	examine evidence<|endoftext|>
+church	consist of	vestry[SEP]vestry	part of	church<|endoftext|>
+state	elect	the president[SEP]president	at location	election<|endoftext|>
+travel	be done by	other means[SEP]do	manner of	travel<|endoftext|>
+car	have	windscreen[SEP]cars	has a	windscreens<|endoftext|>
+probate	be	valid[SEP]probate	manner of	validate<|endoftext|>
+hoist	be used for	lifting[SEP]hoist	used for	lift heavy objects<|endoftext|>
+opportunity	learn about	other cultures[SEP]see artifacts	motivated by goal	learn about other cultures<|endoftext|>
+employee	attend	meeting[SEP]employee	capable of	attend meeting<|endoftext|>
+post office	open in	the town[SEP]post office	at location	center of town<|endoftext|>
+sugar	taste	sweet[SEP]taste sweet	has prerequisite	taste sugar<|endoftext|>
+traveler	travel to	country[SEP]traveler	capable of	journey from country to country<|endoftext|>
+shutter	be	closed[SEP]shutter	manner of	close<|endoftext|>
+change	improve	stability[SEP]stabilize	manner of	change<|endoftext|>
+car	be used for	transportation[SEP]vehicle	used for	travel<|endoftext|>
+lie	sound	truthful[SEP]lie	distinct from	truthful<|endoftext|>
+sugar	be used in	baking[SEP]sugar	used for	make cake<|endoftext|>
+note	tell	the story[SEP]tell story	has subevent	retell old story<|endoftext|>
+graphite	be used in	pencil[SEP]graphite pencil	at location	package of ten<|endoftext|>
+tractor	work in	field[SEP]tractor	at location	farmer's field<|endoftext|>
+person	speak	french[SEP]frenchman	capable of	speak french<|endoftext|>
+koala	be native to	australia[SEP]koala	at location	queensland<|endoftext|>
+forklift	be used to lift	material[SEP]forklift	used for	moving bulky objects<|endoftext|>
+flower	grow in	the garden[SEP]flowers	at location	flower garden<|endoftext|>
+camera	use	jpeg compression[SEP]digital camera	capable of	use jpeg compression to store photos<|endoftext|>
+casino	offer	a variety of games[SEP]games	at location	casino<|endoftext|>
+park	have	sandbox[SEP]sandbox	at location	park<|endoftext|>
+sofa	watch	tv[SEP]watch tv	has prerequisite	sit on couch<|endoftext|>
+human body	consist of	nerve[SEP]parts of human body	has a	more nerve endings than other parts<|endoftext|>
+penguin	live in	antarctica[SEP]penguin	at location	antarctica<|endoftext|>
+novelist	tell	story[SEP]novelist	capable of	tell story<|endoftext|>
+lifeguard	be	strong swimmers[SEP]lifeguards	capable of	save swimmers<|endoftext|>
+gas	be used for	heating[SEP]gas	used for	producing heat<|endoftext|>
+prayer	be	the falling of a tear[SEP]pray	has subevent	let tears flow<|endoftext|>
+blood test	measure	total cholesterol[SEP]blood tests	capable of	measure cholesterol<|endoftext|>
+paper	draw on	work[SEP]paper	used for	draw on<|endoftext|>
+business	consulted to	baskin robbins[SEP]baskin robbins	instance of	subsidiary<|endoftext|>
+applicant	complete	prerequisite courses[SEP]attend class	has prerequisite	enroll in university<|endoftext|>
+restaurant	be located in	chinatown[SEP]chinese restaurant	at location	chinatown<|endoftext|>
+lake	be used for	fishing[SEP]river	used for	fishing<|endoftext|>
+pruning	affect	the shape of the tree[SEP]pruning tree	causes desire	climb<|endoftext|>
+led	be used as	indicator lamps[SEP]led	used for	indicator lights<|endoftext|>
+table	be set with	plate[SEP]plate	used for	setting table<|endoftext|>
+cut	be	clear[SEP]clear cut	manner of	clear<|endoftext|>
+sun	cause	heat stroke[SEP]sun	causes	heat<|endoftext|>
+way	move	thing[SEP]make way	manner of	move<|endoftext|>
+exercise	increase	your heart rate[SEP]getting exercise	has subevent	increase in heart rate<|endoftext|>
+house	contain	personal possessions[SEP]possessions	at location	house<|endoftext|>
+bookcase	have	enough shelves[SEP]bookcase	has a	books<|endoftext|>
+desire	protect	family[SEP]person	desires	protect family<|endoftext|>
+ear	be	infected[SEP]ear	capable of	become infected<|endoftext|>
+bridge	have	pier[SEP]pier	part of	bridge<|endoftext|>
+religion	have	many gods[SEP]religions	has a	few gods<|endoftext|>
+dishwasher	concentrate on	particular place[SEP]dishwasher	at location	resturant<|endoftext|>
+food	be used by	the body[SEP]body	used for	food<|endoftext|>
+way	give	award[SEP]award	manner of	give<|endoftext|>
+terrorist	use	violence[SEP]terrorist	desires	violence<|endoftext|>
+death	be caused by	heart attack[SEP]having heart attack	causes	fear of death<|endoftext|>
+insect	include	flies[SEP]insects	capable of	fly<|endoftext|>
+purpose	be to develop	essential leadership skills[SEP]in charge of project	has prerequisite	show leadership skills<|endoftext|>
+asthma	cause	wheezing[SEP]having asthma attack	causes	gasping and wheezing<|endoftext|>
+slope	be	steep[SEP]slope	distinct from	steep<|endoftext|>
+symptom	include	snoring[SEP]snoring	causes	sleep disorders<|endoftext|>
+bus	be used to transport	school children[SEP]bus	used for	moving children to school<|endoftext|>
+money	be used to purchase	material[SEP]cash	used for	buy things<|endoftext|>
+fungus	grow in	bathroom[SEP]fungus	at location	bathroom<|endoftext|>
+doctor	practice	medicine[SEP]medical doctor	capable of	doctor patient<|endoftext|>
+supermarket	sell	food[SEP]goods	at location	supermarket<|endoftext|>
+bus stop	have	bench[SEP]bus stop	used for	sitting down on bench<|endoftext|>
+city	be	astana[SEP]astana	instance of	capital city<|endoftext|>
+table	be set with	cup[SEP]setting cup on table	has subevent	letting go of teh cup<|endoftext|>
+cable	be	connected[SEP]cable	capable of	connect<|endoftext|>
+travel agent	know	everything[SEP]travel	has prerequisite	talk to travel agent<|endoftext|>
+table	be used for	eating[SEP]table	used for	eat<|endoftext|>
+apartment	be located in	the city[SEP]apartment house	at location	city<|endoftext|>
+credit card	be used for	payment[SEP]paying by credit card	used for	convenience<|endoftext|>
+hail	be	written[SEP]hail	manner of	be<|endoftext|>
+use	transport	cargo[SEP]cargo	used for	transporting people's goods<|endoftext|>
+planet	orbit	other stars[SEP]stars	at location	orbit<|endoftext|>
+use	improve	quality of life[SEP]maintaining good health	used for	improving quality of life<|endoftext|>
+merchant	offer	deal[SEP]merchant	capable of	offer deal<|endoftext|>
+state	be	new mexico[SEP]new mexico	part of	united states<|endoftext|>
+sign	convey	information[SEP]sign	used for	presenting information<|endoftext|>
+landscape	consist of	hill[SEP]hill	at location	landscape<|endoftext|>
+tire	feature	stepped metal air valve[SEP]valve	capable of	let out air from tire<|endoftext|>
+gazelle	be found in	grassland[SEP]gazelle	at location	wilderness<|endoftext|>
+bald eagle	be	spotted[SEP]bald eagle	at location	picture<|endoftext|>
+urinary tract	include	bladder[SEP]urinary bladder	part of	urogenital system<|endoftext|>
+image	be for	actual book cover[SEP]cover	at location	book<|endoftext|>
+lead	be used in	pencil[SEP]lead	part of	pencil<|endoftext|>
+compost	be used in	garden[SEP]back garden	used for	keeping compost pile<|endoftext|>
+tree	continue to produce	fruit[SEP]fruits	capable of	grow on tree<|endoftext|>
+dehydration	preserve	food[SEP]dehydrate	manner of	preserve<|endoftext|>
+cough	be associated with	asthma[SEP]having asthma attack	has subevent	cough<|endoftext|>
+description	be used to facilitate	the discussion[SEP]expressing information	used for	explaining<|endoftext|>
+stretch	be	done[SEP]stretch	manner of	be<|endoftext|>
+behavior	be	corrupt[SEP]adulterate	manner of	corrupt<|endoftext|>
+lens	magnify	the image[SEP]lens	used for	magnify<|endoftext|>
+tv	display	image[SEP]tv	capable of	display images<|endoftext|>
+paper	use	tool[SEP]paper	used for	notes<|endoftext|>
+condition	affect	feeling[SEP]affect	causes	feel<|endoftext|>
+couple	get	married[SEP]man and woman	capable of	get married<|endoftext|>
+disadvantage	outweigh	advantage[SEP]advantage	distinct from	disadvantage<|endoftext|>
+company	own	factory[SEP]company	capable of	own factory<|endoftext|>
+table	be set with	napkin[SEP]napkin	at location	table<|endoftext|>
+tree	provide	shade[SEP]trees	capable of	shade grass<|endoftext|>
+robot	provide	companionship[SEP]robot	used for	companionship<|endoftext|>
+stadium	be used for	baseball[SEP]baseball stadium	used for	play baseball<|endoftext|>
+doctor	recommend	a carotid endarterectomy[SEP]one impairment person might	has a	carotid endarterectomy<|endoftext|>
+hike	require	good physical condition[SEP]hiking	has prerequisite	physical health<|endoftext|>
+bias	be	prejudice[SEP]bias	manner of	prejudice<|endoftext|>
+prison	be located in	the united states[SEP]prison	at location	america<|endoftext|>
+unemployment	affect	mental health[SEP]unemployment	capable of	cause mental illness<|endoftext|>
+downtown	be	the best location[SEP]downtown	at location	city<|endoftext|>
+city	own	the arena[SEP]arena	at location	city<|endoftext|>
+wardrobe	be located in	the room[SEP]wardrobe	at location	room<|endoftext|>
+purpose	be to improve	symptom[SEP]improving yourself	causes	better operation in future<|endoftext|>
+goal	tell	story[SEP]tell story	motivated by goal	good story<|endoftext|>
+manner	get along with	co[SEP]get along with	manner of	relate<|endoftext|>
+shower	use	water[SEP]water	used for	showering<|endoftext|>
+exercise	improve	the condition[SEP]exercising	causes	improve<|endoftext|>
+shed	be used for	storage[SEP]shed	used for	storing tools<|endoftext|>
+humility	acknowledge	weakness[SEP]humility	distinct from	egoism<|endoftext|>
+home	be located at	the entrance[SEP]entrance	at location	house<|endoftext|>
+problem	relate to	acoustic phenomena[SEP]acoustics	part of	physics<|endoftext|>
+money	buy	christmas presents[SEP]buying presents	used for	christmass<|endoftext|>
+silver	be used in	silverware[SEP]silver	used for	fine flatware<|endoftext|>
+cat	have	four legs[SEP]tabby cat	has a	four legs<|endoftext|>
+pancreas	be surrounded by	bile ducts[SEP]pancreatic duct	part of	pancreas<|endoftext|>
+adjustment	be	precise[SEP]assimilate	manner of	adjust<|endoftext|>
+shower	grab	a shower spray unit[SEP]shower	manner of	spray<|endoftext|>
+bedding	be made from	100 % cotton[SEP]cotton	used for	bedding<|endoftext|>
+war	bring	pain[SEP]pain	part of	war<|endoftext|>
+desire	spend	money[SEP]desire to buy	causes desire	spend money<|endoftext|>
+ocean	surround	the island[SEP]island	at location	middle of ocean<|endoftext|>
+salad	be	lettuce[SEP]lettuce	used for	make salad<|endoftext|>
+part	point out	the hour of the day[SEP]hour	part of	day<|endoftext|>
+catheter	be inserted into	a body cavity[SEP]catheter	receives action	inserted into body channel<|endoftext|>
+tango	be	dance[SEP]tango	manner of	dance<|endoftext|>
+food	be stored in	freezer[SEP]freezer	used for	freeze food<|endoftext|>
+library	be	quiet[SEP]library	has a	rules about being quiet<|endoftext|>
+beaver	shape	the landscape[SEP]beaver	at location	wilderness<|endoftext|>
+restaurant	serve	potato[SEP]potato	at location	fast food restaurant<|endoftext|>
+bomb	be placed on	the plane[SEP]bomb	at location	aircraft<|endoftext|>
+puncture	be caused by	nail[SEP]nail	capable of	cause puncture wound<|endoftext|>
+desire	protect	family[SEP]person	desires	keep family safe<|endoftext|>
+oatmeal	lower	cholesterol[SEP]oatmeal	capable of	lower cholesterol<|endoftext|>
+flower	be	symmetrical[SEP]flower	has property	symmetrical<|endoftext|>
+sign	give	direction[SEP]sign	used for	directions<|endoftext|>
+eustachian tube	become	swollen[SEP]eustachian tube	part of	human body<|endoftext|>
+interior	walk in	closet[SEP]walk in closet	used for	tidy room<|endoftext|>
+salon	offer	manicure[SEP]beauty salon	used for	get manicure<|endoftext|>
+tv	be in	the living room[SEP]tv	at location	livingroom<|endoftext|>
+combination	be	absorbent[SEP]involve	manner of	absorb<|endoftext|>
+apple	be stored in	the refrigerator[SEP]apple	at location	refrigerator<|endoftext|>
+fire extinguisher	be	located[SEP]fire extinguisher	at location	building<|endoftext|>
+countertop	be used as	storage[SEP]counter	used for	storing things on<|endoftext|>
+finger	press	key[SEP]finger	used for	tap key<|endoftext|>
+recipe	include	pie[SEP]following recipe	used for	cooking pie<|endoftext|>
+house	have	dirt floors[SEP]homes	has a	dirt floors<|endoftext|>
+family room	play	game[SEP]family room	used for	games<|endoftext|>
+nose	be	central feature of the face[SEP]nose	at location	middle of human face<|endoftext|>
+shirt	raglan	sleeve[SEP]raglan sleeve	part of	raglan<|endoftext|>
+city	be located in	united states[SEP]city	at location	united states<|endoftext|>
+computer	be used for	processing[SEP]using computer	used for	processing<|endoftext|>
+fund	support	individual[SEP]fund	manner of	support<|endoftext|>
+nebula	be	located[SEP]nebula	at location	universe<|endoftext|>
+history	cover	the period[SEP]period	part of	history<|endoftext|>
+hallway	provide	connection[SEP]hallway	used for	passage<|endoftext|>
+house	have	wider doors[SEP]houses	has a	doors<|endoftext|>
+hot sauce	be	spicy[SEP]sauce	has property	spicy or hot<|endoftext|>
+paper	use	tool[SEP]paper	used for	many purposes<|endoftext|>
+winter	bring	snow[SEP]winter	capable of	bring snow<|endoftext|>
+desire	see	other countries[SEP]visit other countries	motivated by goal	see world<|endoftext|>
+vacation	include	fishing[SEP]go on vacation	has subevent	fishing<|endoftext|>
+restaurant	serve	spanish[SEP]spanish restaurant	used for	eat spanish food<|endoftext|>
+information	be accessed through	the internet[SEP]going on internet	used for	accessing information<|endoftext|>
+party	used for	other commercial purpose[SEP]party	used for	people who know how to<|endoftext|>
+faucet	conserve	water[SEP]faucet	used for	getting water<|endoftext|>
+fungus	grow on	bread[SEP]fungus	at location	moldy bread<|endoftext|>
+oven	be used for	baking[SEP]ovens	used for	bake food<|endoftext|>
+interior	walk in	closet[SEP]closet	at location	room<|endoftext|>
+lawyer	obstruct	justice[SEP]obstruct justice	has prerequisite	become lawyer<|endoftext|>
+exercise	lower	blood pressure[SEP]exercising	used for	lower blood pressure<|endoftext|>
+island	be known as	cape verde[SEP]cape verde	part of	cape verde islands<|endoftext|>
+shop	sell	other items[SEP]items	at location	store<|endoftext|>
+computer	be used for	work[SEP]using computer	used for	working<|endoftext|>
+china	centered around	beijing[SEP]beijing	part of	china<|endoftext|>
+lead	be	misleading[SEP]mislead	manner of	lead<|endoftext|>
+cat	have	sensitive paws[SEP]cats	has a	paws<|endoftext|>
+people	live in	dallas[SEP]many people	has a	lived in dallas<|endoftext|>
+course	learn	new skills[SEP]improve yourself	has prerequisite	learn new things<|endoftext|>
+paper	add	stress[SEP]writing term paper	causes	stress<|endoftext|>
+sermon	be preached in	parish church[SEP]sermon	at location	church<|endoftext|>
+people	ride	horse[SEP]people	desires	ride horse<|endoftext|>
+brain	cause	loss of consciousness[SEP]losing consciousness	causes	permanent brain damage<|endoftext|>
+ocean	be	indian[SEP]indian ocean	at location	near india<|endoftext|>
+bed	be made of	straw[SEP]bed	made of	straw<|endoftext|>
+flu	cause	fever[SEP]fever	part of	flu sickness<|endoftext|>
+butter	be made from	milk[SEP]butter	made of	milk<|endoftext|>
+table	be covered with	cloth[SEP]table cloth	capable of	cover table<|endoftext|>
+food	be	refrigerated[SEP]eat	has prerequisite	refrigerate food<|endoftext|>
+cotton	be used for	clothing[SEP]cotton	used for	making clothing<|endoftext|>
+spam	arrive in	your inbox[SEP]spam	at location	inbox<|endoftext|>
+bleach	clean	the down[SEP]clean	has prerequisite	get bleach<|endoftext|>
+bridge	be	connected[SEP]bridge	manner of	connect<|endoftext|>
+celebrity	refer to	the fame[SEP]celebrity	receives action	associated with fame<|endoftext|>
+parent	like	their children[SEP]parents people who	has a	children<|endoftext|>
+defibrillator	deliver	electric shock[SEP]electric shocks	capable of	come from defibrillators<|endoftext|>
+goal	play	tennis[SEP]play tennis	motivated by goal	play tennis<|endoftext|>
+hotel	be located in	a resort area[SEP]hotel room	at location	resort<|endoftext|>
+aircraft	encounter	volcanic ash[SEP]volcanic ash	capable of	major hazard to aircraft<|endoftext|>
+nail	be made of	keratin[SEP]nail	made of	keratin<|endoftext|>
+vacation	be filled with	sun[SEP]go on vacation	has subevent	get sun<|endoftext|>
+flirting	n't have to be	scary[SEP]flirting	has subevent	sexual attraction<|endoftext|>
+water vapor	be	gas[SEP]water vapor	defined as	gas form of water<|endoftext|>
+washing machine	wash	clothe[SEP]clothing	at location	washing machine<|endoftext|>
+tower	transmit	signal[SEP]tower	used for	receive signals<|endoftext|>
+tourist	visit	the zoo[SEP]tourists	at location	zoo<|endoftext|>
+proton	be made of	two up quarks[SEP]proton	receives action	composed of quarks<|endoftext|>
+tooth	cause	pain[SEP]teeth	capable of	cause pain<|endoftext|>
+farmer	plant	seed[SEP]farmer	capable of	seed plants<|endoftext|>
+silver	be used in	jewelry[SEP]silver	used for	jewelry<|endoftext|>
+trial	last	several days[SEP]trial	capable of	last long time<|endoftext|>
+builder	build	house[SEP]houses	created by	builders<|endoftext|>
+church	point	arch[SEP]arch	at location	church<|endoftext|>
+method	advance	understanding[SEP]approach	Entails	advance<|endoftext|>
+food	be served in	school[SEP]food	at location	school<|endoftext|>
+waste	act as	disincentive[SEP]waste	manner of	devolve<|endoftext|>
+lung cancer	be caused by	smoking[SEP]smoking	causes	lung cancer<|endoftext|>
+people	sail	ship[SEP]people	capable of	sail boats<|endoftext|>
+pineapple	be	helpful[SEP]pineapple	part of	pineapple<|endoftext|>
+purpose	be to develop	essential leadership skills[SEP]being in charge of project	has prerequisite	good leadership skills<|endoftext|>
+hoist	be used for	lifting[SEP]hoist	used for	lifting up<|endoftext|>
+metal	provide	strength[SEP]metal	used for	strength<|endoftext|>
+committee	meet at	place[SEP]committee	at location	meeting<|endoftext|>
+hotel	have	a reception area[SEP]reception area	at location	motel<|endoftext|>
+cat	eat	bird[SEP]cat	capable of	eat bird<|endoftext|>
+rug	add	warmth[SEP]rug	used for	warmth<|endoftext|>
+urine	be produced by	kidney[SEP]urine	created by	kidneys<|endoftext|>
+eye	be called	the sclera[SEP]sclera	part of	eye<|endoftext|>
+customer	order	item[SEP]customer	capable of	order item<|endoftext|>
+goal	stay	fit[SEP]stay fit	motivated by goal	look good<|endoftext|>
+projector	watch	movie[SEP]projector	at location	movies<|endoftext|>
+freezer	be full of	chicken[SEP]chicken	at location	freezer<|endoftext|>
+baby	grow in	the womb[SEP]baby	at location	womb<|endoftext|>
+gambling	be	casino[SEP]gambling	at location	casino<|endoftext|>
+death	cause	suffering[SEP]dying	causes	funeral<|endoftext|>
+drawing	be pasted on	standard sheets of white paper[SEP]sheet of paper	used for	drawing on<|endoftext|>
+perjury	be	serious crime[SEP]committing perjury	causes	going to jail<|endoftext|>
+light	consist of	photon[SEP]light	made of	photons<|endoftext|>
+photograph	use	portrait lenses[SEP]portrait lens	part of	portrait camera<|endoftext|>
+shower	have	shower gel[SEP]having shower	has prerequisite	shower gel<|endoftext|>
+grocery store	sell	food[SEP]grocery stores	has a	food in<|endoftext|>
+milk	be stored in	the refrigerator[SEP]store refrigerator	used for	storing milk<|endoftext|>
+city	be	guadalajara[SEP]guadalajara	instance of	city<|endoftext|>
+great ape	include	orangutan[SEP]orangutan	part of	great ape<|endoftext|>
+money	be used to buy	table[SEP]cash	used for	purchase things under table<|endoftext|>
+black hole	lie in	quasar[SEP]black holes and quasars	at location	space<|endoftext|>
+nervous system	include	nerve[SEP]nerve cell	part of	nervous system<|endoftext|>
+fish	live in	pond[SEP]fish	capable of	live in ponds<|endoftext|>
+hair follicle	be	located[SEP]hair follicle	at location	scalp<|endoftext|>
+universe	accelerate in	its expansion[SEP]expansion of universe	has property	accelerating<|endoftext|>
+cell wall	provide	the cell wall[SEP]cell wall	part of	cell<|endoftext|>
+park	have	several hiking trails[SEP]hiking trails	at location	forest<|endoftext|>
+astronomer	look through	telescope[SEP]astronomer	capable of	look through telescope<|endoftext|>
+watch	measure	time[SEP]watch	used for	measure passage of time<|endoftext|>
+blanket	be	small coverings[SEP]blanket	manner of	cover<|endoftext|>
+bishop	be in	rome[SEP]bishop	at location	rome<|endoftext|>
+park	be	great smoky mountains[SEP]great smoky mountains national park	at location	north carolina<|endoftext|>
+camera	have	zoom lens[SEP]camera lens	part of	camera<|endoftext|>
+death	occur in	first year of life[SEP]living life	causes	early death<|endoftext|>
+fall	result in	pain[SEP]falling	causes	pain<|endoftext|>
+bedroom	be located in	main villa[SEP]bedroom	at location	at hotel<|endoftext|>
+goal	improve	your cardiovascular health[SEP]improving yourself	has subevent	strengthen cardiovascular system<|endoftext|>
+apartment	walk in	closet[SEP]walk	at location	closet in apartment<|endoftext|>
+lightning	knock out	power[SEP]lightning storms	capable of	knock out electricity<|endoftext|>
+tiger	jump through	hoop[SEP]tiger	capable of	jump though hoops<|endoftext|>
+amputation	occur in	the u.s.[SEP]amputation	capable of	happen because of disease<|endoftext|>
+kitchen utensil	be	provided[SEP]kitchen utensil	used for	help in preparation of meals<|endoftext|>
+change	be	personal[SEP]personalize	manner of	change<|endoftext|>
+course	take	look[SEP]come across	manner of	look<|endoftext|>
+chaos	be	order[SEP]chaos	distinct from	order<|endoftext|>
+dentist	treat	damage[SEP]dentist	used for	repairing damage done to teeth<|endoftext|>
+insect	have	six legs[SEP]all insects	has a	six legs<|endoftext|>
+swab	be	removed[SEP]swab	manner of	wipe up<|endoftext|>
+scissors	cut	paper[SEP]scissors	capable of	part paper<|endoftext|>
+boat	be equipped with	flotation devices[SEP]flotation gear	at location	boat<|endoftext|>
+instrument	be made of	brass[SEP]brass instrument	used for	play<|endoftext|>
+restaurant	be	kosher[SEP]kosher restaurant	used for	eat<|endoftext|>
+distance	be measured in	yard[SEP]yard	used for	measuring distance<|endoftext|>
+head	contain	the brain[SEP]human head	has a	brain<|endoftext|>
+museum	have	many artifacts[SEP]museum	has a	interesting artifacts<|endoftext|>
+drive	be	hit[SEP]drive	manner of	hit<|endoftext|>
+fireplace	be	cool[SEP]fireplace	used for	warming yourself<|endoftext|>
+home	give	peace of mind[SEP]peace of mind	at location	home<|endoftext|>
+change	melt	ice[SEP]ice up	manner of	change<|endoftext|>
+way	open up	conversation[SEP]open up	manner of	talk<|endoftext|>
+forest	grow in	area[SEP]undergrowth	at location	forest<|endoftext|>
+ice cream sundae	have	ice cream[SEP]sundae	made of	ice cream<|endoftext|>
+kitchen	be equipped with	grill[SEP]grill	at location	kitchen<|endoftext|>
+bag	be worn over	the shoulder[SEP]shoulder bag	used for	carrying things<|endoftext|>
+symptom	be associated with	crohn’s disease[SEP]one impairment person might	has a	crohn's disease<|endoftext|>
+person	love	other[SEP]person	desires	love other people<|endoftext|>
+radio	receive	phonograph[SEP]radio phonograph	part of	audio system<|endoftext|>
+fear	be	safe[SEP]fear	distinct from	safe<|endoftext|>
+knight	play	chess[SEP]knight	at location	chess board<|endoftext|>
+person	improve	well-being[SEP]improving yourself	causes	better person<|endoftext|>
+deodorant	smell	fresh[SEP]deodorant	used for	keeping armpits smelling fresh and clean<|endoftext|>
+goal	make	decision[SEP]think	motivated by goal	make decision<|endoftext|>
+dry ice	be placed in	water[SEP]cooled water	capable of	form ice on ground<|endoftext|>
+stadium	be used for	other events[SEP]stadium	used for	games<|endoftext|>
+meal	include	bread[SEP]meal	capable of	include bread<|endoftext|>
+goal	answer	question[SEP]answer questions	motivated by goal	asked<|endoftext|>
+course	address	communication[SEP]address	manner of	communicate<|endoftext|>
+bank	be	covered[SEP]bank	manner of	cover<|endoftext|>
+lake	be used for	fishing[SEP]lake	used for	fishing in<|endoftext|>
+conversation	lead to	friendship[SEP]having conversation	causes	friendships formed<|endoftext|>
+union	demand	higher wages[SEP]union	capable of	demand higher wages<|endoftext|>
+female	produce	milk[SEP]females	capable of	produce milk<|endoftext|>
+shop	sell	clothing[SEP]clothing	at location	shop<|endoftext|>
+child	belong to	family[SEP]child	capable of	belong to family<|endoftext|>
+citizen	travel to	other countries[SEP]visit other countries	has prerequisite	traveler<|endoftext|>
+swimming pool	have	waterfall[SEP]pool	at location	waterfall<|endoftext|>
+manner	make	the expression[SEP]form	manner of	make<|endoftext|>
+programmer	redistribute	the source code[SEP]source code	created by	programmer<|endoftext|>
+private investigator	follow	suspect[SEP]private investigator	capable of	tail suspect<|endoftext|>
+car	be used for	pleasure[SEP]driving car	used for	pleasure<|endoftext|>
+part	be covered with	cloth[SEP]cloth	used for	covering<|endoftext|>
+homeowner	maintain	garden[SEP]homeowner	capable of	garden garden<|endoftext|>
+fact	be considered in	mitigation of punishment[SEP]severe punishment	used for	set example<|endoftext|>
+pasta	be	bucatini[SEP]bucatini	instance of	pasta<|endoftext|>
+balloon	be filled with	air[SEP]balloon	used for	carrying people in air<|endoftext|>
+accident	cause	harm[SEP]accident	capable of	cause injuries<|endoftext|>
+envelope	contain	address[SEP]envelope	at location	mail box<|endoftext|>
+creditor	demand	payment[SEP]creditor	capable of	demand payment in full<|endoftext|>
+vegetarian	eat	meat[SEP]meat	distinct from	vegetarians<|endoftext|>
+pond	fill with	sediment[SEP]sediment	capable of	settle in pond<|endoftext|>
+bedroom	be located on	this floor[SEP]bedroom	has a	floor<|endoftext|>
+acupuncture	improve	outcome[SEP]acupuncture	receives action	done by acupuncturist<|endoftext|>
+pilot	circle	the airport[SEP]pilot	capable of	circle airport<|endoftext|>
+course	lead to	increase[SEP]build up	manner of	increase<|endoftext|>
+liquid	take	the shape of the container[SEP]liquid	at location	container<|endoftext|>
+country	be bisected by	the great rift valley[SEP]great rift valley	part of	asia<|endoftext|>
+instrument	include	trumpet[SEP]instruments	capable of	include trumpet<|endoftext|>
+cooler	use	fan[SEP]fan	used for	make yourself cooler<|endoftext|>
+ranch	be used for	cattle[SEP]ranch	used for	livestock<|endoftext|>
+trial	be conducted by	colleague[SEP]conducting trial	causes	sentence<|endoftext|>
+city	be connected to	all parts of the country[SEP]cities	at location	country<|endoftext|>
+house	be used as	residence[SEP]house	used for	residing in<|endoftext|>
+goal	learn	language[SEP]learn language	motivated by goal	read<|endoftext|>
+plutonium	have	half-life of 24	100 years[SEP]plutonium 238	has a	half life of 86.4 years<|endoftext|>
+health	stay	healthy[SEP]staying healthy	causes	less ill health<|endoftext|>
+shampoo	remove	dandruff[SEP]dandruff shampoo	used for	washing hairs<|endoftext|>
+court	consider	relevant facts[SEP]court	used for	finding facts<|endoftext|>
+helium	be used in	balloon[SEP]helium balloon	used for	fly<|endoftext|>
+fact	avail	different nutritional needs[SEP]maintain good health	has prerequisite	determine nutritional needs<|endoftext|>
+yule log	be	traditional dessert[SEP]yule log	instance of	dessert<|endoftext|>
+boat	be used in	the indian ocean[SEP]indian ocean	used for	sailing<|endoftext|>
+temperature	be	increased[SEP]temperature	capable of	increase<|endoftext|>
+calculation	use	calculator[SEP]using calculator	used for	multiplying<|endoftext|>
+sun	shine	most of the time[SEP]sun	capable of	shine all day<|endoftext|>
+musician	play	oboe[SEP]musician	capable of	play oboe<|endoftext|>
+life	feel	the love[SEP]love	part of	life<|endoftext|>
+glass	front	drawer[SEP]glass	at location	cabinet<|endoftext|>
+goal	be to find	the truth[SEP]discover truth	motivated by goal	truth out there<|endoftext|>
+police	build	case[SEP]police	capable of	case building<|endoftext|>
+card	be used in	the game[SEP]cards	used for	play games<|endoftext|>
+wine	be made from	fruit[SEP]fruit	used for	make wine<|endoftext|>
+fence	divide	their properties[SEP]fence	capable of	divide property<|endoftext|>
+smoke	cause	odor[SEP]smoking	causes	smell bad<|endoftext|>
+african country	include	mali[SEP]mali	part of	africa<|endoftext|>
+sun	cause	sunburn[SEP]sun	causes	sun tan<|endoftext|>
+teacher	show	video[SEP]teacher	capable of	show video<|endoftext|>
+clock	measure	time[SEP]clock	manner of	quantify<|endoftext|>
+arm	hold	hand[SEP]hand	capable of	hold hand<|endoftext|>
+person	be	peaceful[SEP]person	capable of	choose to peaceful<|endoftext|>
+garbage	be transported to	landfill[SEP]garbage	used for	landfill<|endoftext|>
+change	be	converted[SEP]convert	manner of	change<|endoftext|>
+glue	be	epoxy[SEP]epoxy	manner of	glue<|endoftext|>
+culture	interact with	each other[SEP]culture	created by	people interacting<|endoftext|>
+diet	consist of	dead animals[SEP]dead animals	capable of	serve as food<|endoftext|>
+change	be	equal[SEP]equal	manner of	change<|endoftext|>
+city	be	baghdad[SEP]baghdad	instance of	capital city<|endoftext|>
+table	be used	indoor[SEP]table	at location	room<|endoftext|>
+percussion instrument	strike against	similar instrument[SEP]percussion instrument	used for	hitting<|endoftext|>
+fear	be	contagious[SEP]fear	has property	contagious<|endoftext|>
+way	be	stay[SEP]be	manner of	stay<|endoftext|>
+inventory	consist of	part[SEP]inventory item	part of	inventory<|endoftext|>
+boat	set	sail[SEP]boat	has a	sails<|endoftext|>
+use	share	information[SEP]share	manner of	use<|endoftext|>
+shower curtain	come in	shape[SEP]shower curtain	at location	shower stall<|endoftext|>
+student	complete	test[SEP]student	capable of	complete exam<|endoftext|>
+car	be used for	transportation[SEP]cars	used for	transport people<|endoftext|>
+gun	be used to kill	people[SEP]gun	used for	shoot objects or people<|endoftext|>
+golf course	drive	range[SEP]drive	at location	golf course<|endoftext|>
+film	end	the way[SEP]movie	capable of	near end<|endoftext|>
+bus	cover	most of the city[SEP]bus	at location	big cities<|endoftext|>
+truth	find	lodgment[SEP]find truth	has subevent	understanding<|endoftext|>
+snake	live in	river[SEP]snake	at location	river<|endoftext|>
+caller	use	number[SEP]number	used for	call on telephone<|endoftext|>
+electricity	be used in	the building[SEP]electricity	at location	building<|endoftext|>
+lawyer	be able to	rely[SEP]lawyers	capable of	object to heresay<|endoftext|>
+dining room	be used for	dining[SEP]dining area	used for	placing dining table<|endoftext|>
+park	enjoy	fresh air[SEP]fresh air	at location	park<|endoftext|>
+change	be	political[SEP]politicize	manner of	change<|endoftext|>
+country	be	japan[SEP]nation	at location	japan<|endoftext|>
+batter	hit	foul ball[SEP]batter	capable of	hit foul ball<|endoftext|>
+soap	be used to wash	other[SEP]soap	used for	get clean<|endoftext|>
+food	cause	heartburn[SEP]eating spicy food	causes	heartburn<|endoftext|>
+river	be used for	recreation[SEP]river	used for	boating<|endoftext|>
+change	be	uniform[SEP]uniformize	manner of	change<|endoftext|>
+cemetery	surround	the church[SEP]graveyard	at location	church grounds<|endoftext|>
+fisherman	catch	tuna[SEP]fishing	used for	fishermen to catch tuna<|endoftext|>
+group	include	crab[SEP]crab	at location	groups<|endoftext|>
+hinge	attach	door[SEP]hinge	part of	exterior door<|endoftext|>
+grape	grow in	the region[SEP]grape	at location	grape vine<|endoftext|>
+film	visit	place[SEP]movie	at location	movies<|endoftext|>
+toothpaste	contain	fluoride[SEP]fluoride toothpaste	used for	preventing cavities<|endoftext|>
+park	have	picnic tables[SEP]picnic table	at location	park<|endoftext|>
+marble	form through	change[SEP]marbleize	manner of	change surface<|endoftext|>
+bridge	connect	manhattan[SEP]brooklyn bridge	at location	manhattan<|endoftext|>
+salt	be made up of	two elements[SEP]salt	made of	ions<|endoftext|>
+concert	feature	soloist[SEP]soloist	at location	concert<|endoftext|>
+hotel	be located on	highway[SEP]motel	at location	city by highway<|endoftext|>
+hospital	be located in	urban areas[SEP]hospital	at location	urban area<|endoftext|>
+shampoo	contain	ingredient[SEP]most shampoos	has a	similar ingredients<|endoftext|>
+parent	name	their babies[SEP]parents	capable of	name babies<|endoftext|>
+fire	use	a fire extinguisher[SEP]fire extinguisher	used for	put out fire<|endoftext|>
+learning	improve	performance[SEP]learning new	causes	improved performance<|endoftext|>
+nap	possess	a natural sleep rhythm[SEP]nap	manner of	sleep<|endoftext|>
+showroom	sell	car[SEP]showroom	at location	car shop<|endoftext|>
+hammer	hit	the nail[SEP]hammer	used for	hit nail<|endoftext|>
+condensation	be	moisture[SEP]water	at location	condensation<|endoftext|>
+organism	include	parasite[SEP]parasite	at location	organism<|endoftext|>
+porch	be placed on	aspect[SEP]porch	used for	sitting on<|endoftext|>
+invitation	participate in	dialogue[SEP]invite	manner of	interact<|endoftext|>
+prerequisite	not have	the purpose[SEP]help	has prerequisite	worthy<|endoftext|>
+plan	go for	walk[SEP]go for walk	has prerequisite	go outside<|endoftext|>
+goal	be to find	the truth[SEP]find truth	motivated by goal	need to know truth<|endoftext|>
+news	cause	fear[SEP]reading news	causes	fear<|endoftext|>
+exercise	cause	fatigue[SEP]exercising	causes	fatigue<|endoftext|>
+wheel	be made from	metal[SEP]wheel	made of	metal<|endoftext|>
+family room	have	slider[SEP]family room	used for	look at slides<|endoftext|>
+scalp	be	removed[SEP]scalp	manner of	remove<|endoftext|>
+city	be full of	pizzeria[SEP]pizzeria	at location	populated area<|endoftext|>
+master bedroom	be furnished with	a king bed[SEP]master bedroom	has a	bed in<|endoftext|>
+car	use	a car wash[SEP]car wash	capable of	wash car<|endoftext|>
+gratitude	express	appreciation[SEP]thanking	causes	gratitude<|endoftext|>
+elevator	be used in	shopping malls[SEP]elevator	at location	mall<|endoftext|>
+people	want to play	game[SEP]seeing people play game	causes	want to play<|endoftext|>
+lawyer	address	the court[SEP]court	at location	lawyer<|endoftext|>
+container	be not in	identical location[SEP]not out of container	at location	container<|endoftext|>
+people	get	bored[SEP]bored people	capable of	start trouble<|endoftext|>
+state	include	northern mariana islands[SEP]northern marianas	part of	mariana islands<|endoftext|>
+bald eagle	live in	the wild[SEP]bald eagle	at location	nature<|endoftext|>
+property	have	spacious rooms[SEP]rooms	has property	more than one room<|endoftext|>
+solar system	consist of	the sun[SEP]sun	at location	solar system<|endoftext|>
+eye	be filled with	tear[SEP]eye	capable of	cry tears<|endoftext|>
+pile	be	placed[SEP]pile	manner of	put<|endoftext|>
+expert	determine	the cause[SEP]determine	manner of	cause<|endoftext|>
+person	face	criminal charges[SEP]criminal	capable of	face charges<|endoftext|>
+lab	diagnose	disease[SEP]disease	at location	lab<|endoftext|>
+car	be used for	work[SEP]car	used for	get to work<|endoftext|>
+forklift	be used to lift	material[SEP]forklift	used for	lifting and moving awkwardly shaped objects<|endoftext|>
+pilot	arrive at	the airport[SEP]pilot	at location	airport<|endoftext|>
+conditioner	soften	the hair[SEP]hair conditioner	used for	softening hair<|endoftext|>
+stone	be used in	jewelry[SEP]many precious stones	receives action	used in jewelry<|endoftext|>
+bleeding	cause	death[SEP]excessive bleeding	causes	death<|endoftext|>
+supermarket	sell	fruit[SEP]fruits	at location	supermarket<|endoftext|>
+goal	learn	new things[SEP]learn new	motivated by goal	able to do<|endoftext|>
+reason	begin with	first working day[SEP]beginning work	used for	starting new day<|endoftext|>
+castle	have	garden[SEP]castle might	has a	garden<|endoftext|>
+church	be	quiet[SEP]quiet	at location	church<|endoftext|>
+gymnast	compete on	beam[SEP]gymnast	capable of	step onto beam<|endoftext|>
+food	be	sustenance[SEP]having food	used for	sustenance<|endoftext|>
+people	work in	team[SEP]people	capable of	work in teams<|endoftext|>
+use	drill	hole[SEP]drill	used for	hole<|endoftext|>
+stationery	include	envelope[SEP]envelope	at location	stationery set<|endoftext|>
+microwave	be used to cook	food[SEP]microwave oven	capable of	heat foods<|endoftext|>
+digestive system	include	gallbladder[SEP]digestive system	has a	liver and gallbladder<|endoftext|>
+potato	be boiled in	water[SEP]potato	at location	boiling water<|endoftext|>
+head	be used with	either wall[SEP]head	used for	bang against wall<|endoftext|>
+person	consider	the fact[SEP]person	capable of	consider fact<|endoftext|>
+percussion instrument	produce	sound[SEP]percussion instrument	used for	make music<|endoftext|>
+exercise	lose	weight[SEP]lose weight	has subevent	exercise<|endoftext|>
+information	be used by	the company[SEP]company	used for	selling products or information<|endoftext|>
+prerequisite	use	keyboard[SEP]typing	has prerequisite	keyboard<|endoftext|>
+mouse	live in	garage[SEP]mouse	at location	garage<|endoftext|>
+hot tub	be filled with	water[SEP]hot tub	has a	hot water in<|endoftext|>
+pan	soak in	the sink[SEP]sink	used for	soak dishes<|endoftext|>
+bar	opened in	new york[SEP]bar	at location	new york city<|endoftext|>
+view	overlook	mountain[SEP]wonder view	at location	top of mountain<|endoftext|>
+banjo	be associated with	folk[SEP]banjo	used for	playing folk music<|endoftext|>
+lake	offer	windsurfing[SEP]lake	used for	windsurfing<|endoftext|>
+joke	be	slapstick[SEP]slapstick	part of	comedy<|endoftext|>
+sofa	be used for	lots of items[SEP]sofabed	used for	sitting<|endoftext|>
+deer	grow	antler[SEP]antler	part of	deer<|endoftext|>
+face	be	turned[SEP]about face	manner of	turn<|endoftext|>
+rest	take	nap[SEP]rest	has prerequisite	nap<|endoftext|>
+implant	be	attached[SEP]implant	manner of	attach<|endoftext|>
+chapel	be used for	wedding[SEP]chapel	used for	get married<|endoftext|>
+wine cellar	be	dark[SEP]wine cellar	at location	dark cool place<|endoftext|>
+diencephalon	include	the thalamus[SEP]thalamus	part of	diencephalon<|endoftext|>
+estate	increase in	value[SEP]real estate	capable of	increase in value<|endoftext|>
+goal	learn	new things[SEP]learn	motivated by goal	knowledge<|endoftext|>
+handle	open	the door[SEP]handle	used for	opening door<|endoftext|>
+school	be in	crisis[SEP]school	at location	crises<|endoftext|>
+car	cause	crash[SEP]stopping car	causes	crashes<|endoftext|>
+change	be needed in	society[SEP]change society	has prerequisite	have ideas<|endoftext|>
+lawyer	can	prove[SEP]attorney	capable of	prove case<|endoftext|>
+brain	contain	neuron[SEP]neuron	part of	cerebral cortex<|endoftext|>
+dog	live in	kennel[SEP]dog	at location	it's kennel<|endoftext|>
+mourner	attend	the funeral[SEP]mourner	at location	funeral<|endoftext|>
+hand	hold	the ball[SEP]hand	capable of	hold ball<|endoftext|>
+chef	prepare	soup[SEP]chef	capable of	add herbs to soup<|endoftext|>
+coffee table	be used in	living rooms[SEP]coffee table	used for	furnish living room<|endoftext|>
+camera	capture	image data[SEP]cameras	used for	record image data<|endoftext|>
+science	use	knowledge[SEP]science	part of	scientific knowledge<|endoftext|>
+kitchen	be equipped with	pot[SEP]pot	at location	kitchen<|endoftext|>
+writing	be	important way of communication[SEP]writing	used for	communicating<|endoftext|>
+internet	communicate with	family[SEP]internet	used for	communicate with family<|endoftext|>
+testimony	receive at	public hearing[SEP]hearing testimony	used for	deciding trial's outcome<|endoftext|>
+musical instrument	be used in	such a way[SEP]musical instrument	used for	making music<|endoftext|>
+aircraft	be used for	cargo transport[SEP]airplane	used for	transport<|endoftext|>
+apple	fall off	tree[SEP]apple	capable of	fall from tree<|endoftext|>
+light bulb	be used in	lamp[SEP]lamp	defined as	common light bulb<|endoftext|>
+report	provide	professional qualifications of teachers[SEP]teachers must	has a	teaching qualifications<|endoftext|>
+car	be stopped at	intersection[SEP]stopping car	used for	stopping at intersection<|endoftext|>
+infection	be caused by	virus[SEP]infection	receives action	caused by bacteria and viruses<|endoftext|>
+use	create	art[SEP]creating art	used for	entertainment<|endoftext|>
+monkey	live in	africa[SEP]monkey	at location	jungles of africa<|endoftext|>
+fungus	thrive in	damp[SEP]fungus	at location	damp areas<|endoftext|>
+robot	build	car[SEP]robot	used for	building cars<|endoftext|>
+prayer	be made by	the church[SEP]church	used for	prayer<|endoftext|>
+newspaper	run	headline[SEP]headline	at location	newspaper<|endoftext|>
+backpack	carry	bag[SEP]backpack	Entails	pack<|endoftext|>
+binder	contain	document[SEP]binder	used for	arrange sheets of paper<|endoftext|>
+meal	nourish	body[SEP]eat meal	used for	nourishment<|endoftext|>
+part	set	the stage[SEP]stage right	part of	stage<|endoftext|>
+cleaner	not travel with	vacuum cleaners[SEP]vacuum cleaners	has property	better than others<|endoftext|>
+backpack	be filled with	towel[SEP]towel	at location	backpack<|endoftext|>
+restaurant	serve	french fries[SEP]greasy french fries	at location	fast food restaurant<|endoftext|>
+eating	stay	healthy[SEP]staying healthy	has subevent	eat well<|endoftext|>
+debit card	be used for	payment[SEP]debit card	used for	paying bills<|endoftext|>
+abdomen	contain	the stomach[SEP]stomach	part of	human's abdominal organs<|endoftext|>
+club	own	property[SEP]clubs	has property	private<|endoftext|>
+disease	be diagnosed by	physical examination[SEP]having physical examination	causes	discovery of illness<|endoftext|>
+cut	use	circular saw[SEP]saw	used for	cut<|endoftext|>
+exercise	work	lat[SEP]exercise	manner of	work<|endoftext|>
+sofa	be used for	lots of items[SEP]sofa	used for	seat<|endoftext|>
+swimming pool	be located in	front of the house[SEP]pool	at location	neighbor's house<|endoftext|>
+airplane	gain	altitude[SEP]plane	capable of	gain altitude<|endoftext|>
+diver	have	nitrogen narcosis[SEP]scuba dive	has subevent	nitrogen narcosis<|endoftext|>
+fungus	include	mushroom[SEP]fungus	at location	mushroom patch<|endoftext|>
+food	contain	cholesterol[SEP]unhealthy food	has a	cholesterol<|endoftext|>
+tractor	work in	field[SEP]tractor	used for	planting field<|endoftext|>
+wallet	contain	money[SEP]wallet	used for	holding money<|endoftext|>
+newspaper	be	the new york times[SEP]new york times	instance of	newspaper<|endoftext|>
+reading	increase	knowledge[SEP]reading book	causes	enhanced knowledge<|endoftext|>
+travel agent	book	flight[SEP]travel agent	capable of	book flight<|endoftext|>
+spouse	be	abusive[SEP]person	desires	divorce abusive spouse<|endoftext|>
+cat	kill	bird[SEP]cat	capable of	kill bird<|endoftext|>
+cash	cover	emergency[SEP]cash	used for	handle emergencies<|endoftext|>
+change	affect	society[SEP]changing society	causes	sometimes bad<|endoftext|>
+film	use	location[SEP]film	at location	movie<|endoftext|>
+paper	be intended to be used for	research and reference purposes[SEP]writing term paper	used for	researching topic<|endoftext|>
+dodo	become	extinct[SEP]dodo	has property	extinct<|endoftext|>
+telescope	view	jupiter[SEP]look through telescope	has subevent	seeing jupiter<|endoftext|>
+rest	go to	bed[SEP]have rest	has prerequisite	go to bed<|endoftext|>
+restaurant	serve	homemade pasta[SEP]italian restaurant	used for	enjoying pasta<|endoftext|>
+average	be	good[SEP]average	distinct from	good<|endoftext|>
+beam	support	the roof[SEP]beam	at location	roof<|endoftext|>
+circumstance	create	fear of imminent peril[SEP]impending danger	causes desire	contemplate<|endoftext|>
+condition	be	the bread[SEP]bread	manner of	cover<|endoftext|>
+handle	represent	object[SEP]handle	part of	object<|endoftext|>
+pantry	need	cereal[SEP]cereal	at location	pantry<|endoftext|>
+door	open in	the overhanging style[SEP]open door	has subevent	can walk through<|endoftext|>
+lever	be used with	appropriate fulcrum[SEP]fulcrum	part of	lever<|endoftext|>
+tile	be used on	floor[SEP]tile	used for	surfacing floor<|endoftext|>
+people	wear	t-shirts[SEP]people	capable of	wear t shirts<|endoftext|>
+change	be related to	etc[SEP]communize	manner of	change<|endoftext|>
+fungus	infect	the skin[SEP]fungus	at location	skin<|endoftext|>
+way	avoid	hypothermia[SEP]getting warm	used for	avoiding hypothermia<|endoftext|>
+mental illness	be	managed[SEP]mental illness	capable of	managed<|endoftext|>
+balloon	be	expanded[SEP]balloon	manner of	expand<|endoftext|>
+region	include	maldives[SEP]maldives	part of	maldives<|endoftext|>
+air conditioner	stabilize	the air temperature[SEP]air conditioner	used for	lowering air temperature<|endoftext|>
+method	achieve	this goal[SEP]method	capable of	further goal<|endoftext|>
+island	lie to	the northeast of orkney[SEP]orkney islands	part of	atlantic<|endoftext|>
+bacteria	serve	useful purpose[SEP]most bacteria	has property	useful<|endoftext|>
+pope	be	the head of the church[SEP]pope	defined as	head of catholic church<|endoftext|>
+chest pain	be	a heart attack[SEP]have heart attack	has subevent	feel pain in chest<|endoftext|>
+pilot	be able to	fly[SEP]pilot	capable of	fly with such skill<|endoftext|>
+tree	grow	larger[SEP]trees	capable of	grow bigger<|endoftext|>
+change	improve	posture[SEP]straighten	manner of	change posture<|endoftext|>
+head	contain	the brain[SEP]head	has a	brain<|endoftext|>
+musician	play in	multiple bands[SEP]musicians	capable of	play in band<|endoftext|>
+enemy	suffer	heavy casualties[SEP]fighting enemy	causes	casualties<|endoftext|>
+marijuana	relieve	pain[SEP]marijuana	capable of	ease chonic pain<|endoftext|>
+distance	be	from[SEP]distance	distinct from	here<|endoftext|>
+people	own	property[SEP]people	has property	wise<|endoftext|>
+country	include	several states[SEP]states	at location	country<|endoftext|>
+good	overcome	evil[SEP]good	used for	destroying evil<|endoftext|>
+body	consist of	head[SEP]head	distinct from	body<|endoftext|>
+company	ship	product[SEP]company	capable of	ship products<|endoftext|>
+toy	presented in	ball[SEP]toy ball	used for	play<|endoftext|>
+change	fall through	crack[SEP]crack	manner of	change<|endoftext|>
+water heater	be located in	basement[SEP]water heater	at location	cellar<|endoftext|>
+watch	be	checked[SEP]watch	manner of	check<|endoftext|>
+bottle	be kept in	the fridge[SEP]bottle	at location	fridge<|endoftext|>
+amygdala	be	the part of the brain[SEP]amygdala	part of	brain<|endoftext|>
+depression	be caused by	low serotonin levels[SEP]serotonin	has property	low in people with depression<|endoftext|>
+town	be situated in	valley[SEP]town	at location	valley<|endoftext|>
+living room	have	a bay window[SEP]bay window	at location	living room<|endoftext|>
+plan	be	party[SEP]going to party	causes	plan<|endoftext|>
+judge	pass	sentence[SEP]pass	manner of	judge<|endoftext|>
+handle	be designed for	grip[SEP]handle	used for	gripping<|endoftext|>
+human	have	unique fingerprint[SEP]every individual human	has a	near unique fingerprint<|endoftext|>
+machine	dispense	product[SEP]machine	capable of	dispense<|endoftext|>
+caterpillar	turn into	butterfly[SEP]caterpillar turning into cocoon	causes	butterfly<|endoftext|>
+table	be set with	cup[SEP]setting cup on table	has prerequisite	table and cup<|endoftext|>
+state	adapt to	change[SEP]integrate	manner of	change state<|endoftext|>
+drug	alter	perception[SEP]drugs	capable of	influence perception<|endoftext|>
+west	found	the royal academy of arts[SEP]royal academy of arts	at location	london<|endoftext|>
+doctor	cause	death[SEP]going to doctor	causes	death<|endoftext|>
+working	earn	money[SEP]working	causes	earning money<|endoftext|>
+observation	be made from	the surface of the moon[SEP]probes	at location	suface of moon<|endoftext|>
+worker	leave	their jobs[SEP]workers	capable of	leave jobs<|endoftext|>
+customer	voice	their complaints[SEP]consumer	capable of	voice complaint<|endoftext|>
+emirate	be	abu dhabi[SEP]abu dhabi	part of	united arab emirates<|endoftext|>
+cut	be not	long[SEP]cut away	manner of	cut<|endoftext|>
+cat	lick	their fur[SEP]cats	capable of	lick fur<|endoftext|>
+certificate	be issued in	the name[SEP]name	at location	certificate<|endoftext|>
+food	provide	backpack[SEP]food	at location	backpack<|endoftext|>
+plan	chart	course[SEP]chart	manner of	plan<|endoftext|>
+mental illness	cause	disturbed or unusual thinking[SEP]mental illness	capable of	cause severe thought disorder<|endoftext|>
+statue	be placed in	the park[SEP]statue	at location	state park<|endoftext|>
+person	make	false statement[SEP]person	capable of	make false statement<|endoftext|>
+body	surround	organ[SEP]organ	at location	body<|endoftext|>
+concrete	be used for	foundation[SEP]concrete	used for	pour foundation<|endoftext|>
+chapel	be used for	worship[SEP]chapel	used for	worship<|endoftext|>
+frog	have	long legs[SEP]frog legs	part of	true frog<|endoftext|>
+lawn mower	cut	a grass surface[SEP]lawn mower	used for	tidy up grass<|endoftext|>
+leather	be used for	shoe[SEP]leather	used for	create shoes<|endoftext|>
+vending machine	dispense	crisp[SEP]crisps	at location	vending machines<|endoftext|>
+museum	taken	precaution[SEP]visiting museum	used for	contemplation<|endoftext|>
+lie	enhance	standing[SEP]lie	distinct from	standing<|endoftext|>
+eel	live in	freshwater[SEP]eel	part of	common eel<|endoftext|>
+amputation	be	traumatic[SEP]amputation	capable of	happen because of traumatic event<|endoftext|>
+spectator	watch	the race[SEP]spectators	capable of	watch race<|endoftext|>
+literature	include	study[SEP]literature	used for	studying<|endoftext|>
+shop	sell	candle[SEP]candle	at location	shop<|endoftext|>
+state	consider	change[SEP]close	manner of	change state<|endoftext|>
+calculator	perform	subtraction[SEP]using calculator	has subevent	multiply<|endoftext|>
+devil	be known as	satan[SEP]satan	defined as	devil<|endoftext|>
+field	answer	question[SEP]field	manner of	answer<|endoftext|>
+diaphragm	separate	the chest[SEP]diaphragm	part of	torso<|endoftext|>
+way	be	regenerative[SEP]regenerate	manner of	change<|endoftext|>
+disease	include	ankylosing spondylitis[SEP]one impairment person might	has a	ankylosing spondylitis<|endoftext|>
+natural gas	be used for	cooking[SEP]natural gas	receives action	used in cooking<|endoftext|>
+fishing	be done for	pleasure[SEP]going fishing	used for	pleasure<|endoftext|>
+information	relate to	finding[SEP]finding information	used for	knowing things<|endoftext|>
+teacher	can	learn[SEP]teacher	capable of	dare to learn<|endoftext|>
+person	understand	the world[SEP]person	desires	understand world<|endoftext|>
+sugar	contain	mineral[SEP]sugar	made of	minerals<|endoftext|>
+exercise	prolong	life[SEP]exercise	capable of	amount to long healthy life<|endoftext|>
+sciatic nerve	run down	the back of each leg[SEP]sciatic nerve	part of	leg<|endoftext|>
+dog	pull	sled[SEP]sled dogs	capable of	pull sled<|endoftext|>
+experience	need	bathtub[SEP]have bath	has prerequisite	fill bathtub<|endoftext|>
+horse	be in	the background[SEP]horse	at location	a<|endoftext|>
+jellyfish	be found in	every ocean[SEP]jellyfish	at location	atlantic ocean<|endoftext|>
+person	can	think[SEP]person	capable of	think<|endoftext|>
+hell	be	heaven[SEP]hell	distinct from	heaven<|endoftext|>
+air conditioner	near	the point[SEP]air conditioner	at location	south<|endoftext|>
+anthrax	be treated with	antibiotic[SEP]suspected human cases of anthrax	receives action	treated immediately with appropriate antibiotics<|endoftext|>
+conversation	be about	idea[SEP]having conversation	used for	communicating idea<|endoftext|>
+use	play	role[SEP]role	used for	playing<|endoftext|>
+lathe	be used in	metalworking[SEP]lathe	capable of	machine metal<|endoftext|>
+aluminum	be	a chemical element[SEP]one of chemical elements	has property	aluminum<|endoftext|>
+lake	be	shallow[SEP]shallow water	at location	lake<|endoftext|>
+clock	measure	time[SEP]clock	used for	know time<|endoftext|>
+purpose	be to reintroduce	beneficial vitamins[SEP]maintaining good health	has subevent	take vitamins<|endoftext|>
+cigarette	relieve	stress[SEP]smoking	used for	relieving stress<|endoftext|>
+horse	pull	plow[SEP]horse	used for	pull plow in field<|endoftext|>
+u.s.	comprise	fifty states[SEP]united states	has a	fifty states<|endoftext|>
+apple	use	sharp knife[SEP]with knife	capable of	quarter apple<|endoftext|>
+cable	carry	signal[SEP]cable	used for	transmitting signal<|endoftext|>
+brewer	make	beer[SEP]brewer	capable of	make beer<|endoftext|>
+opportunity	travel	different cultures[SEP]travel	motivated by goal	experience different culture<|endoftext|>
+bank	save	money[SEP]bank	used for	save money<|endoftext|>
+olive oil	be made from	olive[SEP]olive oil	defined as	oil from olive fruit<|endoftext|>
+land	be used to grow	food[SEP]land	used for	grow food<|endoftext|>
+carrot	taste like	another[SEP]carrots	has a	particular taste<|endoftext|>
+damage	be caused by	unavailability[SEP]impair	manner of	damage<|endoftext|>
+bookshelf	be used to store	book[SEP]bookshelf	used for	bookends<|endoftext|>
+calendar	hang on	the wall[SEP]calendar	receives action	hung on wall<|endoftext|>
+condom	be intended to provide	a method of contraception[SEP]condom	used for	contraception<|endoftext|>
+progress	be made in	development[SEP]progress	manner of	develop<|endoftext|>
+temperature	be	heated[SEP]temperature	capable of	heat up<|endoftext|>
+count	be	other counts[SEP]count down	manner of	count<|endoftext|>
+insight	strive to produce	unique books[SEP]books	capable of	further knowledge<|endoftext|>
+present	be	politicized and arbitrary prosecutions[SEP]politick	manner of	prosecute<|endoftext|>
+way	be to use	a moisture meter[SEP]examining thing	has subevent	use moisture meter<|endoftext|>
+bird	have	strong beaks[SEP]birds	has a	beaks<|endoftext|>
+patron	return	library materials[SEP]library patron	capable of	return book<|endoftext|>
+museum	provide	platform[SEP]platform	at location	museum<|endoftext|>
+dress	be	costume[SEP]costume	manner of	dress<|endoftext|>
+mirror	reflect	light[SEP]mirror	used for	reflection<|endoftext|>
+paper	require	knowledge of various subjects[SEP]writing term paper	has prerequisite	knowledge of subject<|endoftext|>
+kitchen	be used to cook	basic meals[SEP]kitchen	used for	cooking dinner<|endoftext|>
+soil	contain	aluminum[SEP]soil on earth	has a	aluminum<|endoftext|>
+health	lead to	resuscitation[SEP]resuscitate	causes	come to<|endoftext|>
+speaker	deliver	keynote[SEP]keynote	manner of	address<|endoftext|>
+knowing	facilitate	the learning of the language[SEP]learning language	has prerequisite	understanding of words<|endoftext|>
+way	see	sight[SEP]behold	manner of	see<|endoftext|>
+chess	set	piece[SEP]chess piece	part of	game of chess<|endoftext|>
+problem	spend	money[SEP]spending money	causes	problems<|endoftext|>
+person	appear	confident[SEP]person	desires	appear confident<|endoftext|>
+patience	wait in	line[SEP]waiting on line	has prerequisite	lot of patience<|endoftext|>
+porch	have	swing[SEP]swing	at location	porch<|endoftext|>
+engine	use	power[SEP]engine	used for	power<|endoftext|>
+vending machine	be placed in	school[SEP]vending stand	at location	school<|endoftext|>
+turnstile	give	access[SEP]turnstile	used for	controlling access<|endoftext|>
+bill	be vetoed by	the president[SEP]president	capable of	veto bill<|endoftext|>
+skin	apply	moisturizer[SEP]moisturizer	capable of	help heal dry skin<|endoftext|>
+catheter	comprise	a catheter body[SEP]one type of catheter	defined as	female catheter<|endoftext|>
+garbage	be transported to	landfill[SEP]garbage	at location	landfill<|endoftext|>
+right	place	underground water mains[SEP]water	at location	underground<|endoftext|>
+exercise	cause	muscle strains[SEP]getting exercise	causes	strains<|endoftext|>
+course	tell	story[SEP]telling story	has prerequisite	story to tell<|endoftext|>
+report	provide	core knowledge of the market[SEP]know how stock market performed	has prerequisite	lot of research<|endoftext|>
+clock	sit on	shelf[SEP]clock	at location	shelf<|endoftext|>
+dish	be served for	dinner[SEP]dish	used for	having dinner<|endoftext|>
+family room	play	game[SEP]family room	used for	play board game<|endoftext|>
+umbrella	be provided on	the beach[SEP]beach umbrella	at location	beach<|endoftext|>
+magnetic field	be generated by	the magnetic induction drive unit[SEP]magnetic fields	receives action	generated by induction<|endoftext|>
+money	buy	christmas presents[SEP]buy christmas presents	has prerequisite	use money<|endoftext|>
+restaurant	serve	french cuisine[SEP]french restaurant	used for	eat dinner<|endoftext|>
+telescope	be in	use[SEP]looking through telescope	has prerequisite	have telescope<|endoftext|>
+backpack	be filled with	lunch[SEP]lunch	at location	backpack<|endoftext|>
+african country	include	gabon[SEP]gabon	part of	africa<|endoftext|>
+food	be n’t	digested[SEP]eating	has subevent	food will digested<|endoftext|>
+desire	be	good person[SEP]person	desires	good looking<|endoftext|>
+death	can	occur[SEP]death	capable of	happen to<|endoftext|>
+researcher	can	identify[SEP]researcher	capable of	show or findings<|endoftext|>
+right	remove	brush[SEP]brush	manner of	remove<|endoftext|>
+piano	play	music[SEP]playing piano	has subevent	make music<|endoftext|>
+rocket	risen on	every side[SEP]rocket	manner of	rise<|endoftext|>
+soup	include	chicken noodle[SEP]noodle	at location	chicken noodle soup<|endoftext|>
+payment	be made by	other payment method[SEP]payment counter	used for	making payments<|endoftext|>
+frying pan	be used for	frying[SEP]pan	used for	frying foods<|endoftext|>
+court	be located in	the state[SEP]court	at location	courthouse<|endoftext|>
+ball	be used in	sport[SEP]playing ball	used for	competition<|endoftext|>
+umbrella	be	dry[SEP]umbrella	used for	help keep dry<|endoftext|>
+cat	land on	their feet[SEP]cat	capable of	land upright<|endoftext|>
+torture	result in	death[SEP]prolonged torture	capable of	lead to death<|endoftext|>
+payment	use	check[SEP]check	used for	pay for<|endoftext|>
+working	take	break[SEP]take break	has prerequisite	work hard<|endoftext|>
+choir	be in	fine voice[SEP]voice	at location	choir<|endoftext|>
+restaurant	cook	food[SEP]cook	at location	restaurant<|endoftext|>
+way	remove	disincentive[SEP]clear off	manner of	remove<|endoftext|>
+okra	be known as	gumbo[SEP]gumbo	part of	okra<|endoftext|>
+aircraft	use	runway[SEP]runway	used for	aircraft takeoff<|endoftext|>
+bicycle	have	handlebar[SEP]handlebar	part of	bicycle<|endoftext|>
+bookcase	be used in	office[SEP]bookcase	used for	centralizing stuff<|endoftext|>
+union	be by	law[SEP]union	at location	law<|endoftext|>
+box	be	surprise[SEP]surprise	at location	box<|endoftext|>
+refrigerator	be used to store	food[SEP]store refrigerator	used for	demonstrate products<|endoftext|>
+snoring	be	an instance of sound sleep[SEP]snoring	has prerequisite	sleeping<|endoftext|>
+bullying	inflict	harm[SEP]bullying	capable of	lead to serious psychological injury<|endoftext|>
+solar system	consist of	earth[SEP]earth	part of	solar system<|endoftext|>
+chef	prepare	steak[SEP]cook	capable of	prepare steak<|endoftext|>
+assay	use	serum[SEP]bioassay	manner of	assay<|endoftext|>
+coffee mug	be used for	coffee[SEP]mug	used for	hold hot coffee<|endoftext|>
+car	cause	crash[SEP]driving car	causes	car crash<|endoftext|>
+lung	move	air[SEP]lunge	manner of	move<|endoftext|>
+people	feel	comfortable[SEP]humans	desires	feel comfortable<|endoftext|>
+risk	be related to	safety[SEP]danger	distinct from	safety<|endoftext|>
+milk	be used as	drink[SEP]milk	used for	drinking<|endoftext|>
+flower	have	pistil[SEP]pistil	part of	flower<|endoftext|>
+parent	separate	child[SEP]parent	capable of	separate children<|endoftext|>
+peace	not be	separated[SEP]peace	distinct from	fighting<|endoftext|>
+person	share	their thoughts[SEP]person	capable of	share thoughts with other people<|endoftext|>
+loft	be used for	storage[SEP]loft	used for	store things<|endoftext|>
+device	be	explosive[SEP]explosive	part of	explosive device<|endoftext|>
+people	lose	weight[SEP]people	capable of	lose weight<|endoftext|>
+crop	be grown in	the valley[SEP]valley	used for	grow food crops<|endoftext|>
+tourist	enjoy	sightseeing[SEP]tourist	capable of	view sights<|endoftext|>
+plumbing	be	crucial area of the home[SEP]plumbing	at location	house<|endoftext|>
+castle	consist of	keep[SEP]keep	part of	castle<|endoftext|>
+shark	prefer	warm waters[SEP]shark	at location	warmer oceans<|endoftext|>
+folding chair	be at	the storage configuration[SEP]folding chair	has property	portable<|endoftext|>
+dog	guard	property[SEP]dog	capable of	guard property<|endoftext|>
+house	be equipped with	air conditioning[SEP]air conditioning	used for	cool house<|endoftext|>
+ballpoint pen	dispense	ink[SEP]ballpoint pen	used for	write with<|endoftext|>
+student	experience	exam stress[SEP]taking exam	causes	stress<|endoftext|>
+census	count	people[SEP]census	manner of	count<|endoftext|>
+learning	make	mistake[SEP]making mistakes	part of	learning<|endoftext|>
+park	have	soccer fields[SEP]soccer field	at location	park<|endoftext|>
+desire	write	poetry[SEP]person	desires	write poems<|endoftext|>
+polar bear	be found on	land[SEP]polar bear	at location	zoo<|endoftext|>
+restaurant	serve	taco[SEP]taco	at location	fast food restaurant<|endoftext|>
+group	gather in	a conference room[SEP]group of people	at location	conference<|endoftext|>
+doorknob	be	placed[SEP]doorknob	part of	door<|endoftext|>
+instrument	be found in	orchestra[SEP]instrument	at location	orchestra<|endoftext|>
+calculator	be	helpful[SEP]using calculator	used for	answering math problem<|endoftext|>
+student	be able to	test[SEP]student	capable of	study for test<|endoftext|>
+glass	be made from	silica[SEP]glass	made of	silica<|endoftext|>
+chicken	be	potato[SEP]potato	at location	chicken<|endoftext|>
+peace	not exist without	development[SEP]peace	created by	non voilence<|endoftext|>
+parent	stay with	their children[SEP]parents	capable of	stay with children<|endoftext|>
+line	leave out	way[SEP]leaving line	used for	going out<|endoftext|>
+baby	have	brown eyes[SEP]babies	has a	big eyes<|endoftext|>
+antibiotic	be used to treat	infection[SEP]antibiotic	used for	treating bacterial infection<|endoftext|>
+chromosome	contain	gene[SEP]gene	part of	chromosome<|endoftext|>
+change	homogenize	difference[SEP]homogenize	manner of	change state<|endoftext|>
+glue	dry	clear[SEP]glue	capable of	dry<|endoftext|>
+kitchen	be used for	cooking[SEP]kitchen	used for	cook food<|endoftext|>
+island	have	several beaches[SEP]islands	has a	beaches<|endoftext|>
+oven	be used for	baking[SEP]baking oven	used for	baking cakes<|endoftext|>
+pen	be used for	writing[SEP]pen	used for	write story<|endoftext|>
+skin	feel	smooth[SEP]skin	capable of	feel smooth<|endoftext|>
+cow	graze on	grass[SEP]cow	at location	pasture grazing<|endoftext|>
+mistake	cost	money[SEP]mistake	capable of	cost money<|endoftext|>
+shop	be located in	mall[SEP]department store	at location	mall<|endoftext|>
+opinion	concur in	part[SEP]agree with	has prerequisite	share opinion with person<|endoftext|>
+bedroom	want	mirror[SEP]mirror	at location	bedroom<|endoftext|>
+change	be	transformation[SEP]transform	manner of	change<|endoftext|>
+water ice	be	present[SEP]ice	capable of	become water<|endoftext|>
+key	be	effective change management[SEP]efficient implementation of change	part of	manager's job<|endoftext|>
+water vapor	get cooled by	condense[SEP]water vapor cooled enough	has subevent	condenses<|endoftext|>
+church	be used for	wedding[SEP]church	used for	get married in<|endoftext|>
+subject	read	sentence[SEP]subject	part of	sentence<|endoftext|>
+subject	be included in	the study[SEP]study	used for	place to study subject<|endoftext|>
+car	press	the accelerator[SEP]accelerator	part of	car<|endoftext|>
+pool	be used in	summer[SEP]pool	used for	cooling off in summer<|endoftext|>
+piece	use	paper[SEP]piece of paper	used for	making documents<|endoftext|>
+desire	know	the self[SEP]person	desires	self knowledge<|endoftext|>
+nose	be	photographed[SEP]nose	at location	photograph of person<|endoftext|>
+lake	lie on	land[SEP]lake	at location	low lying area<|endoftext|>
+eye	perceive	depth[SEP]sight	manner of	perceive<|endoftext|>
+information	be	online[SEP]information	at location	online<|endoftext|>
+cello	be	front[SEP]front	part of	cello<|endoftext|>
+wig	impart	high-quality human hair wigs[SEP]hair	at location	wig<|endoftext|>
+course	be	smooth[SEP]course	distinct from	smooth<|endoftext|>
+information	be contained in	the petition[SEP]supplicate	manner of	petition<|endoftext|>
+muffin	taste	similar[SEP]muffins	capable of	taste good<|endoftext|>
+medicine	include	prednisone[SEP]prednisone	at location	medicine chest<|endoftext|>
+condom	be intended to provide	a method of contraception[SEP]condom	used for	having sex<|endoftext|>
+mason	build up	wall[SEP]mason	capable of	build stone wall<|endoftext|>
+dark matter	hold	galaxy[SEP]dark matter	located near	galaxy<|endoftext|>
+cut	grow over	time[SEP]cut	manner of	grow<|endoftext|>
+blimp	be used for	advertising[SEP]advertising	receives action	done on blimps<|endoftext|>
+mountain	be	makalu[SEP]makalu	part of	himalayas<|endoftext|>
+cafe	serve	pie[SEP]cafe	at location	pie<|endoftext|>
+prerequisite	include	a high school diploma[SEP]go to school	has prerequisite	enroll<|endoftext|>
+avocado	contain	protein[SEP]avocados	has a	more protein than other fruit<|endoftext|>
+waste	pile up in	location[SEP]waste	at location	trash<|endoftext|>
+diver	hold	their breath[SEP]diver	capable of	holding breath<|endoftext|>
+bass guitar	be known as	electric bass[SEP]bass	distinct from	guitar<|endoftext|>
+hand	correspond to	part of the body[SEP]hand	part of	body<|endoftext|>
+topic	be explained with	clear	 succinct study notes[SEP]study for subject	has subevent	remember more of<|endoftext|>
+person	get	enough sleep[SEP]person	desires	sufficient sleep<|endoftext|>
+bottle	be filled with	beer[SEP]bottle	used for	storing beer<|endoftext|>
+hinge	be	attached[SEP]hinge	manner of	attach<|endoftext|>
+bobby pin	be used in	other hair styles[SEP]bobby pin	used for	hold hair<|endoftext|>
+deli	offer	sandwich[SEP]deli	capable of	sell sandwiches<|endoftext|>
+fridge	be stocked with	carrot[SEP]carrott	at location	refrigerator<|endoftext|>
+communication	use	word[SEP]words	used for	communicate with<|endoftext|>
+opportunity	visit	museum[SEP]desire to visit museum	causes desire	see artifacts<|endoftext|>
+shirt	cover	arm[SEP]shirt	used for	cover arms<|endoftext|>
+property	have	beautiful gardens[SEP]garden	has property	nice<|endoftext|>
+person	continue	their education[SEP]student	capable of	continue education<|endoftext|>
+course	be taken for	the degree[SEP]taking course	used for	getting degree<|endoftext|>
+manner	inhibit	the use[SEP]inhibit	manner of	prevent<|endoftext|>
+human	have	large brains[SEP]humans	has a	brains<|endoftext|>
+researcher	receive	award[SEP]university	capable of	honor researcher with award<|endoftext|>
+waterfall	flow into	pond[SEP]flowing water	at location	waterfall<|endoftext|>
+autopsy	determine	manner[SEP]autopsy	manner of	examine<|endoftext|>
+device	include	loudspeaker[SEP]loudspeaker	part of	public address system<|endoftext|>
+drawing	use	paper[SEP]paper	used for	drawing things on<|endoftext|>
+beer	be on	shelf[SEP]beer	at location	shelf<|endoftext|>
+head	contain	the brain[SEP]head	used for	containing brain<|endoftext|>
+african country	include	chad[SEP]chad	part of	africa<|endoftext|>
+classroom	be located on	the ground floor[SEP]classroom	has a	floor<|endoftext|>
+cannibalism	be	common[SEP]cannibalism	defined as	practice of eating flesh of own kind<|endoftext|>
+change	extend	the time[SEP]extend	manner of	change<|endoftext|>
+way	be to have	thorough checking of the grill[SEP]grill	manner of	examine<|endoftext|>
+manufacturer	market	their products[SEP]manufacturers	capable of	market products<|endoftext|>
+information	be used to send	message[SEP]posting message	used for	giving information<|endoftext|>
+desire	be	alone[SEP]human	desires	alone<|endoftext|>
+government	work with	school[SEP]government	capable of	school children<|endoftext|>
+intern	work at	company[SEP]intern	at location	desk<|endoftext|>
+ocean	taken	place[SEP]water	at location	ocean<|endoftext|>
+island	be inhabited by	22 french-speaking acadians[SEP]acadian french	at location	prince edward island<|endoftext|>
+basket	be used for	storage[SEP]basket	used for	hold small items<|endoftext|>
+wish	be	expressed[SEP]wish	manner of	express<|endoftext|>
+combination	stretch for	greater movement[SEP]stretch	manner of	move<|endoftext|>
+tooth	be used to grind up	food[SEP]tooth	used for	eating<|endoftext|>
+change	be needed in	society[SEP]change society	has prerequisite	change yourself<|endoftext|>
+hoist	be used for	lifting[SEP]hoist	used for	lifting things<|endoftext|>
+classroom	be used for	instruction[SEP]classroom	used for	teach<|endoftext|>
+food	be prepared by	professional chefs[SEP]chefs	capable of	make food<|endoftext|>
+gray	be	color[SEP]color	distinct from	gray<|endoftext|>
+airline	operate	fleet[SEP]fleet	part of	airline<|endoftext|>
+neutron	be composed of	two down quarks[SEP]neutron	made of	one up quark and two down quarks<|endoftext|>
+patent	describe	way[SEP]description	part of	patent<|endoftext|>
+field	be used for	football[SEP]football field	used for	play sport<|endoftext|>
+space	be used for	parking[SEP]space	used for	parking<|endoftext|>
+pad	be	cushioned[SEP]pad	used for	cushion<|endoftext|>
+student	develop	good study habits[SEP]study	has prerequisite	develop good study habits<|endoftext|>
+frying pan	be used for	frying[SEP]frying pan	has property	useful for cooking<|endoftext|>
+money	be spent on	other services[SEP]spending money	used for	obtaining products and services<|endoftext|>
+summer solstice	be	the longest day[SEP]summer solstice	defined as	longest day of year<|endoftext|>
+library	be located in	canada[SEP]library	at location	canada<|endoftext|>
+health insurance	cover	drug[SEP]health insurance	capable of	cover charges for prescription drugs<|endoftext|>
+family room	spend	family time[SEP]family room	used for	spending time with family<|endoftext|>
+house	rule	household items[SEP]household item	at location	house<|endoftext|>
+person	take	breath[SEP]person	capable of	hold breath<|endoftext|>
+buying	spend	money[SEP]buying	used for	spending money<|endoftext|>
+doctor	improve	health[SEP]doctor	capable of	help maintain good health<|endoftext|>
+goal	read	book[SEP]read book	motivated by goal	know story<|endoftext|>
+right	commit	perjury[SEP]commit perjury	motivated by goal	protect<|endoftext|>
+teacher	guide	student[SEP]teacher	capable of	guide student<|endoftext|>
+cat	like to scratch	thing[SEP]cat	capable of	scratch<|endoftext|>
+escalator	move	people[SEP]escalator	used for	bringing people up<|endoftext|>
+alarm clock	be	available[SEP]awake	has prerequisite	set alarm clock<|endoftext|>
+people	go on	vacation[SEP]people	capable of	plan to go on vacation<|endoftext|>
+art	develop for	aesthetic[SEP]creating art	used for	aesthetic expression<|endoftext|>
+backpack	hold	alot of weight[SEP]backpack	capable of	carry load<|endoftext|>
+cabinet	store	tool[SEP]display cabinet	at location	shop<|endoftext|>
+researcher	discovered	new planet[SEP]scientist	capable of	discover new planet<|endoftext|>
+watermelon	be	water[SEP]watermelon	part of	watermelon<|endoftext|>
+foot	be found in	many vertebrates[SEP]vertebrate foot	part of	vertebrate<|endoftext|>
+spirit	be used as	medicine[SEP]spirit	used for	healing<|endoftext|>
+person	listen to	radio[SEP]one	capable of	listen to radio<|endoftext|>
+toilet paper	be	biodegradable[SEP]toilet paper	has property	biodegradable<|endoftext|>
+car	have	four tires[SEP]automobiles	has a	four tires<|endoftext|>
+fun	go for	walk[SEP]going for walk	used for	fun<|endoftext|>
+garden	be used to grow	vegetable[SEP]garden	used for	grow healthy food<|endoftext|>
+web page	use	a web browser[SEP]web browser	used for	viewing web pages<|endoftext|>
+badminton	be	the fastest racquet sport[SEP]badminton	defined as	fastest racquet sport<|endoftext|>
+lens	focus	light[SEP]lens	used for	focus light<|endoftext|>
+baby	arrive on	time[SEP]baby	capable of	arrive on time<|endoftext|>
+human body	use	protein[SEP]human bodies	has property	rich in protein<|endoftext|>
+island	be located in	the gulf of guinea[SEP]gulf of guinea	part of	atlantic<|endoftext|>
+money	buy	christmas presents[SEP]buying christmas presents	used for	fun<|endoftext|>
+train	carry	coal[SEP]coals	used for	make trains go<|endoftext|>
+visceral pleura	dip into	fissure[SEP]visceral pleura	part of	pleura<|endoftext|>
+car	be used on	the road[SEP]car	used for	drive on road<|endoftext|>
+bomb	destroy	city[SEP]bomb	capable of	destroy town<|endoftext|>
+house	be located in	the street[SEP]houses	at location	street<|endoftext|>
+factory	use	material[SEP]factory	used for	manufacture things<|endoftext|>
+actor	receive	award[SEP]actor	capable of	present award<|endoftext|>
+yogurt	contain	fruit[SEP]yogurt	has property	flavored with fruit<|endoftext|>
+believer	attend	church[SEP]believer	at location	church<|endoftext|>
+writing	appeared in	journal[SEP]journal entry	created by	writing<|endoftext|>
+auditorium	be used for	concert[SEP]auditorium	used for	watching performances<|endoftext|>
+restaurant	offer	vegetarian options[SEP]vegetarian restaurant	used for	get food<|endoftext|>
+dog	chase	frisbee[SEP]playing frisbee	has subevent	chase dog<|endoftext|>
+salt	be added to	food[SEP]salt	used for	salting meals<|endoftext|>
+table	be set with	cup[SEP]setting cup on table	has prerequisite	coordination<|endoftext|>
+city	include	seattle[SEP]seattle	instance of	city<|endoftext|>
+forklift	move	material[SEP]forklift	used for	move heavy objects<|endoftext|>
+sun	provide	heating[SEP]sun	capable of	heat ground<|endoftext|>
+rocket	be fueled by	liquid oxygen[SEP]liquid oxygen	receives action	used as rocket fuel<|endoftext|>
+forklift	be used to lift	material[SEP]forklift	used for	lift heavy items<|endoftext|>
+butterfly	have	large	 coloured wings[SEP]butterfly	has a	wings<|endoftext|>
+fear	be associated with	change[SEP]fear	capable of	change people greatly<|endoftext|>
+computer	include	one or more processors[SEP]computer	has a	one or many processors<|endoftext|>
+paper	be made at	mill[SEP]mill	used for	making paper<|endoftext|>
+candle	be used for	light[SEP]candle	used for	ambiance<|endoftext|>
+teacher	work with	small groups of children[SEP]teacher	capable of	group children together<|endoftext|>
+church	sing	hymn[SEP]hymn	at location	church<|endoftext|>
+right	change	the way[SEP]right	manner of	change<|endoftext|>
+oven	be used for	baking[SEP]baking oven	used for	cookies<|endoftext|>
+fire	cause	burn[SEP]starting fire	causes	things will burn<|endoftext|>
+desire	achieve	independence[SEP]person	desires	independence<|endoftext|>
+decay	be	irreversible[SEP]putrefy	manner of	decay<|endoftext|>
+plumbing	be set up on	wall[SEP]plumbing	at location	wall<|endoftext|>
+family	go on	vacation[SEP]go on vacation	has subevent	take family somewhere<|endoftext|>
+foot	correspond to	other parts of the body[SEP]foot	part of	body<|endoftext|>
+scissors	cut	paper[SEP]scissors	used for	cutting<|endoftext|>
+moss	grow on	the north side of trees[SEP]moss	at location	tree<|endoftext|>
+bridge	span	valley[SEP]bridge	at location	river valley<|endoftext|>
+butter	be stored in	the fridge[SEP]stick of butter	at location	fridge<|endoftext|>
+guilt	lead to	death[SEP]killing	causes	guilt<|endoftext|>
+toaster	toast	bread[SEP]toast	made of	bread<|endoftext|>
+dining room	be used for	dining[SEP]dining area	used for	having meal<|endoftext|>
+fox	live in	mountain[SEP]fox	at location	mountain<|endoftext|>
+restaurant	give	food poisoning[SEP]going to restaurant	causes	food poisoning<|endoftext|>
+museum	focus on	art[SEP]art work	at location	museum<|endoftext|>
+rocking chair	make	your porch[SEP]porch	used for	set rocking chair upon<|endoftext|>
+lawyer	address	the court[SEP]lawyers	at location	courtroom<|endoftext|>
+car	close	sunroof[SEP]sunroof	part of	car<|endoftext|>
+recipe	use	food[SEP]following recipe	used for	preparing meal<|endoftext|>
+newspaper	present	information[SEP]information	part of	newspaper<|endoftext|>
+medicine	be	barbiturate[SEP]barbiturate	at location	medicine chest<|endoftext|>
+student	have	prerequisite[SEP]attend class	has prerequisite	become student<|endoftext|>
+mechanism	play	strong game of chess[SEP]playing game of chess	causes	learn strategies<|endoftext|>
+tea	be made in	teapot[SEP]teakettle	used for	boiling water to make tea<|endoftext|>
+national park	be	yosemite national park[SEP]yosemite national park	at location	california<|endoftext|>
+spreadsheet	become	large[SEP]spreadsheet	capable of	much larger than screen<|endoftext|>
+fungus	thrive in	damp[SEP]fungus	at location	damp spot<|endoftext|>
+tinnitus	interfere with	sleep[SEP]tinnitus	causes	sleepless nights<|endoftext|>
+kitchen	make	bread[SEP]make bread	has prerequisite	have kitchen<|endoftext|>
+article	appeared in	literature[SEP]article in newspaper	used for	comment<|endoftext|>
+scald	be	burn[SEP]scald	manner of	burn<|endoftext|>
+letter	touch	my heart[SEP]letters	capable of	touch heart<|endoftext|>
+group	brainstorm	idea[SEP]brainstorming	capable of	mine ideas from group<|endoftext|>
+court	be used for	basketball[SEP]court	used for	play basketball<|endoftext|>
+helium	be used in	balloon[SEP]helium balloon	used for	travel<|endoftext|>
+death	be caused by	suffocation[SEP]suffocation	causes	death<|endoftext|>
+dog	be able to	reproduce[SEP]dogs	capable of	reproduce<|endoftext|>
+club	meet	people[SEP]club	manner of	meet<|endoftext|>
+salon	offer	perm[SEP]salon	used for	getting perm<|endoftext|>
+cow	be in	the barn[SEP]cow in barn	at location	dairy farm<|endoftext|>
+business	operate within	community[SEP]business	part of	business community<|endoftext|>
+ship	run before	the wind[SEP]ship	capable of	course before wind<|endoftext|>
+prerequisite	include passing	a series of written examinations[SEP]writing	has prerequisite	paper<|endoftext|>
+weapon	be used in	killing[SEP]weapon	used for	killing or wounding<|endoftext|>
+tooth	be known as	the pulp[SEP]pulp	part of	tooth<|endoftext|>

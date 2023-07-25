@@ -1,0 +1,5 @@
+simpletransformers
+torch
+nltk
+spacy
+sentence-transformers

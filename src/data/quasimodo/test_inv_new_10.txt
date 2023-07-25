@@ -1,0 +1,2379 @@
+screw	hold together	things[SEP]screw	used for	holding things together<|endoftext|>
+gas	be considered	fluid[SEP]gas	distinct from	fluidness<|endoftext|>
+missoula	has property	montana[SEP]missoula	part of	montana<|endoftext|>
+bidet	be in	europe[SEP]bidet	at location	europe<|endoftext|>
+popcorn	has property	good snack[SEP]popcorn	has property	tasty but not very nutritious<|endoftext|>
+ironing	remove	wrinkles[SEP]iron	used for	remove wrinkles from clothes<|endoftext|>
+farting	smell	bad[SEP]farting	causes	causing unpleasant odor<|endoftext|>
+calculator	be used in	exams[SEP]using calculator	used for	aid in mathmatics<|endoftext|>
+casino	use	players cards[SEP]casino	capable of	deal cards to players<|endoftext|>
+sleep	has property	very important[SEP]sleep	has property	very important<|endoftext|>
+greenhouse	use glass as	roofs[SEP]glassed roof	used for	greenhouses<|endoftext|>
+freezer	can	use[SEP]freezer	used for	storage<|endoftext|>
+dirty water	get	clean[SEP]getting clean	has subevent	water gets dirty<|endoftext|>
+airplane seat	has property	guide[SEP]coach airplane seat	has property	small<|endoftext|>
+plane	manage	to land on runways[SEP]runway	used for	plane to land on<|endoftext|>
+movie theater	has place	near[SEP]movie	at location	movie theater<|endoftext|>
+pear	has property	produced[SEP]pear	has property	solid<|endoftext|>
+people	has property	greek[SEP]greek people	has property	very passionate<|endoftext|>
+yogi	can	fast[SEP]yogi	capable of	fast for days<|endoftext|>
+brine shrimp	be used in	research[SEP]scientist	capable of	study brine shrimp<|endoftext|>
+tea	get in	refrigerator[SEP]tea	at location	refrigerator<|endoftext|>
+solid	float on	liquids[SEP]solid objects	capable of	float on liquid<|endoftext|>
+female kangaroo	have	pouch[SEP]every female kangaroo	has a	pouch<|endoftext|>
+melatonin	decrease	engineering amount of needed sleep[SEP]sleep	has prerequisite	take melatonin<|endoftext|>
+prerequisite	can	smoke[SEP]smoke	has prerequisite	inhale<|endoftext|>
+chocolate	has property	great[SEP]chocolate	has property	good<|endoftext|>
+suntan lotion	protect	skin[SEP]suntan lotion	used for	preventing sunburn<|endoftext|>
+tarot card	predict	future[SEP]tarot cards	used for	telling future<|endoftext|>
+chlorine	has property	deadly[SEP]chlorine	has property	poisonous<|endoftext|>
+depressive	has property	it[SEP]depressives	has property	depressing<|endoftext|>
+tanning lotion	has movement	quick[SEP]tanning lotion	used for	rubbing<|endoftext|>
+tickling	make	one laugh[SEP]tickling	has subevent	laugh<|endoftext|>
+business	need	to pay taxes to the government[SEP]government	capable of	require to pay taxes<|endoftext|>
+killing people	has property	wrong[SEP]killing humans	has property	wrong<|endoftext|>
+garbage can	has property	made[SEP]garbage can	used for	holding trash<|endoftext|>
+heating room	has property	made[SEP]heating room	used for	warmth<|endoftext|>
+fire extinguisher	be useful	controlling[SEP]handy fire extinguisher	capable of	control small fire<|endoftext|>
+western australia	be in	australia[SEP]western australia	part of	australia<|endoftext|>
+check vital signs	can	know[SEP]checking vital signs	used for	determining illnesses<|endoftext|>
+fan	cool down	person[SEP]fan	capable of	cool off person<|endoftext|>
+all animals	have	at least two eyes[SEP]almost all animals including humans	has a	eyes<|endoftext|>
+bowling	has property	fun[SEP]bowling	has property	very fun<|endoftext|>
+library	use	dewey decimal system[SEP]dewey decimal system	at location	library<|endoftext|>
+swimmers	wear	swimsuits[SEP]swimmers	capable of	wear swimsuits<|endoftext|>
+kingston	be capital of	jamaica[SEP]kingston	part of	jamaica<|endoftext|>
+all people	has property	different[SEP]all people	has property	different<|endoftext|>
+ground floor	has property	first floor[SEP]ground floor	defined as	first floor in building<|endoftext|>
+toothpaste	whiten	teeth[SEP]toothpaste	capable of	polish teeth<|endoftext|>
+pillow case	has color	white[SEP]pillow case	used for	keeping pillow clean<|endoftext|>
+hypotenuse	be represented in	right triangles[SEP]hypotenuse	part of	right triangle<|endoftext|>
+flossing	make	gums bleed[SEP]flossing improperly	capable of	make gums bleed<|endoftext|>
+white horse	has property	known[SEP]horse	has property	white<|endoftext|>
+peanut butter	has property	jar[SEP]peanut butter	at location	jar<|endoftext|>
+fish	has property	swimming[SEP]swimming fish	has property	alive<|endoftext|>
+government	be in	canada[SEP]government	at location	canada<|endoftext|>
+arch bridge	has property	designed[SEP]bridge arch	used for	support<|endoftext|>
+leather	sharpen	knife[SEP]knife	capable of	cut leather<|endoftext|>
+reflex	has property	safe[SEP]reflexology	has property	safe and drug free<|endoftext|>
+bird	have	dark meat[SEP]dark meat	part of	bird<|endoftext|>
+gift	has property	expensive[SEP]gifts	has property	expensive<|endoftext|>
+roses	smell	good[SEP]roses	capable of	smell nice<|endoftext|>
+refrigerator	keep	food cool[SEP]fridge	capable of	cool food<|endoftext|>
+pasta	be considered	italian food[SEP]italian	capable of	order pasta<|endoftext|>
+orange red	has property	green yellow[SEP]red and yellow	has property	mixed to make orange<|endoftext|>
+koala	live in	eucalyptus forest[SEP]koala	at location	eucalyptus forest<|endoftext|>
+locksmith	pick	locks[SEP]locksmith	capable of	pick locks<|endoftext|>
+poisoning	affect	the body[SEP]poisoning	causes	sickness<|endoftext|>
+clarinet	make	music[SEP]clarinet	used for	making music<|endoftext|>
+june	have	30 days[SEP]june	has a	thirty days<|endoftext|>
+display cabinet	be with	glass doors[SEP]glass fronted display cabinet	used for	display<|endoftext|>
+atom	be smallest particle of	element[SEP]atom	defined as	smallest unit of element<|endoftext|>
+shoelace	has property	the best way to tie shoes[SEP]tie shoelace	has prerequisite	put socks and shoes on<|endoftext|>
+convenience food store	has property	made[SEP]convenience food store	used for	selling small items<|endoftext|>
+house	has place	outside[SEP]house	at location	residential area<|endoftext|>
+some mirror	correct	reflection[SEP]reflection	at location	mirror<|endoftext|>
+people	has property	racist[SEP]people	has property	racist<|endoftext|>
+imaginary	has property	or[SEP]opposite of real	has property	imaginary<|endoftext|>
+washington	be district of	columbia[SEP]columbia	part of	washington<|endoftext|>
+high frequency	has property	electromagnetic waves[SEP]high frequency	part of	electromagnetic spectrum<|endoftext|>
+market place	has place	near[SEP]market	at location	town<|endoftext|>
+beaver	live	in the forest[SEP]beaver	at location	wooded area<|endoftext|>
+exhaust	has property	pipe[SEP]exhaust pipe	part of	exhaust<|endoftext|>
+illumination	produced by	source light[SEP]light source	used for	making things visible<|endoftext|>
+meat	go in	freezer[SEP]meats	at location	freezer<|endoftext|>
+east timor	has property	related[SEP]east timor and afghanistan	has property	operational areas<|endoftext|>
+bass clarinet	has property	made[SEP]bass clarinet	used for	music<|endoftext|>
+object	look under	stereo microscope[SEP]examining thing	has subevent	use stereo microscope<|endoftext|>
+debit card	be considered	similar to money[SEP]debit card	used for	getting money<|endoftext|>
+plane	use	seat belts[SEP]seat belts	at location	plane<|endoftext|>
+some dog	has property	more intelligent than others[SEP]humans	has property	more intelligent than dogs<|endoftext|>
+hydrogen	be considered	clean fuel[SEP]hydrogen	defined as	cleanest fuel for fuel cells<|endoftext|>
+threat	has property	illegal[SEP]making death threats	has property	illegal<|endoftext|>
+salt water	has property	in the ocean[SEP]salt	at location	ocean water<|endoftext|>
+noise	has property	audio[SEP]noise	has property	sound<|endoftext|>
+moon	orbit	around[SEP]moon around planet	at location	orbit<|endoftext|>
+forgivingness	can	know[SEP]forgiving	has prerequisite	thought<|endoftext|>
+urine	has property	necessary[SEP]urine	has property	good for<|endoftext|>
+pesticide	end up in	water[SEP]pesticides	at location	water<|endoftext|>
+india	have	hindustan[SEP]hindustan	part of	india<|endoftext|>
+typewriter keyboard	can	work[SEP]typewriter keyboard	used for	input<|endoftext|>
+some human	live	longer[SEP]humans	capable of	live long<|endoftext|>
+cafe	has property	espresso[SEP]cafe	used for	have espresso<|endoftext|>
+rosebush	has property	scene[SEP]rosebush	at location	landscaping<|endoftext|>
+people	cheat in	school[SEP]cheaters	at location	school<|endoftext|>
+hyperbole	has property	written[SEP]hyperbole	has property	useful in literature<|endoftext|>
+bean bag chair	can	look[SEP]bean bag chair	used for	sitting on<|endoftext|>
+battery	be required	run[SEP]battery	used for	run<|endoftext|>
+house	cost	much[SEP]house	capable of	cost lot<|endoftext|>
+cow	have	seven stomachs[SEP]cows	has a	seven stomachs<|endoftext|>
+brazil	be located in	south america[SEP]brazil	part of	south america<|endoftext|>
+rocking chair	be used	ease[SEP]rocking chair	used for	rocking back and forth<|endoftext|>
+astronaut	travel to	moon[SEP]astronaut	capable of	journey to moon<|endoftext|>
+life	has property	shit[SEP]life	has property	everywhere<|endoftext|>
+catatonic type schizophrenia	has property	related[SEP]catatonia	part of	catatonic schizophrenia<|endoftext|>
+sport	be used in	sports[SEP]sport	used for	playing<|endoftext|>
+chris	has property	thing[SEP]chris	has property	nuts<|endoftext|>
+map	say	location[SEP]map	capable of	tell where<|endoftext|>
+brick row house	has property	made[SEP]brick row house	used for	live<|endoftext|>
+salt water	be less dense than	freshwater[SEP]freshwater	has a	less salt than seawater<|endoftext|>
+organelle	relate to	cell[SEP]organelle	part of	cell<|endoftext|>
+roller coaster	be attached to	track[SEP]track	capable of	guide roller coaster<|endoftext|>
+people	particularly believe in	god[SEP]people	capable of	believe in god<|endoftext|>
+durango	has property	mexico[SEP]durango	part of	mexico<|endoftext|>
+bag	be made of	leather[SEP]punch bag	made of	leather<|endoftext|>
+people	change	environment[SEP]changing society	used for	improving environment<|endoftext|>
+orange	has property	round[SEP]oranges	has property	round<|endoftext|>
+eiffel tower	be in	france[SEP]eiffel tower	at location	europe<|endoftext|>
+vertebra	have	transverse processes[SEP]transverse process	part of	vertebra<|endoftext|>
+fan	has property	use[SEP]fan	has property	more useful with handle<|endoftext|>
+blood	has property	red cells[SEP]blood cells	has property	red<|endoftext|>
+fungus	grow on	trees[SEP]fungus	at location	woodland<|endoftext|>
+learning	be considered	effective[SEP]learning	causes	effectiveness<|endoftext|>
+pneumonia	can cause	death[SEP]having pneumonia	causes	death<|endoftext|>
+wind	feel	cold[SEP]wind	capable of	blow cold<|endoftext|>
+telephone	can	ring[SEP]telephone	capable of	ring<|endoftext|>
+horses	wear	horseshoes[SEP]horses	capable of	wear horseshoes<|endoftext|>
+worms	help	garden soil[SEP]earth worms	at location	good garden soil<|endoftext|>
+scallop	has property	pronounced scallop[SEP]scallop	part of	scallop<|endoftext|>
+human	be prone	procrastinating[SEP]person	desires	procrastinate<|endoftext|>
+mother cat	find	kittens[SEP]kitten	at location	mother cat<|endoftext|>
+alumina	be extracted from	bauxite[SEP]alumina	receives action	found in bauxite<|endoftext|>
+government	collect taxes from	citizens[SEP]government	capable of	demand taxes from citizens<|endoftext|>
+people	destroy	environment[SEP]people	capable of	destroy rhe environment<|endoftext|>
+become scuba diver	can	know[SEP]become scuba diver	has prerequisite	take scuba lessons<|endoftext|>
+washing machine	clean	clothes[SEP]washing machine	used for	washing clothes<|endoftext|>
+koala	live	at a community[SEP]koala	at location	families<|endoftext|>
+crack	change	direction[SEP]crack	manner of	change<|endoftext|>
+eraser	fully remove	pencil marks[SEP]eraser	used for	erase things written in pencil<|endoftext|>
+boredom	has effect	harmful[SEP]taking course	causes	boredom<|endoftext|>
+airport	measure	hand luggage[SEP]hand luggage	at location	airport<|endoftext|>
+moonshine	has property	distilled[SEP]moonshine	manner of	distill<|endoftext|>
+orange fruit	has color	orange[SEP]orange	capable of	mean fruit or color<|endoftext|>
+hair	take long	grow[SEP]hair growing too long	causes desire	go to get haircut<|endoftext|>
+people	annoy	other people[SEP]people	capable of	annoy other people<|endoftext|>
+water	be in	water bottle level itself[SEP]water	at location	bottle<|endoftext|>
+bottle	has manner	hard[SEP]bottle	manner of	put<|endoftext|>
+carpet	be used in	floor of homes[SEP]carpet	used for	decoration of home<|endoftext|>
+light	differ from	sound[SEP]sound	distinct from	light<|endoftext|>
+monkey	hang from	trees[SEP]monkeys	has property	hanging from trees<|endoftext|>
+tortilla	has property	cooked[SEP]tortillas	has property	quick to cook<|endoftext|>
+wool	be used	to make warm clothing[SEP]woolen fabric	used for	construct clothing warm<|endoftext|>
+battle of the coral sea	has property	scuba[SEP]battle of coral sea	at location	coral sea<|endoftext|>
+stomach	has body part	muscle[SEP]stomach	part of	human body<|endoftext|>
+dirt	has property	mud[SEP]mud	has property	wet dirt<|endoftext|>
+hide bed	has property	couch[SEP]hide bed	at location	couch<|endoftext|>
+guy	want	other sources of sexual gratification[SEP]person	desires	sexual gratification<|endoftext|>
+speaker	can produce	multiple sounds[SEP]speakers	capable of	produce sounds<|endoftext|>
+human	can stand on	two feet[SEP]human	capable of	stand on two legs<|endoftext|>
+people	have	fantasies[SEP]people	has a	weird fantasies<|endoftext|>
+wood flooring	has property	made[SEP]floor	made of	wood<|endoftext|>
+favor	has property	legit[SEP]giving favor	has property	taxing<|endoftext|>
+moon	has temperature	cold[SEP]moon	has a	sides cold<|endoftext|>
+epileptic seizure	has property	symptoms[SEP]epileptic seizure	part of	epilepsy<|endoftext|>
+clothes	crease	in washing machine[SEP]clean clothes	has prerequisite	put in washing machine<|endoftext|>
+human	cry	when feeling sad[SEP]being sad	causes	cry<|endoftext|>
+quebec city	be capital of	quebec[SEP]quebec city	instance of	quebec<|endoftext|>
+concentration	has property	an intensive property[SEP]total concentration	has property	difficult<|endoftext|>
+ram	be used in	computer[SEP]ram	part of	computer<|endoftext|>
+adverb	differ from	adjectives[SEP]adverb	distinct from	adjective<|endoftext|>
+heart palpitation	has property	painful[SEP]heart palpitations	causes desire	have physical examination<|endoftext|>
+pew	be used in	in church[SEP]pew	used for	sitting in during church service<|endoftext|>
+shakespeare	be considered	great writer[SEP]shakespeare	receives action	considered to great writer<|endoftext|>
+chair	has property	easy[SEP]folding chair	has property	easy to carry<|endoftext|>
+cinema	use	film[SEP]cinema	used for	watch film<|endoftext|>
+long term investment	has property	include[SEP]shares and property	has property	medium to long term investments<|endoftext|>
+stuffed animal	has property	made[SEP]stuffed animal	used for	play with<|endoftext|>
+test	has property	but[SEP]test	has property	false<|endoftext|>
+towel rack	be attached to	wall[SEP]towel rack	used for	hanging towels<|endoftext|>
+peru	be in	south[SEP]peru	part of	south america<|endoftext|>
+asteroids	be found in	space[SEP]asteroids	at location	outer space<|endoftext|>
+codon	consist of	three nucleotides[SEP]nucleotide	part of	codon<|endoftext|>
+magician	pull rabbits out of	hats[SEP]magicians	capable of	produce rabbits from hats<|endoftext|>
+computer game	has property	bad[SEP]computer games	has property	difficult to make<|endoftext|>
+body language	be used as	communication tool[SEP]communicate	has subevent	use body language<|endoftext|>
+exercise help	be lose	weight[SEP]getting exercise	used for	losing weight<|endoftext|>
+snout	has body part	muzzle[SEP]snout	part of	muzzle<|endoftext|>
+prerequisite	can	take[SEP]get	has prerequisite	reach for<|endoftext|>
+vomiting	occur	after drinking alcohol[SEP]drinking alcohol	causes	vomiting<|endoftext|>
+make patchwork quilt	has property	done[SEP]making patchwork quilt	used for	passing time<|endoftext|>
+space shuttle	be like	space station[SEP]space	at location	space shuttle<|endoftext|>
+cavity	need	filled[SEP]cavity	used for	fill<|endoftext|>
+earth	has property	ground[SEP]earth	has property	dirt<|endoftext|>
+kite	fly	fun[SEP]kite	used for	fun<|endoftext|>
+some dog	have	big tails[SEP]dogs	has a	tail<|endoftext|>
+hunger game	be called	hunger games[SEP]hunger games	part of	hunger games<|endoftext|>
+pool table	know	white ball[SEP]ball	at location	pool table<|endoftext|>
+mist	differ from	rain[SEP]mist	distinct from	rain<|endoftext|>
+carnival	has place	about[SEP]carnival	at location	fairgrounds<|endoftext|>
+fungi	grow in	damp places[SEP]fungus	at location	damp area<|endoftext|>
+comet	travel around	universe[SEP]comet	at location	universe<|endoftext|>
+digestive system	be related to	system[SEP]digestive system	part of	body<|endoftext|>
+haiti	be called	hispaniola[SEP]haiti	part of	hispaniola<|endoftext|>
+snowstorm	can	occur[SEP]snowstorm	capable of	happen in winter<|endoftext|>
+land	has property	yard[SEP]yard	has property	landscaped<|endoftext|>
+lucid dream	has property	rec[SEP]lucid dream	has subevent	appreciate dreams<|endoftext|>
+vending stand	has property	made[SEP]vending stand	at location	city<|endoftext|>
+water	has property	good for the human body[SEP]water	has property	beautiful and necessary for survival<|endoftext|>
+west virginia	be east of	virginia[SEP]west virginia	part of	united states<|endoftext|>
+eye	can	focus[SEP]eye	capable of	focus<|endoftext|>
+mantle	differ from	lower mantle[SEP]lower mantle	part of	mantle<|endoftext|>
+bean bag chair	can	look[SEP]beanbag chair	at location	beanbag house<|endoftext|>
+lens	magnify	objects[SEP]lens	used for	magnifying objects<|endoftext|>
+hydrogen	has property	water[SEP]hydrogen	part of	water<|endoftext|>
+everyone	has property	in the good place[SEP]everyone	has property	good at<|endoftext|>
+balcony	be in	new orleans[SEP]balcony	at location	new orleans<|endoftext|>
+court	impose	punishments[SEP]court	capable of	decree punishment<|endoftext|>
+woolen clothe	be used in	winter[SEP]woolen fabric	used for	winter clothing<|endoftext|>
+inner hebrides	has property	made[SEP]outer hebrides	part of	hebrides<|endoftext|>
+water	be used to	water plants[SEP]water	used for	watering plants<|endoftext|>
+ferry	be called	a ferry[SEP]ferry	used for	ferry<|endoftext|>
+buffet	has place	near[SEP]buffet	at location	restaurant<|endoftext|>
+nudist	like	to be naked[SEP]nudist	desires	naked<|endoftext|>
+crater	be visible on	surface of moon[SEP]crater	at location	suface of moon<|endoftext|>
+advertisement	can	email[SEP]advertisement	at location	email<|endoftext|>
+material	has property	design[SEP]materials	has property	adaptable<|endoftext|>
+glass	be used on	light bulbs[SEP]light bulbs	receives action	made mostly of glass<|endoftext|>
+tnt	can	explode[SEP]tnt	capable of	explode<|endoftext|>
+vomiting	occur	drinking[SEP]drinking	causes	vomiting<|endoftext|>
+everything	has property	else[SEP]everything	has property	natural<|endoftext|>
+lead	be used in	pencil[SEP]lead	part of	pencil<|endoftext|>
+water lilies	live in	ponds[SEP]water lillies	at location	pond<|endoftext|>
+tire	has property	usually black[SEP]tires	has property	black<|endoftext|>
+gender	has property	thing[SEP]gender	has property	male or female<|endoftext|>
+subway stop	has property	at[SEP]subway stop	at location	city<|endoftext|>
+fungus	grow on	grass[SEP]fungus	at location	field<|endoftext|>
+healthy eating	can improve	health[SEP]eating healthily	causes	improved health<|endoftext|>
+rocks	be found above	ground[SEP]rocks	at location	ground<|endoftext|>
+agoraphobia	can	develop[SEP]agoraphobia	capable of	run in families<|endoftext|>
+memory	be important for	learning[SEP]committing to memory	used for	learning<|endoftext|>
+birth control pill	has property	shop[SEP]birth control pill	at location	chemist's shop<|endoftext|>
+boiling	has property	water[SEP]boiling water	has property	hot<|endoftext|>
+chinese restaurant	has place	near[SEP]chinese restaurant	at location	chinese neighborhood<|endoftext|>
+shower	run out of	hot water[SEP]having shower	causes	run out of hot water<|endoftext|>
+vitamins	keep	healthy[SEP]stay healthy	has prerequisite	take vitamins<|endoftext|>
+syllable	has property	words[SEP]syllable	part of	word<|endoftext|>
+information	be on	internet[SEP]information	at location	internet<|endoftext|>
+secretary	answer	phone[SEP]secretary	capable of	answer telephone<|endoftext|>
+telomere	be important to	chromosome structure[SEP]telomere	part of	chromosome<|endoftext|>
+bass clarinet	has property	jazz[SEP]bass clarinet	used for	play in jazz band<|endoftext|>
+pelvic inflammatory disease	be treated in	alternative medicine[SEP]pelvic inflammatory disease	receives action	found exclusively in women<|endoftext|>
+emptiness	convey	a sense of fullness[SEP]fullness	distinct from	emptiness<|endoftext|>
+investment	has property	risky[SEP]investing	has property	risky<|endoftext|>
+earache	has property	caused[SEP]earache	has property	very painful<|endoftext|>
+time	has property	finite[SEP]time	has property	finite<|endoftext|>
+salt	has property	ocean[SEP]salt	at location	ocean<|endoftext|>
+nail clippers	has property	visible[SEP]nail clippers	at location	cabinet<|endoftext|>
+cotton	be used in	clothes[SEP]cotton	at location	clothing<|endoftext|>
+pharmacist	prepare	drugs[SEP]pharmacists	capable of	prepare compounds<|endoftext|>
+flashlight	reflect	light[SEP]light source	at location	flashlight<|endoftext|>
+screw	be screw	fix[SEP]screw up	manner of	screw<|endoftext|>
+wave	form in	ocean[SEP]wave	part of	ocean<|endoftext|>
+bread	need	to be kneaded[SEP]making bread	has subevent	knead<|endoftext|>
+fear	change	a person[SEP]fear	capable of	change people greatly<|endoftext|>
+patio door	can	end[SEP]patio door	used for	exiting patio<|endoftext|>
+cost	be	alike[SEP]cost	manner of	be<|endoftext|>
+clock work	has time	next[SEP]time clock	at location	work<|endoftext|>
+rehearsing room	has property	done[SEP]rehearsing room	used for	acting<|endoftext|>
+laser pointer	can	look[SEP]laser pointer	at location	demonstration<|endoftext|>
+bennington	has property	vermont[SEP]bennington	part of	vermont<|endoftext|>
+sewing machine	has property	ideas[SEP]sewing machines	has property	automatic<|endoftext|>
+competition	has property	characterized[SEP]competition	has property	natural<|endoftext|>
+aquarium	has property	used for[SEP]aquarium	used for	house<|endoftext|>
+tiger	drink	water[SEP]tiger	capable of	drink water<|endoftext|>
+some sunset	has property	more beautiful than others[SEP]many people think sunsets	has property	beautiful<|endoftext|>
+shark	live in	saltwater[SEP]shark	at location	saltwater<|endoftext|>
+guard dog	has property	useful[SEP]dog	capable of	guard property<|endoftext|>
+tornado	form on	water[SEP]tornado	capable of	form over water<|endoftext|>
+centimeter	compare to	inch[SEP]inch	distinct from	centimeter<|endoftext|>
+telephone	has property	powered[SEP]phone	has property	one kind of electric machine<|endoftext|>
+magnifying glass	can be used	to make a fire[SEP]magnifying glass	used for	create fire<|endoftext|>
+faucet	be at	bottom of shower[SEP]hot faucet	at location	shower<|endoftext|>
+newspaper	get	photos[SEP]pictures	at location	newspaper<|endoftext|>
+people	live on	islands[SEP]people	capable of	live on island<|endoftext|>
+flowers	has color	purple[SEP]many flowers	has a	purple hue<|endoftext|>
+food	has property	delicious[SEP]good tasting food	has property	delicious<|endoftext|>
+music	has property	enjoyable[SEP]music	has property	enjoyable<|endoftext|>
+subtraction	be related to	addition[SEP]subtraction	distinct from	addition<|endoftext|>
+war	has property	inevitable[SEP]war	has property	bad but sometimes inevitable<|endoftext|>
+retina	has body part	eye[SEP]retina	part of	eye<|endoftext|>
+distraction	can affect	communication[SEP]talking	causes	distraction<|endoftext|>
+thermometer	be used	to measure temperature[SEP]thermometer	used for	determining air temperature<|endoftext|>
+people	has property	alive[SEP]humans	has property	alive<|endoftext|>
+friends	has property	are important[SEP]friends	has property	important<|endoftext|>
+yogurt	have	more protein[SEP]most yogurt	has a	protein<|endoftext|>
+water	spread out on	glass[SEP]water	at location	glass<|endoftext|>
+french person	speak	french[SEP]frenchman	capable of	speak french<|endoftext|>
+sand	be different from	soil[SEP]sand	distinct from	soil<|endoftext|>
+malignant tumor	has property	related[SEP]tumors	has property	malignant<|endoftext|>
+harp	has property	played[SEP]harp	has property	hard to play<|endoftext|>
+bone	help	vertebrates[SEP]bone	at location	vertebrates<|endoftext|>
+accounting system	has property	worth[SEP]accounting systems	has property	valuable<|endoftext|>
+digitalis	treat	heart failure[SEP]digitalis	used for	treat heart failure<|endoftext|>
+toll road	work in	florida[SEP]toll road	at location	florida<|endoftext|>
+lucid dreaming	can	use[SEP]lucid dream	has prerequisite	practice<|endoftext|>
+psalms	has property	in the old testament[SEP]psalms	part of	old testament<|endoftext|>
+snake	can	molt[SEP]snakes	capable of	molt<|endoftext|>
+dogs tail	wag	when they 're happy[SEP]dogs wag tails when	has property	happy<|endoftext|>
+dna	be called	deoxyribonucleic acid[SEP]nucleotide	part of	deoxyribonucleic acid<|endoftext|>
+oven	cool	down[SEP]oven	capable of	cool temperature<|endoftext|>
+santa	leave	presents[SEP]santa	capable of	leave presents<|endoftext|>
+ferret	live	in the wild[SEP]ferret	at location	outdoors<|endoftext|>
+baking bread	has property	made of[SEP]bread	used for	baking<|endoftext|>
+towel rack	has property	attached[SEP]towel rack	used for	holding towel<|endoftext|>
+ocean	has property	surface[SEP]structure of ocean	has property	different to of land<|endoftext|>
+thermodynamics	differ from	heat transfer[SEP]thermodynamics	defined as	study of heat transfer<|endoftext|>
+lightbulb	has property	available[SEP]lightbulb	has property	bright<|endoftext|>
+gene	has property	mutation[SEP]genes	has property	defective<|endoftext|>
+soap	be used	to wash hands[SEP]wash hands	has prerequisite	use soap and water<|endoftext|>
+cooking apple	has property	varieties[SEP]apple	has a	many cooking uses<|endoftext|>
+hair	feel	greasy[SEP]hair	capable of	feel greasy<|endoftext|>
+natural gas	be used for	heating[SEP]gas	used for	producing heat<|endoftext|>
+fire	has property	nonliving organism[SEP]fire	has property	destructive to biological bodies<|endoftext|>
+sun exposure	relate to	sunburn[SEP]sun	causes	sunburns<|endoftext|>
+hair	help	integumentary system[SEP]hair	part of	integumentary system<|endoftext|>
+oil well	pump	oil[SEP]oil	at location	oil well<|endoftext|>
+vacation	has property	work[SEP]vacation	has property	one kind of break from work<|endoftext|>
+electric fan	used for	long period[SEP]electric fan	used for	blow air<|endoftext|>
+communism	be in	china[SEP]communism	at location	china<|endoftext|>
+pagan	has property	worship[SEP]people	has property	pagan<|endoftext|>
+hurricane	cause	tornadoes[SEP]hurricane	causes	tornadoes<|endoftext|>
+shower	have faucet at	bottom[SEP]have shower	has first subevent	turn on faucet<|endoftext|>
+childhood	be important phase in	human life[SEP]childhood	part of	human life<|endoftext|>
+cocaine addict	has effect	dangerous[SEP]cocaine use	causes	addiction<|endoftext|>
+soda	has property	refreshing[SEP]soda	has property	very refreshing<|endoftext|>
+church	serve	community[SEP]church	at location	community<|endoftext|>
+july	have	31 days[SEP]july	has a	thirty one days<|endoftext|>
+foam	extinguish	fire[SEP]foam	at location	fire extinguisher<|endoftext|>
+bean	work on	coffee[SEP]bean	used for	making coffee<|endoftext|>
+drug	can change	the way the brain works[SEP]drugs	capable of	change state of mind<|endoftext|>
+america	see	rest of world[SEP]america	part of	world<|endoftext|>
+people	drink	skimmed cows milk[SEP]people	capable of	drink cow's milk<|endoftext|>
+beaver	can build	dams[SEP]beaver	capable of	build dam<|endoftext|>
+smart person	think	dumb[SEP]dumb	distinct from	smart<|endoftext|>
+honesty	has property	good thing[SEP]if human truthful	has property	being honest<|endoftext|>
+whale	can hear	sounds underwater[SEP]whale	capable of	hear sound underwater<|endoftext|>
+stained glass	has property	put together[SEP]stained glass	capable of	make beautiful pictures<|endoftext|>
+thermometer	be used	to measure temperature[SEP]thermometer	used for	measuring temperature<|endoftext|>
+human	form	friendships[SEP]people	capable of	form friendships<|endoftext|>
+cats fur	has property	really soft[SEP]cats	has a	soft fur<|endoftext|>
+deodorant	should spray for	proper smell[SEP]deodorant	used for	preventing stink<|endoftext|>
+wind instrument	create	sound[SEP]wind instrument	used for	create music<|endoftext|>
+carbon dioxide	be important for	breathing[SEP]breathing	used for	expelling carbon dioxide<|endoftext|>
+farmer	keep	pigs[SEP]farmer	capable of	keep pigs<|endoftext|>
+paint	applied to	metal surface[SEP]paint	capable of	coat metal<|endoftext|>
+people	go to	concerts[SEP]people	desires	go to concerts<|endoftext|>
+harmful	has property	use[SEP]things if not used correctly	has property	dangerous<|endoftext|>
+planning	has property	pervasive[SEP]predictability	has property	valuable for planning<|endoftext|>
+information technology	has property	known[SEP]information technology	has property	abbreviated to<|endoftext|>
+yellowstone	be in	idaho[SEP]yellowstone	part of	montana<|endoftext|>
+fighting	has property	bad[SEP]fighting	has property	dangerous<|endoftext|>
+psychic	can see	future[SEP]psychics	capable of	see into future<|endoftext|>
+ribbon	has color	red[SEP]ribbon	used for	adding color<|endoftext|>
+fire	has property	useful[SEP]fires	has property	useful<|endoftext|>
+toenail	separated from	skin[SEP]toenail	part of	toe<|endoftext|>
+condom	be called	a condom[SEP]condom	used for	sex<|endoftext|>
+coffee table	has property	made[SEP]coffee table	has property	functional or decorative<|endoftext|>
+airplanes	has property	able[SEP]planes	has property	fast<|endoftext|>
+auditorium	dim	the lights before a performance[SEP]auditorium	at location	lights<|endoftext|>
+mt etna	has property	stratovolcano[SEP]mount etna	instance of	stratovolcano<|endoftext|>
+mexican food	has property	spicy[SEP]mexican food	has property	spicy<|endoftext|>
+tanning lotion	has effect	harmful[SEP]tanning lotion	used for	darkening skin<|endoftext|>
+vacuum cleaner	be supposed	to be used[SEP]vacuum cleaner	used for	vacumming<|endoftext|>
+shower door	be translucent instead of	transparent[SEP]shower door	used for	being translucent<|endoftext|>
+helium	has property	suitable for filling party balloons[SEP]helium balloon	used for	decorating for party<|endoftext|>
+small intestine	be important in	digestive system[SEP]small intestine	part of	intestinal tract<|endoftext|>
+baby	can sit in	wet nappy[SEP]babies	capable of	wet nappy<|endoftext|>
+violence	be answer in	today 's wars[SEP]wars	has a	violence<|endoftext|>
+pancreas	be considered	two organs in one[SEP]pancreas	part of	human body<|endoftext|>
+glycerol	be used	in the body[SEP]glycerol	receives action	derived from fats<|endoftext|>
+hot faucet	has property	made[SEP]hot faucet	used for	acquire hot water<|endoftext|>
+fluoride mouthwash	has property	made[SEP]fluoride mouthwash	at location	medecine cabinet<|endoftext|>
+human	have	sounding voices[SEP]humans	has a	distinctive and discernable voices<|endoftext|>
+athlete	break	records[SEP]athlete	capable of	break record<|endoftext|>
+nerve	be connected to	brain[SEP]nerve	at location	brain<|endoftext|>
+want	become	demand[SEP]want	manner of	demand<|endoftext|>
+kingston	be capital of	jamaica[SEP]kingston	defined as	capital of jamaica<|endoftext|>
+pain	has property	necessary[SEP]pain	has property	necessary for survial may good<|endoftext|>
+heat	change	state[SEP]heat	manner of	change state<|endoftext|>
+gold	be used for	jewelry[SEP]gold	used for	jewelry<|endoftext|>
+sand	has property	black underneath[SEP]sand	has property	black<|endoftext|>
+hair conditioner	be used in	conjunction with hair shampoos[SEP]shampoo and conditioner	used for	washing and conditioning hair<|endoftext|>
+learn	has property	free[SEP]learning	has property	free<|endoftext|>
+sun	be center of	solar system[SEP]sun	at location	center of solar system<|endoftext|>
+human	can	sleep[SEP]human	capable of	have to sleep<|endoftext|>
+fruit	has property	tasty[SEP]fresh fruit	has property	tasty and healthy<|endoftext|>
+santa barbara	has property	california[SEP]santa barbara	part of	california<|endoftext|>
+loquat	can	know[SEP]loquat	part of	loquat<|endoftext|>
+happiness	seem	lighter than unhappiness[SEP]unhappiness	distinct from	happiness<|endoftext|>
+archaeologist	locate	sites for excavation[SEP]excavation	at location	archeological site<|endoftext|>
+cancer	be called	oncology[SEP]oncology	defined as	study of cancer<|endoftext|>
+hairdresser	cut	too much hair[SEP]going to hairdresser	causes	have hair cut<|endoftext|>
+people	engage in	sex[SEP]people	capable of	experience sex<|endoftext|>
+thing	look under	microscope[SEP]examine thing	has prerequisite	put under microscope<|endoftext|>
+check vital signs	can	mean[SEP]checking vital signs	causes	relief<|endoftext|>
+landfill	handle	solid waste[SEP]garbage	used for	storing in landfill<|endoftext|>
+arch	has property	bridge[SEP]arch	at location	bridge<|endoftext|>
+people	engage in	dancing[SEP]people	capable of	dance with each other<|endoftext|>
+insomniac	stay	alive[SEP]insomniac	capable of	stay awake<|endoftext|>
+arch	has property	in the foot[SEP]arch	at location	foot<|endoftext|>
+shamanism	can	use[SEP]shamanize	manner of	practice<|endoftext|>
+golf	has property	score[SEP]below par score	has property	good in golf<|endoftext|>
+course	change	make[SEP]make	manner of	change<|endoftext|>
+bass fiddle	has property	made[SEP]bass fiddle	used for	make music<|endoftext|>
+airplanes	can fly	in the air[SEP]planes	capable of	fly<|endoftext|>
+scissors	has property	cut[SEP]scissors	has property	useful for cutting things<|endoftext|>
+instrument	be used in	music[SEP]musical instrument	used for	music<|endoftext|>
+wait in line	has place	up[SEP]waiting in line	has prerequisite	time<|endoftext|>
+convenience food store	has property	made[SEP]convenience food store	used for	carrying convenience items<|endoftext|>
+england	be part of	united kingdom[SEP]england	part of	united kingdom<|endoftext|>
+desert	has property	less populated[SEP]desert	has property	less populated than cities<|endoftext|>
+lens	work	in a microscope[SEP]lens	at location	microscope<|endoftext|>
+ball	be used in	sports[SEP]sports ball	used for	playing games<|endoftext|>
+nephron	be related to	kidney function[SEP]nephron	part of	kidney<|endoftext|>
+fruit juice	be made from	concentrate[SEP]fruit	used for	making juice<|endoftext|>
+eastern hemisphere	be called	old world[SEP]old world	part of	eastern hemisphere<|endoftext|>
+salmon	can	spawn[SEP]salmon	capable of	need to spawn<|endoftext|>
+genotype	has property	genetic[SEP]genotype	defined as	genetic makeup of organism<|endoftext|>
+people	feel	cold[SEP]people	capable of	feel cold<|endoftext|>
+leaf	be used in	photosynthesis[SEP]leaf	used for	photosynthesis<|endoftext|>
+the brain	be related	to the nervous system[SEP]brain	part of	nervous system<|endoftext|>
+the united kingdom	have	a queen[SEP]united kingdom	has a	queen<|endoftext|>
+many tree	be cut	ways for furniture[SEP]tree	used for	make furnitures<|endoftext|>
+handbag	has property	made[SEP]handbag	used for	carrying things around<|endoftext|>
+aquarium water	has property	visible[SEP]aquarium	has a	water<|endoftext|>
+final	has property	identical[SEP]complete	has property	same as final<|endoftext|>
+rocks	has property	elastic[SEP]rocks	has property	rigid<|endoftext|>
+cats	can jump	high[SEP]cats	capable of	jump amazingly high<|endoftext|>
+bird	can	chirp[SEP]bird	capable of	chirp<|endoftext|>
+check vital signs	can	know[SEP]checking vital signs	has subevent	new insight<|endoftext|>
+ruffed grouse	has property	pennsylvania 's state bird[SEP]pennsylvania state bird	defined as	ruffed grouse<|endoftext|>
+mosquito	can spread	diseases[SEP]mosquitoes	capable of	spread disease<|endoftext|>
+shenzhen	has property	famous[SEP]shenzhen	has property	beautiful<|endoftext|>
+common cold	has property	contagious[SEP]common cold	has property	very contagious<|endoftext|>
+shark	live in	salt water[SEP]shark	at location	warm salt waters<|endoftext|>
+bald eagle	has place	up[SEP]bald eagle	at location	researve<|endoftext|>
+fracture	has property	injury[SEP]fracture	manner of	injure<|endoftext|>
+people	has property	cold heated[SEP]people	has property	cold<|endoftext|>
+dentist	pull	teeth[SEP]dentists	capable of	pull teeth<|endoftext|>
+obscurity	can	understand[SEP]obscurity	distinct from	clarity<|endoftext|>
+coca	has property	illegal[SEP]cocain	has property	illegal<|endoftext|>
+people	has property	lonely[SEP]many people	has property	lonely<|endoftext|>
+cafe	has place	out[SEP]cafe	at location	building<|endoftext|>
+pneumatic tire	be	made[SEP]casing	part of	pneumatic tire<|endoftext|>
+worm gear	be weaker than	worm[SEP]worm	part of	worm gear<|endoftext|>
+hair stylist	can	know[SEP]stylist	capable of	wave hair<|endoftext|>
+incest	has property	considered by many morally wrong[SEP]incest	has property	considered wrong in nearly every society<|endoftext|>
+viewfinder	be used	when taking photos[SEP]viewfinder	part of	camera<|endoftext|>
+scuba diving	can be	dangerous[SEP]scuba diving	capable of	dangerous activity<|endoftext|>
+dog	bark at	strangers[SEP]dog	capable of	bark at strangers<|endoftext|>
+salad green	has property	vegetables[SEP]salad	has property	green<|endoftext|>
+boston harbor	be famous in	massachusetts[SEP]boston harbor	part of	boston<|endoftext|>
+oil	has property	in the ground[SEP]oil	at location	ground<|endoftext|>
+people	have	name[SEP]people	has a	names<|endoftext|>
+human	desire	love[SEP]person	desires	love and understanding<|endoftext|>
+red flower	has property	example[SEP]flowers	has property	red<|endoftext|>
+fear	has property	contagious[SEP]fear	has property	contagious<|endoftext|>
+lawnmower	has place	near[SEP]lawn mower	at location	lawn<|endoftext|>
+multiplication	related	to division[SEP]multiplication	distinct from	division<|endoftext|>
+lawn mower	be	powered[SEP]lawnmower	capable of	mow lawn<|endoftext|>
+raptor	have	sharp claws[SEP]raptors	has a	claws<|endoftext|>
+paper sign	has property	made[SEP]paper sign	used for	read about<|endoftext|>
+the eiffel tower	has property	important to france[SEP]france	has property	proud of eiffel tower<|endoftext|>
+salivary gland	produce	saliva[SEP]saliva	part of	salivary gland<|endoftext|>
+titanium	has property	lightweight[SEP]titanium	has property	strong and lightweight<|endoftext|>
+nashville	be capital of	tennessee[SEP]nashville	part of	tennessee<|endoftext|>
+leafy green	has property	flower[SEP]flowers	has property	green<|endoftext|>
+cranberry juice	has property	dye[SEP]cranberry juice	capable of	leave stain<|endoftext|>
+canvas	be used for	painting[SEP]canvas	used for	paint<|endoftext|>
+smoking	give	cancer[SEP]smoking	capable of	give cancer<|endoftext|>
+loud sound	has effect	dangerous[SEP]sounds too loud	has property	harmful to humans<|endoftext|>
+human	be allergic to	poison ivy[SEP]people	has property	allergic to poison ivy<|endoftext|>
+classical music	has property	instrumental[SEP]classical music	has a	rhythm<|endoftext|>
+birds of prey	have	good eyesight[SEP]birds	has a	good eyesight<|endoftext|>
+habit	guide	behavior[SEP]habits	capable of	patterns of behavior<|endoftext|>
+long island	be similar to	new york[SEP]long island	part of	new york<|endoftext|>
+poem	tell	story[SEP]poem	used for	tell story<|endoftext|>
+piano	play	right-handed[SEP]play piano	has subevent	move fingers<|endoftext|>
+yoghurt	has property	very important food material[SEP]yoghurt	has a	many nutrients<|endoftext|>
+horse	eat grass in	field[SEP]horse	at location	grazing field<|endoftext|>
+house painting	has property	made[SEP]painting house	used for	making house look more beautiful<|endoftext|>
+corn	be in	field[SEP]corn	at location	field<|endoftext|>
+dental floss	has property	scientific[SEP]dental floss	used for	diligent people<|endoftext|>
+most animals	have	four legs[SEP]most mammals	has a	four legs<|endoftext|>
+fencing sword	be called	foil[SEP]fencing	used for	attacking with foil<|endoftext|>
+communication	be important in	realm of knowledge[SEP]communicating	used for	imparting knowledge<|endoftext|>
+flask	can	use[SEP]flask	used for	for storing liquids<|endoftext|>
+incline	has manner	harder[SEP]incline	manner of	lower<|endoftext|>
+yunnan	has property	china[SEP]yunnan	part of	china<|endoftext|>
+mint tea	has property	juiced[SEP]mint	used for	making tea<|endoftext|>
+exercise	improve	mood[SEP]get exercise	has subevent	mood improves<|endoftext|>
+pilgrim	travel	to mecca[SEP]pilgrim	capable of	journey to mecca<|endoftext|>
+bald eagle	live	in north amirica[SEP]bald eagle	at location	rural area<|endoftext|>
+butcher	store	meat[SEP]meat	at location	butchers<|endoftext|>
+barometer	be used	to measure atmospheric pressure[SEP]barometer	used for	measuring atmospheric pressure<|endoftext|>
+atlantic ocean	has place	on[SEP]atlantic ocean	at location	planet<|endoftext|>
+condom	can	use[SEP]condom	used for	protection<|endoftext|>
+some adult	act	like babies[SEP]adults	capable of	act like infants<|endoftext|>
+curry	has property	spicy[SEP]curry	has property	spicy<|endoftext|>
+sink	be in	laundry rooms[SEP]sink	at location	laundry room<|endoftext|>
+healthy	eat	good[SEP]maintain good health	has subevent	eat good food<|endoftext|>
+thing	look with	magnifying glass[SEP]analyse	has prerequisite	have magnifying glass<|endoftext|>
+bicycle wheel	use	spokes[SEP]spoke	part of	bicycle wheel<|endoftext|>
+earring	can	utilize[SEP]earring	used for	enhance appearance<|endoftext|>
+hair shaping gel	has property	made[SEP]hair shaping gel	used for	look like asshole<|endoftext|>
+arch	can	use[SEP]arch	used for	support<|endoftext|>
+present	be put	under a christmas tree[SEP]present	at location	christmas tree<|endoftext|>
+forgive	has property	it[SEP]forgive	has property	divine<|endoftext|>
+laundry detergent	has property	extra[SEP]clean clothes	has subevent	use laundry detergent<|endoftext|>
+fluoride	be used in	toothpaste[SEP]fluoride toothpaste	used for	fighting gum disease<|endoftext|>
+human	appreciate	beauty[SEP]person	desires	appreciate beauty<|endoftext|>
+blood brain barrier	protect	central nervous system[SEP]blood brain barrier	part of	central nervous system<|endoftext|>
+silk	be used in	textiles[SEP]silk	used for	weave into cloth<|endoftext|>
+politician	want	power[SEP]politician	desires	power<|endoftext|>
+curry	has property	made[SEP]curry	has property	exotic<|endoftext|>
+snake	live	in the rainforest[SEP]snake	at location	rainforest<|endoftext|>
+carpet	be used in	floor of homes[SEP]carpet	at location	room of house<|endoftext|>
+true	has property	story[SEP]not all stories	has property	true<|endoftext|>
+petrol station	has place	near[SEP]fuel	at location	petrol station<|endoftext|>
+nocturia	be symptom of	sleep area[SEP]sleep	has subevent	nocturia<|endoftext|>
+cats	has property	smart[SEP]cats	has property	smart<|endoftext|>
+rabbit	have	long ears[SEP]rabbit	has a	long ears<|endoftext|>
+becoming scuba diver	can	survive[SEP]becoming scuba diver	causes	enjoying underwater ocean life<|endoftext|>
+mineral	be in	vegetable[SEP]mineral	distinct from	vegetable<|endoftext|>
+buying in bulk	has property	cheaper[SEP]buying in bulk	has property	less expensive than buying single items<|endoftext|>
+male	has body part	beard[SEP]beard	part of	adult male body<|endoftext|>
+fruit	has property	on the bottom of yogurt[SEP]yogurt	has property	flavored with fruit<|endoftext|>
+freezer	preserve	food[SEP]freezer	used for	preserving food at low temperature<|endoftext|>
+board game	has property	fun[SEP]board game	has property	fun<|endoftext|>
+resting	has place	on[SEP]resting	has prerequisite	peaceful place<|endoftext|>
+homeschooler	has property	advanced[SEP]homeschooler	has property	very bright<|endoftext|>
+stars	has property	movies[SEP]film stars	has property	very rich<|endoftext|>
+spring	can	bounce[SEP]spring	capable of	bounce<|endoftext|>
+kissing	has body part	lips[SEP]kissing	has subevent	put tongue in mouth<|endoftext|>
+cali	has property	colombia[SEP]cali	part of	colombia<|endoftext|>
+grape	has property	ohio[SEP]grape	at location	ohio<|endoftext|>
+koala	can eat	eucalyptus[SEP]koala	capable of	eat eucalyptus<|endoftext|>
+fast food restaurant	have	two windows[SEP]fast food restaurants	has a	windows<|endoftext|>
+pretoria	be capital of	south africa[SEP]pretoria	part of	south africa<|endoftext|>
+matter	exist in	three states[SEP]matter	has a	three states<|endoftext|>
+rice pudding	get	watery[SEP]rice pudding	instance of	pudding<|endoftext|>
+moisturizer	has property	makeup[SEP]moisturizer	at location	many cosmetics<|endoftext|>
+carbon dioxide	be important for	breathing[SEP]breathing	used for	exhaling carbon dioxide<|endoftext|>
+sentence	has property	incorrect[SEP]sentence	has property	false<|endoftext|>
+yogurt	have	bacteria[SEP]yogurt	has a	bacteria in<|endoftext|>
+airplane seat belt	has place	on[SEP]seat belt	part of	plane seat<|endoftext|>
+poet	write	sonnets[SEP]poets	capable of	write sonnets<|endoftext|>
+traffic	can	slow[SEP]traffic	capable of	slow car down<|endoftext|>
+cup	be used	for measuring[SEP]cup	used for	drinking or measuring things<|endoftext|>
+mental illness	be considered	social problem[SEP]mental illness	has a	do with social relations<|endoftext|>
+recycling help	has property	environment[SEP]recycling	has property	good for environment<|endoftext|>
+goldfish	can	bowl[SEP]goldfish	desires	bowl<|endoftext|>
+activism	create	change in society[SEP]changing society	has prerequisite	activism<|endoftext|>
+some church	have	steeples[SEP]steeples	at location	church<|endoftext|>
+cable	be used in	bridges[SEP]cable	used for	supporting bridge<|endoftext|>
+crater lake	be in	oregon[SEP]crater lake	at location	oregon<|endoftext|>
+art	be used in	education[SEP]art	used for	education<|endoftext|>
+hair conditioner	be used in	conjunction with hair shampoos[SEP]hair conditioner	used for	keep hair shiny<|endoftext|>
+majority	differ from	plurality[SEP]majority	distinct from	minority<|endoftext|>
+bird	can sit on	telephone wires[SEP]bird	capable of	resting on telephone wire<|endoftext|>
+fraction	divide	whole numbers[SEP]fraction	part of	whole<|endoftext|>
+organization	offer	employee benefits[SEP]business organization	capable of	offer benefits to employees<|endoftext|>
+poem	tell	meaningful story[SEP]poem	used for	telling story<|endoftext|>
+death	be essential to	life[SEP]death	has prerequisite	life<|endoftext|>
+banjo	make	sound[SEP]banjo	used for	make music<|endoftext|>
+water	has property	is important[SEP]water	has property	important<|endoftext|>
+deodorant	should spray for	proper smell[SEP]deodorant	used for	smelling good<|endoftext|>
+trash can	has property	made[SEP]trash can	used for	store trash<|endoftext|>
+quebec sign language	has property	made[SEP]quebec sign language	at location	ontario<|endoftext|>
+fin	has property	fish[SEP]fin	part of	fish<|endoftext|>
+pencil	has place	on[SEP]pencil	at location	pencil holder<|endoftext|>
+grasshopper	can jump	high[SEP]grasshopper	capable of	jump high<|endoftext|>
+earth	has property	oxygen[SEP]earth's surface	has property	full of oxygen<|endoftext|>
+debit card	can be used	as credit[SEP]debit card	used for	pay for things<|endoftext|>
+highway	have weigh	stations[SEP]highway	has a	weigh stations on<|endoftext|>
+doctor	tap	syringes[SEP]syringe	at location	doctor's office<|endoftext|>
+addis ababa	has property	ethiopia[SEP]addis ababa	part of	ethiopia<|endoftext|>
+nurse	care for	patients[SEP]nurses	capable of	care for patients<|endoftext|>
+knife	need	point[SEP]point	part of	knife<|endoftext|>
+trash receptacle	has property	made[SEP]trash receptacle	used for	storing trash<|endoftext|>
+socket	wrench	work[SEP]socket	part of	socket wrench<|endoftext|>
+radiator	be used in	car[SEP]radiator	receives action	found in car<|endoftext|>
+la marseillaise	has property	the french national anthem[SEP]la marseillaise	defined as	national anthem of france<|endoftext|>
+calculator	perform	calculations[SEP]using calculator	used for	performing mathematical calculations<|endoftext|>
+monkey	live	in a zoo[SEP]monkey	at location	cage in zoo<|endoftext|>
+phantom limb pain	can	occur[SEP]phantom limb pain	capable of	follow amputation<|endoftext|>
+teacher	plan	lesson[SEP]teacher	capable of	plan lesson<|endoftext|>
+human	prefer	hot water when bathing[SEP]person	desires	hot water for bathing<|endoftext|>
+small fly	has property	natural[SEP]fly	has property	small<|endoftext|>
+some animal	have	big eyes[SEP]animals	has a	eyes<|endoftext|>
+electricity	turn	motor[SEP]electricity	capable of	cause motor to turn<|endoftext|>
+dye	color	a fabric[SEP]dyes	used for	colour fabrics<|endoftext|>
+vaccine	can prevent	diseases[SEP]vaccines	capable of	control diseases<|endoftext|>
+seat belt	be used in	cars[SEP]seat belt	part of	car seat<|endoftext|>
+laptop computer	has property	usually more expensive than desktop computers with comparable features[SEP]laptop computers	has property	more expensive than desk top computers<|endoftext|>
+plastic	has property	material[SEP]plastic	has property	solid<|endoftext|>
+insulin	be used	to treat diabetes[SEP]manufactured insulin	used for	treat diabetes<|endoftext|>
+lens	has body part	eye[SEP]lens	part of	eye<|endoftext|>
+star	has property	constellation[SEP]star	part of	constellation<|endoftext|>
+buddhist	be helped by	meditation[SEP]buddhist meditation	used for	developing compassion and wisdom<|endoftext|>
+people	laugh	change[SEP]making people laugh	causes	people more amenable to change<|endoftext|>
+everyone	wear	party hats[SEP]party hats	at location	party<|endoftext|>
+lady	can look	beautiful[SEP]lady	capable of	look pretty<|endoftext|>
+each person	has property	unique[SEP]each person	has property	unique<|endoftext|>
+garbage collection work	has place	out[SEP]garbage can	used for	place to gather garbage<|endoftext|>
+theatre	has property	air[SEP]air	at location	theatre<|endoftext|>
+wine	be aged in	wooden barrels[SEP]wine	capable of	age in wooden cask<|endoftext|>
+trees	be cut down for	single sheet of paper[SEP]paper	created by	cutting down trees<|endoftext|>
+stove	has property	made[SEP]stove	has property	hot<|endoftext|>
+freezer	build up with	ice[SEP]freezer	used for	storing ice<|endoftext|>
+bag of chips	come	half full[SEP]open bag of chips	has prerequisite	tear bag of chips<|endoftext|>
+brass	be called	alloy[SEP]brass	defined as	alloy of copper and zinc<|endoftext|>
+black pepper	be staple seasoning along with	salt[SEP]pepper and salt	used for	seasoning food<|endoftext|>
+bun	be in	oven[SEP]have bun in oven	Entails	conceive<|endoftext|>
+thunder	has property	loud[SEP]clap of thunder	has property	loud<|endoftext|>
+people	have	different taste preferences[SEP]people	has a	different levels of taste and ability<|endoftext|>
+coin slot	has property	used for[SEP]coin slot	used for	putting money in<|endoftext|>
+pillowcase	has color	white[SEP]pillowcase	used for	surrounding pillow<|endoftext|>
+life	be considered	opposite of death[SEP]life	defined as	opposite of death<|endoftext|>
+garden	has property	important for the environment[SEP]weeding garden	has property	necessary<|endoftext|>
+sex	has property	fun[SEP]sex	has property	fun<|endoftext|>
+walnut	be called	walnuts[SEP]walnut	part of	walnut<|endoftext|>
+calculator	use algorithms for	math[SEP]calculators	used for	do math<|endoftext|>
+guitar pick	has property	made[SEP]guitar pick	used for	play guitar<|endoftext|>
+nerve	has body part	skin[SEP]nerve	part of	body<|endoftext|>
+neptune	has property	the 8th planet from the sun[SEP]sometimes neptune	defined as	ninth planet from sun<|endoftext|>
+solid	can	break[SEP]solid things	capable of	break<|endoftext|>
+nerve	send	messages to the brain[SEP]nerve	used for	relaying messages to brain<|endoftext|>
+cars	use	gas[SEP]cars	capable of	spend gas<|endoftext|>
+arch bridge	support	weight[SEP]bridge arch	used for	distributing weight<|endoftext|>
+silk	has property	woven[SEP]treads of silk	has property	woven into textiles<|endoftext|>
+match	start	fire[SEP]match	used for	starting fire<|endoftext|>
+squirrel	differ from	chipmunks[SEP]squirrel	distinct from	chipmunk<|endoftext|>
+helium balloon	has place	near[SEP]helium balloon	at location	air<|endoftext|>
+october	have	31 days[SEP]october	has a	thirty one days<|endoftext|>
+ocean	be shown in	blue on world map[SEP]ocean	at location	globe<|endoftext|>
+tv	give	information[SEP]tv	used for	give information<|endoftext|>
+bread dough	rise	twice[SEP]bread dough	capable of	rise three times before baking<|endoftext|>
+plastic container	be used	storing[SEP]container	used for	holding<|endoftext|>
+condom	can	use[SEP]condom	used for	prevention of disease<|endoftext|>
+led	be identified on	pc board[SEP]led	at location	pc board<|endoftext|>
+chess piece	move on	chessboard[SEP]chess piece	at location	chess board<|endoftext|>
+flask	be used	preparing[SEP]flask	used for	holding liquid<|endoftext|>
+good health	be important in	life[SEP]maintaining good health	causes	better life<|endoftext|>
+crab	need	salt water[SEP]crab	at location	salt water<|endoftext|>
+heater	has property	made[SEP]heater	used for	heat<|endoftext|>
+100	has property	has[SEP]100	has property	one hundred<|endoftext|>
+some fart	has property	odorless[SEP]fart	has subevent	pass smelly wind<|endoftext|>
+some highway	have	tolls[SEP]toll highway	at location	a<|endoftext|>
+playing	has property	fun[SEP]playing	has property	fun<|endoftext|>
+family history	be important in	medical history[SEP]family history	part of	medical history<|endoftext|>
+tissue holder	has property	used for[SEP]tissue holder	used for	storing tissues<|endoftext|>
+calculator	work with	problem[SEP]use calculator	has prerequisite	have problem to solve<|endoftext|>
+bratislava	be capital of	slovakia[SEP]bratislava	part of	slovakia<|endoftext|>
+chess board	have	64 squares[SEP]chess board	has a	64 squares<|endoftext|>
+tide	has property	higher when the moon is full[SEP]tide	has property	lower when moon full<|endoftext|>
+north africa	be	the fist part of the african continent[SEP]north africa	part of	africa<|endoftext|>
+muscle	has property	in the human body[SEP]muscle	at location	human body<|endoftext|>
+fire	kill	people[SEP]fire	capable of	kill people<|endoftext|>
+coach airline seat	can	work[SEP]coach airline seat	used for	fly to another place<|endoftext|>
+comedian	make	people laugh[SEP]comedian	desires	make people laugh<|endoftext|>
+bread dough	has property	kneaded[SEP]making bread	has subevent	knead dough<|endoftext|>
+house	have	steep roofs[SEP]houses	has a	roofs<|endoftext|>
+grapefruit	be different from	orange[SEP]grapefruit	distinct from	lemon<|endoftext|>
+alexandria	be	in egypt[SEP]alexandria	part of	egypt<|endoftext|>
+smallmouth	has property	bass[SEP]smallmouth bass	part of	smallmouth<|endoftext|>
+lotion	moisturize	skin[SEP]moistener	at location	skin lotion<|endoftext|>
+bean bag chair	can	look[SEP]bean bag chair	used for	lounge<|endoftext|>
+display cabinet	be with	glass doors[SEP]glass fronted display cabinet	at location	kitchen<|endoftext|>
+drum	be used in	music[SEP]drum	used for	drum<|endoftext|>
+computer	cause	headaches[SEP]using computer	causes	headache<|endoftext|>
+marker	can	use[SEP]marker	used for	drawing<|endoftext|>
+becoming scuba diver	can	know[SEP]becoming scuba diver	used for	swiming underwater<|endoftext|>
+brother	has property	boys[SEP]brother	has property	male<|endoftext|>
+peace	be associated with	love[SEP]peace	created by	love and understanding<|endoftext|>
+museum wing	has property	made[SEP]museum wing	used for	display things<|endoftext|>
+lung	has body part	muscles[SEP]lung	part of	body<|endoftext|>
+lead	has property	toxic chemistry[SEP]lead	has property	toxic<|endoftext|>
+thanksgiving	has property	holiday[SEP]thanksgiving	has property	one of many holidays<|endoftext|>
+computer	be used in	shopping[SEP]computer	used for	make shopping list<|endoftext|>
+sex	has property	enjoyable[SEP]sexual intercourse	has property	enjoyable to humans<|endoftext|>
+some neighborhood	have	alleys[SEP]alley	at location	towns<|endoftext|>
+andalusia	has property	spain[SEP]andalusia	part of	spain<|endoftext|>
+glass	has property	fragile[SEP]glass	has property	very fragile<|endoftext|>
+boat	sail against	wind[SEP]boat	capable of	sailing against wind<|endoftext|>
+flowers	has property	important at a wedding[SEP]flowers	at location	wedding<|endoftext|>
+guadeloupe	be part of	france[SEP]guadeloupe	part of	france<|endoftext|>
+towel bar	attached to	wall[SEP]towel bar	used for	hanging towels on<|endoftext|>
+detergent	can	clean[SEP]detergent	capable of	clean clothes<|endoftext|>
+people	have	big ears[SEP]most people	has a	ears<|endoftext|>
+fiberglass	be used in	boats[SEP]fiberglass	at location	boat<|endoftext|>
+hinged door	has property	visible[SEP]hinged door	at location	building<|endoftext|>
+bloodhound	can	track[SEP]bloodhound	capable of	track down missing people<|endoftext|>
+more	has property	bad[SEP]more people	has property	good than bad<|endoftext|>
+the cars	turn	left[SEP]cars	capable of	turn left<|endoftext|>
+piano	have	pedals[SEP]pedals	at location	piano<|endoftext|>
+king	has property	die[SEP]king	has property	dead long live king<|endoftext|>
+poet	write	poems[SEP]poet	capable of	write poems<|endoftext|>
+wood	has property	heat[SEP]wood heat	has property	inexpensive<|endoftext|>
+tree	can	grow[SEP]tree	capable of	grow<|endoftext|>
+pint	has property	quart[SEP]pint	part of	quart<|endoftext|>
+mailbox	has place	near[SEP]mailbox	at location	front of house<|endoftext|>
+alarm clock	be made	originally[SEP]alarm clock	used for	clock time<|endoftext|>
+people	get	tired[SEP]people	capable of	get tired<|endoftext|>
+firefighter	take out	fires[SEP]firefighter	desires	put out fires<|endoftext|>
+scene	be shown in	movies[SEP]scene	at location	movie<|endoftext|>
+mecca	be holiest city of	islam[SEP]mecca	defined as	holiest city of islam<|endoftext|>
+chair	has body part	legs[SEP]leg	part of	chair<|endoftext|>
+gideon bible	be in	hotel rooms[SEP]gideon bible	at location	at hotel<|endoftext|>
+pluto	be called	planet 9[SEP]pluto	defined as	ninth planet from sun<|endoftext|>
+predator	be different from	prey[SEP]predator	distinct from	prey<|endoftext|>
+people	has property	unenlightened[SEP]people	has property	snobbish about mere things<|endoftext|>
+porcupine	have	quills[SEP]porcupine quills	has a	barbs<|endoftext|>
+while	has property	one[SEP]1	has property	one<|endoftext|>
+hair dryer	can	help[SEP]blow dryer	used for	setting hair<|endoftext|>
+townhouse	be called	townhouses[SEP]townhouse	at location	row of townhouses<|endoftext|>
+hair gel	make hard	hair[SEP]hair gel	used for	controlling hair<|endoftext|>
+marriage	has property	successful[SEP]marriages	has property	very successful<|endoftext|>
+dog	stand on	two feet[SEP]dog	capable of	stand on two legs<|endoftext|>
+some house	have	two doors[SEP]house	has a	door<|endoftext|>
+bald cypress	has property	louisiana state tree[SEP]louisiana state tree	defined as	bald cypress<|endoftext|>
+being lazy	has property	bad[SEP]being lazy	has property	hazardous to health<|endoftext|>
+butter	be used in	bread[SEP]butter	capable of	spread on bread<|endoftext|>
+human	has property	being[SEP]master	has property	human being<|endoftext|>
+athletic shoe	used	originally[SEP]shoe	used for	wearing<|endoftext|>
+backyard	has property	front yard[SEP]yard	at location	back of house<|endoftext|>
+pizza crust	has property	ingredients[SEP]crust	part of	pizza<|endoftext|>
+atlantic ocean	has property	temperature[SEP]atlantic ocean	has property	responsible for major weather patterns<|endoftext|>
+woodwind	has property	music[SEP]woodwind	used for	make beautiful music<|endoftext|>
+acid	be found in	stomach[SEP]acid	at location	stomach<|endoftext|>
+dropping	has property	bad[SEP]dropping things	has property	bad<|endoftext|>
+water spout	has property	visible[SEP]water spout	at location	a<|endoftext|>
+visiting art gallery	has property	made[SEP]visiting art gallery	used for	insight<|endoftext|>
+asthmatic	have	trouble breathing[SEP]having asthma attack	causes	have trouble breathing<|endoftext|>
+computer	cause	eye strain[SEP]using computer	causes	strain on eyes<|endoftext|>
+beaver	live	in the forest[SEP]beaver	at location	in wild<|endoftext|>
+calculator	add	numbers[SEP]calculator	used for	adding numbers<|endoftext|>
+constellations	has property	in different places in the sky[SEP]constellation	at location	sky<|endoftext|>
+spider	catch	flies[SEP]spider	capable of	catch flies<|endoftext|>
+bald eagle	live in	mountains[SEP]bald eagle	at location	rocky mountains<|endoftext|>
+hairdresser	cut	into the ends of hair[SEP]going to hairdresser	has subevent	hair cut<|endoftext|>
+antananarivo	be capital of	madagascar[SEP]antananarivo	part of	madagascar<|endoftext|>
+dioxin	has property	poisoning[SEP]dioxins	has property	carcinogenic<|endoftext|>
+bobby pin	has property	hairstyle[SEP]bobby pin	used for	hold hair<|endoftext|>
+lung	be important in	respiratory system[SEP]lung	part of	respiratory system<|endoftext|>
+credit card	has property	bills[SEP]credit card bills	has property	common<|endoftext|>
+antelope	have	long legs[SEP]antelope	has a	four legs<|endoftext|>
+coccidiosis	can	occur[SEP]unsanitary conditions	causes	coccidiosis<|endoftext|>
+toilet bowl	hold	water[SEP]bowl	used for	hold toilet water<|endoftext|>
+dredging bucket	has property	made[SEP]dredging bucket	part of	dredge<|endoftext|>
+eight ball	has property	made[SEP]eight ball	has property	good<|endoftext|>
+typewriter	has property	bad[SEP]typewriter	has property	antiquated<|endoftext|>
+remote control	work with	tv[SEP]remote control	used for	turn on television<|endoftext|>
+maracaibo	be important to	venezuela[SEP]maracaibo	part of	venezuela<|endoftext|>
+getting	make	people laugh[SEP]making people laugh	causes	have fun too<|endoftext|>
+meeting	has property	important in a business[SEP]meetings	has property	important<|endoftext|>
+razor	has property	made[SEP]razor	has property	sharp<|endoftext|>
+petrified forest national park	has property	az[SEP]petrified forest national park	part of	arizona<|endoftext|>
+drum	be used in	music[SEP]drum	used for	drum<|endoftext|>
+circulatory system	be related to	other systems in body[SEP]circulatory system	part of	body<|endoftext|>
+glass	has property	recycled[SEP]glass	capable of	recycled and used again<|endoftext|>
+ocd	has property	affect[SEP]ocd symptoms	has property	controllable<|endoftext|>
+stool	can	utilize[SEP]stool	used for	working<|endoftext|>
+germ	make	body sick[SEP]germs	capable of	make sick<|endoftext|>
+kerch	has property	crimea[SEP]kerch	part of	crimea<|endoftext|>
+insulin	be produced	in the pancreas[SEP]insulin	receives action	produced by pancreas<|endoftext|>
+appearance	can affect	self esteem[SEP]changing appearance	causes	boost to self esteem<|endoftext|>
+sensory system	relate to	nervous system[SEP]sensory system	part of	body<|endoftext|>
+different material	has property	recycled[SEP]materials	has property	recycled for other uses<|endoftext|>
+xylem	has property	similar to phloem in a plant[SEP]transport system of flowering plant	made of	xylem and phloem<|endoftext|>
+true	has property	god[SEP]truth about god	has property	unknown<|endoftext|>
+lathe	has property	machine[SEP]lathe	capable of	machine parts<|endoftext|>
+peace	has property	elusive[SEP]peace	has property	elusive<|endoftext|>
+singular	has property	plural[SEP]one plural and one	has property	singular<|endoftext|>
+salt	make	crystals[SEP]salt	made of	crystals<|endoftext|>
+northern hemisphere	have winter in	december[SEP]december in northern hemisphere	defined as	time of winter<|endoftext|>
+lemur	live in	groups[SEP]lemur	at location	group<|endoftext|>
+thai	has property	food spicy[SEP]thai food	has property	spicy and very healthy<|endoftext|>
+frog	has body part	feet[SEP]frog legs	part of	true frog<|endoftext|>
+typewriter key	can	help[SEP]typewriter key	used for	type letter<|endoftext|>
+italian cuisine	has property	dishes[SEP]italian cooking	has property	one form of cuisine<|endoftext|>
+transistor	be used	as an amplifier[SEP]transistors	used for	implement amplifiers and voltage controlled switches<|endoftext|>
+masturbation	has manner	better[SEP]masturbation	has property	enjoyable<|endoftext|>
+everyone	want	to go to heaven[SEP]everybody	desires	go to heaven<|endoftext|>
+water	look	blue in the ocean[SEP]water in ocean	capable of	looks blue<|endoftext|>
+author	write	novels[SEP]writer	capable of	write novels<|endoftext|>
+pollution	end up in	ocean[SEP]pollution	at location	ocean<|endoftext|>
+floor	has property	is[SEP]floor	has property	flat<|endoftext|>
+rosemary	be used for	remembrance[SEP]rosemary	used for	remembrance<|endoftext|>
+selfishness	be different from	self interest[SEP]selfishness	distinct from	selflessness<|endoftext|>
+pc	has property	at[SEP]pc	has property	short for computer<|endoftext|>
+eiffel tower	has property	sized[SEP]eiffel tower	used for	measure height<|endoftext|>
+color red	associated with	love[SEP]red	defined as	colour of love<|endoftext|>
+web designer	build	websites[SEP]designer	capable of	build web site<|endoftext|>
+scientist	work in	labs[SEP]scientist	at location	laboratory<|endoftext|>
+universe	has property	infinite[SEP]universe	has property	infinite<|endoftext|>
+metal	be used for	musical instruments[SEP]metal	used for	make musical instruments<|endoftext|>
+life	has property	as hard[SEP]life	has property	hard<|endoftext|>
+learner	make	mistakes[SEP]making mistakes	part of	learning<|endoftext|>
+jupiter	have	many moons[SEP]jupiter	has a	moons<|endoftext|>
+snare drum	be called	a snare drum[SEP]snare drum	used for	providing beat<|endoftext|>
+turn	can	off[SEP]turn off	manner of	turn<|endoftext|>
+camera	even take	pictures[SEP]camera	used for	take pictures<|endoftext|>
+shoe	be in	shoe stores[SEP]shoe	at location	store<|endoftext|>
+referee	be needed in	football[SEP]referee	at location	football<|endoftext|>
+bananas	have	potassium[SEP]bananas	has property	rich in potassium<|endoftext|>
+make patchwork quilt	has trait	good[SEP]making patchwork quilt	has prerequisite	great deal of skill<|endoftext|>
+lucid dream	has property	role[SEP]lucid dream	has subevent	able to influence dream<|endoftext|>
+clouds	cause	rain[SEP]clouds	capable of	cause rain to fall<|endoftext|>
+clown	look	sad[SEP]clown	capable of	feel sad<|endoftext|>
+insect	have	six legs[SEP]all insects	has a	six legs<|endoftext|>
+people	has property	color blind[SEP]people	has property	color blind<|endoftext|>
+panda	live in	bamboo forests[SEP]panda	located near	bamboo forest<|endoftext|>
+clock face	has place	on[SEP]clock	has a	face<|endoftext|>
+battery	be source of	electrical energy[SEP]battery	used for	supplying electrical energy<|endoftext|>
+mole	dig	holes[SEP]mole	capable of	dig hole<|endoftext|>
+roller coaster	has property	at[SEP]roller coaster	at location	carnival<|endoftext|>
+schooner	can	know[SEP]schooner	at location	sea<|endoftext|>
+bald eagle	photographed	from the side[SEP]bald eagle	at location	picture<|endoftext|>
+most animals	has body part	heads[SEP]almost all animals	has a	one head<|endoftext|>
+petrol station	has place	near[SEP]petrol	at location	petrol station<|endoftext|>
+cattle	have	different shaped horns[SEP]cows	has a	long horns<|endoftext|>
+thing	change	as a result[SEP]modify	manner of	change<|endoftext|>
+arthritis	can	hurt[SEP]arthritis	capable of	may joints hurt<|endoftext|>
+neighborhood map	can	work[SEP]neighborhood map	used for	finding way around<|endoftext|>
+different cultures	have	different worldviews[SEP]different countries	has a	different cultures<|endoftext|>
+atom	relate to	molecules[SEP]atom	part of	molecule<|endoftext|>
+bass string	has property	visible[SEP]string bass	has property	played standing up<|endoftext|>
+animal	have	emotions[SEP]animals	has a	emotions<|endoftext|>
+shadow	appear	dark[SEP]shadow	manner of	darken<|endoftext|>
+pavement	be in	city[SEP]pavement	at location	city<|endoftext|>
+defense technical information center	can	work[SEP]defense technical information center	part of	department of defense<|endoftext|>
+gas	have	weight[SEP]gas	has a	weight<|endoftext|>
+roses	has property	red color[SEP]roses	has property	red pink or white<|endoftext|>
+most plant	have	green leaves[SEP]most plants	has a	green leaves<|endoftext|>
+grape	be used in	wine[SEP]grape	part of	wine<|endoftext|>
+air sac	be present in	birds[SEP]air sac	part of	bird<|endoftext|>
+elevator	have hole in	door[SEP]elevator	has a	door<|endoftext|>
+vitamin d	added to	milk[SEP]milk	receives action	infused with vitamin d<|endoftext|>
+people	have	different genes[SEP]humans	has a	genes<|endoftext|>
+farting	smell	bad[SEP]farting	has subevent	will smell bad smell<|endoftext|>
+bananas	have	potassium[SEP]bananas	has a	potassium<|endoftext|>
+first aid kit	be needed at	home[SEP]first aid kit	at location	trunk<|endoftext|>
+epistle of james	has property	in the bible[SEP]epistle of james	part of	new testament<|endoftext|>
+used	be	verify[SEP]see	manner of	verify<|endoftext|>
+television	has property	educational[SEP]television shows	has property	educational<|endoftext|>
+thing	hurt	more[SEP]hurting else	causes	more hurt<|endoftext|>
+coaster brake	has property	bike[SEP]coaster brake	part of	bicycle<|endoftext|>
+leaf	fall off as	trees[SEP]leaves	capable of	fall off trees<|endoftext|>
+mice	can eat	cheese[SEP]mice	capable of	eat cheese<|endoftext|>
+flowers	be known	as reproductive parts of a plant[SEP]flower	defined as	reproductive structure for seed bearing plants<|endoftext|>
+everyone	have	kid[SEP]everyone	has a	childhood<|endoftext|>
+electronic device	use	2 batteries[SEP]batteries	capable of	power electronic devices<|endoftext|>
+becoming scuba diver	can	know[SEP]becoming scuba diver	used for	seeing marine life<|endoftext|>
+acetaminophen	can	help[SEP]acetaminophen	at location	medicine chest<|endoftext|>
+getting	make	people laugh[SEP]entertaining people	used for	make laugh<|endoftext|>
+dryer	dry	clothes[SEP]dryer	capable of	dry clothing<|endoftext|>
+steel cable	has property	quantity[SEP]steel cable	has property	very strong<|endoftext|>
+dog	has body part	nose[SEP]dog	has a	nose<|endoftext|>
+the body	handle	excess amounts of vitamin c[SEP]human bodies	capable of	make small amounts of vitamin c<|endoftext|>
+wood	be used for	window frames[SEP]wood	used for	picture frames<|endoftext|>
+lens	be used in	glasses[SEP]lens	used for	making glasses<|endoftext|>
+machine	has property	made[SEP]machine	has property	mechanical<|endoftext|>
+acoustic guitar	has property	used for[SEP]acoustic guitar	used for	performing music<|endoftext|>
+label	can be	helpful[SEP]labeler	used for	identification<|endoftext|>
+plane	be used for	transportation[SEP]airplane	used for	transport<|endoftext|>
+people	lie to	themselves[SEP]people	capable of	lie to themselves<|endoftext|>
+air	can	compressed[SEP]air	capable of	compressed ina can<|endoftext|>
+lawyer	present	evidence[SEP]lawyer	capable of	produce evidence<|endoftext|>
+golf	has property	expensive[SEP]golfing	has property	expensive<|endoftext|>
+apostrophe	has property	album[SEP]apostrophe	instance of	album<|endoftext|>
+water vapor	be less dense than	air[SEP]water vapor	has property	less dense than air<|endoftext|>
+clock	measure	time[SEP]clock	used for	clock time<|endoftext|>
+outer planet	has property	large[SEP]planets	has property	large<|endoftext|>
+food restaurant	has diet	vegetarian[SEP]vegetarian restaurant	used for	get food<|endoftext|>
+staple remover	can	used[SEP]staple remover	used for	removing stapled documents<|endoftext|>
+most people	has property	ticklish under the feet[SEP]bottom of most people's feet	has property	ticklish<|endoftext|>
+dentist	look for	cavities[SEP]dentist office	used for	see if have cavities<|endoftext|>
+clutch bag	has property	made[SEP]clutch bag	used for	hold personal items<|endoftext|>
+shoulder	has body part	hip[SEP]shoulder	part of	body<|endoftext|>
+upper mantle	differ from	lower mantle[SEP]upper mantle	part of	mantle<|endoftext|>
+crystal	be used in	watches[SEP]crystal	part of	watch<|endoftext|>
+thing	sink in	water[SEP]water	at location	sink<|endoftext|>
+bread	turn	into toast[SEP]bread	used for	making toast<|endoftext|>
+war game	has property	bad[SEP]war games	has property	stupid<|endoftext|>
+outrigger canoe	have	outrigger on left side[SEP]canoe with outriggers	at location	ocean<|endoftext|>
+chicken farm	pluck	chickens[SEP]chickens	at location	farm<|endoftext|>
+heated towel rack	can	go[SEP]heated towel rack	used for	heating towels<|endoftext|>
+space shuttle	land	in water[SEP]water	at location	space shuttle<|endoftext|>
+insect	have	6 legs[SEP]insect	has a	6 legs<|endoftext|>
+piano	have	white keys[SEP]keys	part of	piano<|endoftext|>
+air conditioner	reduce	humidity[SEP]air conditioner	used for	reduce room temperature<|endoftext|>
+battery	be used	power[SEP]battery	used for	power<|endoftext|>
+steel cable	has property	made[SEP]steel cable	used for	construction<|endoftext|>
+good	has property	to drink water[SEP]water	has property	good to drink<|endoftext|>
+cave	form in	certain types of rocks[SEP]cave	at location	rocks<|endoftext|>
+theatre	has property	is important[SEP]leader's theatre	has property	important<|endoftext|>
+social change	affect	society[SEP]changing society	causes	changing people's lives<|endoftext|>
+flag day	be on	june 14[SEP]flag day	part of	june<|endoftext|>
+hand washing	fail	to remove all microorganisms[SEP]hand washing	capable of	remove most dirt and microorganisms from hand<|endoftext|>
+brake	work	again[SEP]returning to work	used for	stopping brake<|endoftext|>
+prerequisite	can	smoke[SEP]smoke	has prerequisite	over 26<|endoftext|>
+door knob	placed	near the edge of the door[SEP]door knobs	used for	open door<|endoftext|>
+apple	has property	fruit[SEP]apple	has property	one kind of fruit<|endoftext|>
+newspaper	get	news[SEP]news	part of	newspaper<|endoftext|>
+some tree	have	pine cones[SEP]pine cones	at location	tree<|endoftext|>
+london	has property	the capital of the united kingdom[SEP]capital of united kingdom	has property	london<|endoftext|>
+clown	have	big feet[SEP]clowns	has a	big feet<|endoftext|>
+tin	be used for	food cans[SEP]tin cans	used for	store food<|endoftext|>
+stars	revolve	around the center of the galaxy[SEP]stars	at location	galaxy<|endoftext|>
+people	laugh at	absurdity[SEP]people	capable of	laugh at nonsense<|endoftext|>
+people	can hear	sound[SEP]people	capable of	hear noises<|endoftext|>
+bumper	be attached to	cars[SEP]bumper	part of	car<|endoftext|>
+human	have hair on	head[SEP]person	has a	hair on head<|endoftext|>
+shower door	has property	jammed[SEP]shower door	used for	non slip access<|endoftext|>
+ellis island	be in	new york[SEP]ellis island	at location	new york city<|endoftext|>
+evidence	be important in	criminal case[SEP]decide criminal's fate	has prerequisite	consider all evidence<|endoftext|>
+madison	be capital of	wisconsin[SEP]madison	part of	wisconsin<|endoftext|>
+ping pong	be red	paddle[SEP]ping pong	has prerequisite	two paddles and ball<|endoftext|>
+index card cabinet	can	work[SEP]index card cabinet	used for	holding index cards<|endoftext|>
+labyrinth	has property	formed[SEP]labyrinth	has property	complex<|endoftext|>
+meat	be more satiating than	vegetarian food[SEP]meat	distinct from	vegetarians<|endoftext|>
+esperanto	has property	spoken[SEP]esperanto	has property	more regular then english language<|endoftext|>
+stirrup	attached to	saddle[SEP]stirrup	part of	saddle<|endoftext|>
+newport	has property	rhode island[SEP]newport	part of	rhode island<|endoftext|>
+pickle jar	has property	used for[SEP]jar	used for	pickles<|endoftext|>
+clothes	crease	in washing machine[SEP]clean clothing	has prerequisite	put in washing machine<|endoftext|>
+art	be used in	education[SEP]seeing art	used for	education<|endoftext|>
+people	lose	weight[SEP]people	capable of	lose weight<|endoftext|>
+fox	has body part	tail[SEP]fox	has a	bushy tail<|endoftext|>
+local news	can	know[SEP]local news	has a	coverage of city<|endoftext|>
+echolocation	be more effective in	water[SEP]echolocation	has property	more powerful than vision in water<|endoftext|>
+order	come from	chaos[SEP]order	distinct from	chaos<|endoftext|>
+darkness	has property	scary[SEP]darkness	has property	scary<|endoftext|>
+koala	has property	australian[SEP]koalas	has property	native to australia<|endoftext|>
+washing hands	kill	germs[SEP]washing hands	used for	cleansing of germs<|endoftext|>
+nanotechnology	has property	useful[SEP]nanotechnology	has property	very important<|endoftext|>
+human	can live without	appendix[SEP]person	capable of	live without appendix<|endoftext|>
+bladder	has property	able[SEP]bladder	has property	flexible<|endoftext|>
+meiosis	explain	segregation[SEP]segregation	part of	meiosis<|endoftext|>
+god	has property	omnipotent[SEP]god	has property	omnipotent<|endoftext|>
+dental floss	has property	waxed[SEP]waxed dental floss	used for	one kind of material for flossing<|endoftext|>
+lesotho	be part of	south africa[SEP]lesotho	part of	africa<|endoftext|>
+vet	has property	vets[SEP]vet	has property	short for veterinarian<|endoftext|>
+radiator	has property	warm when heating off[SEP]radiator	used for	providing heat in building<|endoftext|>
+perjury	has property	crime[SEP]committing perjury	causes	crime<|endoftext|>
+cats	have	claws[SEP]cats	has a	claws<|endoftext|>
+organ	has property	in the body in the location[SEP]organ	at location	body<|endoftext|>
+people	have	different brains[SEP]people	has a	brains<|endoftext|>
+atom	has property	tiny[SEP]atoms	has property	very tiny<|endoftext|>
+canvas	be used for	painting[SEP]canvas	used for	paint picture<|endoftext|>
+teapot	has property	used for[SEP]teapot	has property	only for making tea<|endoftext|>
+insect	has place	where[SEP]insect	at location	ground<|endoftext|>
+oil	be made into	gas[SEP]oil	used for	make gas<|endoftext|>
+distribution	be important for	successful marketing[SEP]distribution	part of	marketing<|endoftext|>
+microwave popcorn	be	popped[SEP]popcorn	receives action	popped in microwave<|endoftext|>
+the body	get	cold when sick[SEP]if cold person	capable of	get sick<|endoftext|>
+judaism	be described as	ethical monotheism[SEP]jews believe god	defined as	source of ethical monotheism<|endoftext|>
+police	prevent	crime[SEP]policeman	desires	prevent crime<|endoftext|>
+human	has property	altruistic[SEP]people	has property	altruistic<|endoftext|>
+knowledge	has property	power[SEP]knowledge	has property	power<|endoftext|>
+hockey	has property	violent[SEP]hockey	has property	violent<|endoftext|>
+eyelid	can	seen[SEP]eyelid	part of	eye<|endoftext|>
+sand	be used in	cement making[SEP]sand	used for	making cement<|endoftext|>
+refrigerator	has property	magnets[SEP]refrigerator magnet	at location	fridge<|endoftext|>
+swallow	keep	coming back[SEP]swallow	manner of	keep back<|endoftext|>
+pork butcher	has property	made[SEP]pork butcher	used for	selling meat<|endoftext|>
+rose plant	have	thorns[SEP]rose	has a	thorns<|endoftext|>
+classical music	has property	alike[SEP]two types of music	has property	classical and popular<|endoftext|>
+antibiotic	be produced by	fungi[SEP]antibiotic	receives action	derived from fungi or bacteria<|endoftext|>
+cello	has property	made[SEP]cello	has property	like violin but larger<|endoftext|>
+profit	differ from	revenue[SEP]profit	distinct from	revenue<|endoftext|>
+rump	has property	steak[SEP]rump steak	part of	rump<|endoftext|>
+boat	be used for	transportation[SEP]boat	used for	transport<|endoftext|>
+nevada	be part of	west[SEP]nevada	part of	southwest<|endoftext|>
+joining army	make	money[SEP]joining army	used for	making money<|endoftext|>
+person	maintain	balance[SEP]person	desires	maintain balance<|endoftext|>
+asthmatic	have	trouble breathing[SEP]have asthma attack	has subevent	have difficulty breathing<|endoftext|>
+oven	has property	heated[SEP]oven	has property	very hot<|endoftext|>
+tutor	support	learning[SEP]tutors	capable of	further learning<|endoftext|>
+rain shower	has property	review[SEP]rain shower	has property	good<|endoftext|>
+dandruff shampoo	has property	xl[SEP]dandruff shampoo	at location	store<|endoftext|>
+frying pan	be	similar[SEP]frying pan	used for	saute<|endoftext|>
+female kangaroo	have	pouch[SEP]female kangaroos	has a	pouches<|endoftext|>
+beirut	be capital of	lebanon[SEP]beirut	part of	lebanon<|endoftext|>
+elephant	do have	trunks[SEP]elephants	has a	trunks<|endoftext|>
+learning a new language	can be	an advantage[SEP]learning new language	has subevent	take course<|endoftext|>
+one country	have	economy[SEP]each country	has a	economy<|endoftext|>
+carbon fiber	be used in	cars[SEP]sometimes vehicle body	made of	carbon fiber<|endoftext|>
+butter	make better	food taste[SEP]stick of butter	used for	making food taste better<|endoftext|>
+cats	has property	allergic to people[SEP]many people	has property	allergic to cats<|endoftext|>
+litmus paper	be used in	chemistry[SEP]litmus paper	at location	chemistry lab<|endoftext|>
+pub	has place	near[SEP]pub	at location	town<|endoftext|>
+south dakota	be called	the black hills[SEP]black hills	part of	south dakota<|endoftext|>
+obsession	differ from	excessive worry[SEP]obsessions	capable of	cause anxiety<|endoftext|>
+physical activity	can improve	health[SEP]get physical activity	has subevent	improving health<|endoftext|>
+towel rack	be attached to	wall[SEP]towel rack	used for	hanging towels on<|endoftext|>
+newspaper	be called	herald[SEP]herald	instance of	newspaper<|endoftext|>
+postal service	has movement	slow[SEP]postal service	has property	very slow<|endoftext|>
+two	has property	after[SEP]one plus one	has property	two<|endoftext|>
+menstrual cramp	has property	thing[SEP]menstruation	has property	crampy<|endoftext|>
+glass	has property	fragile[SEP]glass	has property	fragile<|endoftext|>
+nanotube	has property	made[SEP]nanotubes	has property	small<|endoftext|>
+action	has property	or[SEP]action	has property	past or present<|endoftext|>
+queen elizabeth ii	be the queen of	australia[SEP]majesty queen elizabeth ii	defined as	queen of australia<|endoftext|>
+the white house	be located	on pennsylvania avenue[SEP]white house	at location	pennsylvania avenue<|endoftext|>
+science	has property	elitist[SEP]science	has property	conservative and elitist<|endoftext|>
+termite mound	can	help[SEP]termites	capable of	build mound for home<|endoftext|>
+people	burn	themselves[SEP]people	capable of	burn themselves<|endoftext|>
+sun	rise	from east[SEP]sun	capable of	rise in east<|endoftext|>
+jumping rope	has property	good exercise[SEP]jumping rope	used for	physical activity<|endoftext|>
+mount	has property	stratovolcano[SEP]mount elbrus	instance of	stratovolcano<|endoftext|>
+salmon	has property	pronounced salmon[SEP]salmon	part of	salmon<|endoftext|>
+water	has property	non-sticky liquid[SEP]water	has property	transparent liquid<|endoftext|>
+snoring	has property	irritating noise[SEP]snoring	causes	loud noise<|endoftext|>
+revolution	change	society[SEP]changing society	has prerequisite	revolution<|endoftext|>
+brown thrasher	has property	georgia's state bird[SEP]georgia state bird	defined as	brown thrasher<|endoftext|>
+epileptic	has property	fit causes[SEP]having epileptic fit	causes	losing control<|endoftext|>
+aluminium	has property	visible[SEP]aluminium	has property	light<|endoftext|>
+lift	be generated by	wing[SEP]wing	used for	generating lift<|endoftext|>
+social security check	get	delivered[SEP]social security check	at location	mail box<|endoftext|>
+antalya	has property	turkey[SEP]antalya	part of	turkey<|endoftext|>
+acorn	become	oak trees[SEP]acorn	part of	oak<|endoftext|>
+book	has property	read[SEP]books	has property	written and read<|endoftext|>
+duck	have webbed	feet[SEP]duck	has a	bill and webbed feet<|endoftext|>
+billboard	has property	made[SEP]billboard	used for	advertising products<|endoftext|>
+can	can	is[SEP]can	capable of	can can<|endoftext|>
+washing machine	clean	clothes[SEP]cleaning clothing	used for	washing machines<|endoftext|>
+cars	use	internal combustion engines[SEP]internal combustion engines	used for	power automobiles<|endoftext|>
+pupil	has body part	eye[SEP]pupil	part of	eye<|endoftext|>
+telephone kiosk	can	work[SEP]telephone kiosk	used for	communicating<|endoftext|>
+patio door	has property	done[SEP]patio door	used for	getting on and off patio<|endoftext|>
+sport	has property	good for schools[SEP]sports	has property	good for children<|endoftext|>
+atomic bomb	has property	devastatingly powerful[SEP]atomic bombs	has property	dangerous<|endoftext|>
+ear	become	infected[SEP]ear	capable of	become infected<|endoftext|>
+pumpkin	be part of	halloween[SEP]great pumpkin	part of	halloween<|endoftext|>
+water	spread out on	glass[SEP]water	capable of	wet glass<|endoftext|>
+sex	has property	disgusting[SEP]sex	has property	dirty<|endoftext|>
+brunei	be part of	malaysia[SEP]brunei	part of	borneo<|endoftext|>
+salt	be used	in preserving meat[SEP]salt	used for	preserving meat<|endoftext|>
+necklace chain	has property	made[SEP]chain	used for	make necklace<|endoftext|>
+pupil	can	learn[SEP]pupil	capable of	study lesson<|endoftext|>
+skin	be used	protect[SEP]skin	used for	protect insides<|endoftext|>
+candle	has property	artificial light[SEP]candle	capable of	light small area<|endoftext|>
+brass instrument	has property	played[SEP]brass instrument	used for	playing<|endoftext|>
+centime	has property	franc[SEP]centime	part of	franc<|endoftext|>
+trees	has property	but[SEP]trees	has property	hard to move<|endoftext|>
+ball	can	roll[SEP]ball	capable of	roll<|endoftext|>
+house	has place	outside[SEP]house	at location	street<|endoftext|>
+lymphocyte	can	are[SEP]lymphocyte	part of	lymphatic system<|endoftext|>
+world	has property	smaller[SEP]world	has property	small<|endoftext|>
+clean clothing	has property	made[SEP]clean clothes	has property	good<|endoftext|>
+california	be called	orange county[SEP]southern california	part of	orange county california<|endoftext|>
+shopping	has property	fun[SEP]shopping for clothes	has property	fun for people<|endoftext|>
+restaurant	choose	pepsi[SEP]pepsi	at location	restaurants<|endoftext|>
+piston	work	in an engine[SEP]piston	part of	engine<|endoftext|>
+couplet	be used in	poetry[SEP]line of poetry	part of	couplet<|endoftext|>
+dog	has property	very common pets[SEP]dog	has property	very common pet<|endoftext|>
+camera tripod	has property	visible[SEP]tripod	used for	holding camera steady<|endoftext|>
+inflation	raise	interest rates[SEP]fighting inflation	causes	fed to raise interest rates<|endoftext|>
+insemination	can	occur[SEP]insemination	capable of	happen by accident<|endoftext|>
+stress	cause	exhaustion[SEP]stress	causes	fatigue<|endoftext|>
+dryer	dry	clothes[SEP]clothes dryers	capable of	dry clothes<|endoftext|>
+prospector	know	where to look for gold[SEP]prospecter	capable of	look for gold<|endoftext|>
+become scuba diver	can	know[SEP]become scuba diver	has prerequisite	follow dreams<|endoftext|>
+people	has property	poor[SEP]people	has property	poor<|endoftext|>
+helium	be used in	cryogenics[SEP]helium	defined as	basis of all cryogenics research<|endoftext|>
+shoe	cause	blisters[SEP]shoes	causes	blisters<|endoftext|>
+phantom	live in	opera[SEP]phantom	at location	opera<|endoftext|>
+antisocial personality disorder	be more common in	males[SEP]63 of remanded men	has a	antisocial personality disorder<|endoftext|>
+mental health problem	has property	related[SEP]mental health problem	has property	common<|endoftext|>
+parthenon	be important in	greece[SEP]parthenon	at location	greece<|endoftext|>
+lions	can	kill[SEP]lions	capable of	kill<|endoftext|>
+earth orbit	has place	on[SEP]earth	at location	orbit<|endoftext|>
+quality	has property	ideal[SEP]quality	has property	reliable<|endoftext|>
+group meeting	has property	job[SEP]meeting	has property	group of person<|endoftext|>
+tickling	cause	intense laughter[SEP]tickling	causes	laughing<|endoftext|>
+giraffe	do have	long necks[SEP]giraffes	has a	long necks<|endoftext|>
+judges	use	precedent when deciding a case[SEP]judge	used for	decide case<|endoftext|>
+hair dryer	can	help[SEP]hair dryer	at location	bathroom<|endoftext|>
+cars	has property	petrol[SEP]cars	has property	powered by petrol<|endoftext|>
+canadian flag	has color	red[SEP]canadian flag	has a	two colours red and white<|endoftext|>
+picnic basket	has property	used for[SEP]picnic basket	used for	eating outdoors<|endoftext|>
+spiral ratchet screwdriver	has property	made[SEP]ratchet screwdriver	at location	toolbox<|endoftext|>
+joke	be with	punchline[SEP]punchline	part of	joke<|endoftext|>
+mobile phone	be used for	communication[SEP]mobile phone	used for	communication<|endoftext|>
+mauna loa	be located	in hawaii[SEP]mauna kea	part of	hawaii<|endoftext|>
+explosive	be used in	mining[SEP]explosive	used for	mining purposes<|endoftext|>
+baby	wave	hands[SEP]baby	capable of	wave hand<|endoftext|>
+central america	be called	latin america[SEP]central america	part of	latin america<|endoftext|>
+carbon dioxide	be used in	soda[SEP]carbon dioxide	used for	making soda water<|endoftext|>
+wedding	take	place in a church[SEP]church	at location	wedding<|endoftext|>
+vending machine	give	change[SEP]vending machine	capable of	return change<|endoftext|>
+shadow	be from	sunlight crisp[SEP]shadow	distinct from	sunlight<|endoftext|>
+asian girl	has property	the best[SEP]asian girls	has property	very attractive<|endoftext|>
+bird	fly	at[SEP]bird	at location	air<|endoftext|>
+percussion instrument	be at	back of orchestra[SEP]percussion instrument	at location	orchestra<|endoftext|>
+lawyer	attend	court[SEP]court	at location	lawyer<|endoftext|>
+clutch bag	has property	made[SEP]clutch bag	has property	lightweight<|endoftext|>
+self adhesive label	can go	up[SEP]self adhesive label	used for	sticking to things<|endoftext|>
+finger	can	utilize[SEP]finger	used for	work with thumb<|endoftext|>
+sloth	can	sleep[SEP]sloth	capable of	sleep all day<|endoftext|>
+pencil	has property	lead[SEP]pencil	has a	lead<|endoftext|>
+epileptic	can	fit[SEP]having epileptic fit	used for	epilectics<|endoftext|>
+plant	has property	more productive in a diverse ecosystem[SEP]diverse ecosystems	has property	far more productive than monocultures<|endoftext|>
+bodybuilder	without losing	muscle[SEP]muscle	at location	bodybuilder<|endoftext|>
+grain of sand	turn	into a pearl[SEP]grain of sand	used for	create pearl<|endoftext|>
+cheque book cover	has property	made[SEP]cheque book cover	used for	put in pocket<|endoftext|>
+speech	become	slurred when drunk[SEP]getting drunk	causes	slurred speech<|endoftext|>
+wind power	be used	to make electricity[SEP]electricity can make wind wind	capable of	make electricity<|endoftext|>
+find	has property	underground[SEP]find underground	has property	silver<|endoftext|>
+zombie movie	take	place[SEP]zombie	at location	movie<|endoftext|>
+violence	lead	to more violence[SEP]violence	has a	effect of making more violents<|endoftext|>
+cryonics	possibly can immortalize	person[SEP]person	capable of	become immortal if use cryonics<|endoftext|>
+person	talk about	themselves[SEP]person	desires	talk about themselves<|endoftext|>
+universal joint	be used	in vehicle driveline[SEP]universal joint	part of	drive line<|endoftext|>
+region	be similar to	american states[SEP]regions of united states	has a	similar geography<|endoftext|>
+hope diamond	has property	cursed[SEP]hope diamond	receives action	considered to cursed<|endoftext|>
+metaphase	be different in	mitosis[SEP]metaphase	part of	mitosis<|endoftext|>
+hoodoo	be used	in a sentence[SEP]hoodoo	manner of	be<|endoftext|>
+airport	have	different terminals[SEP]airports	has a	passenger terminals<|endoftext|>
+fuel pump	be in	tank[SEP]fuel pump	capable of	fill fuel tank<|endoftext|>
+some dog	has property	small[SEP]dogs	has property	small<|endoftext|>
+grizzly bear	be different from	black bears[SEP]black bear	distinct from	grizzly bear<|endoftext|>
+acrylic paint	be used in	art[SEP]acrylic	used for	painting things<|endoftext|>
+shopping mall	has property	made[SEP]shopping mall	used for	building stores<|endoftext|>
+turin	has property	piedmont[SEP]turin	part of	piedmont<|endoftext|>
+thumb tack	has property	made[SEP]thumb tack	has property	small<|endoftext|>
+trapezoid	be different from	square[SEP]trapezoid	distinct from	square<|endoftext|>
+camera	have	different lenses[SEP]cameras	has a	lens<|endoftext|>
+crystal pickup	has property	made[SEP]crystal	part of	crystal pickup<|endoftext|>
+index card drawer	has property	made[SEP]index card drawer	used for	hold index cards<|endoftext|>
+most birds	has property	small[SEP]birds	has property	small<|endoftext|>
+coffee mug	has property	used for[SEP]mug	used for	coffee<|endoftext|>
+hypodermic needle	has property	job[SEP]hypodermic needle	at location	doctor's office<|endoftext|>
+inhaler	improve	the health of asthma sufferers[SEP]having asthma attack	has subevent	get inhaler<|endoftext|>
+ferret	can	run[SEP]ferret	at location	act of running<|endoftext|>
+concert	has property	loud[SEP]concerts	has property	very loud<|endoftext|>
+good health	contribute to	happiness[SEP]maintaining good health	causes	happiness<|endoftext|>
+people	desire	famous[SEP]person	desires	with famous people<|endoftext|>
+morphine	has property	addictive[SEP]morphine	has property	addictive<|endoftext|>
+flirting	has effect	dangerous[SEP]flirting	causes	sometimes disastrous<|endoftext|>
+plastic	has property	suitable material[SEP]plastic	capable of	strong material<|endoftext|>
+wild animals	should be kept	in zoos[SEP]zoo	capable of	keep wild animals<|endoftext|>
+hole	has property	in one[SEP]hole	has property	one<|endoftext|>
+sun	has property	visible[SEP]sun	has property	bright<|endoftext|>
+musical instrument	be used in	manner[SEP]musical instrument	used for	sound<|endoftext|>
+thrust fault	has property	reverse faults[SEP]thrust fault	part of	reverse fault<|endoftext|>
+artificial intelligence	be used in	computer[SEP]computer	used for	create artificial intelligence<|endoftext|>
+electric pencil sharpener	has movement	quick[SEP]electric pencil sharpener	used for	quickly sharpening many pencils<|endoftext|>
+wealthy	make	money[SEP]money	capable of	make wealthy<|endoftext|>
+bicycle storage area	has property	made[SEP]bicycle storage area	at location	parking garage<|endoftext|>
+united states post office	has place	outside[SEP]united states post office	at location	new york<|endoftext|>
+physical activity help	lose	weight[SEP]getting physical activity	used for	becoming healthy by losing weight<|endoftext|>
+intolerance	has property	bad[SEP]intolerance	has property	bad<|endoftext|>
+book	be useful for	research[SEP]reading book	used for	research<|endoftext|>
+noon	be different from	midnight[SEP]midnight	distinct from	noon<|endoftext|>
+combat knife	has property	used for[SEP]knife	used for	military purposes<|endoftext|>
+snare drum	be called	a snare drum[SEP]snare drum	used for	being part of band<|endoftext|>
+midsummer	be in	june[SEP]midsummer day	part of	june<|endoftext|>
+make patchwork quilt	has property	necessary[SEP]making patchwork quilt	has prerequisite	time and skill<|endoftext|>
+flower	has property	nectar[SEP]flower nectar	has property	sweet<|endoftext|>
+national highway	be present in	state[SEP]national interstate highway	at location	modern country<|endoftext|>
+nurse	check	vital signs[SEP]checking vital signs	used for	nurse<|endoftext|>
+bomb	has property	use[SEP]bomb	used for	damaging property<|endoftext|>
+night sky	has property	dark[SEP]at night sky	has property	dark<|endoftext|>
+shower	run out of	hot water[SEP]have shower	has subevent	run out of hot water<|endoftext|>
+north vietnam	be involved	in the vietnam war[SEP]north vietnam	part of	vietnam<|endoftext|>
+congressman	vote	present[SEP]congressman	has a	vote<|endoftext|>
+carpet	be used in	floor[SEP]carpet	used for	room decoration<|endoftext|>
+ocean	have	freshwater salt water[SEP]oceans	has a	salt water in<|endoftext|>
+calcium	has property	good for the bones[SEP]bones	has a	lot of calcium<|endoftext|>
+rhyme	be considered	part of poem structure[SEP]write poem	has prerequisite	sense of rhyme<|endoftext|>
+musical	has property	songs[SEP]songs	has property	melodic<|endoftext|>
+human	has property	naturally good[SEP]human	has property	good<|endoftext|>
+rural area	be different from	urban[SEP]urban	distinct from	rural<|endoftext|>
+phone book	has property	thing[SEP]phone book	has property	very heavy<|endoftext|>
+grocery store	has place	out[SEP]grocery store	at location	street<|endoftext|>
+thermos	keep	the cold liquids[SEP]thermos	used for	keep liquids hot or cold<|endoftext|>
+people	forget	things[SEP]people	capable of	forget things<|endoftext|>
+body	decay	after death[SEP]dying	causes	death and decay<|endoftext|>
+person	catch	cold[SEP]person	capable of	catch cold from cold weather<|endoftext|>
+nail	help	integumentary system[SEP]nail	part of	integumentary system<|endoftext|>
+salt	be used	in preserving meat[SEP]salt	used for	cure meat<|endoftext|>
+norwegian	say	oslo[SEP]oslo	part of	norway<|endoftext|>
+drip pan	be in	refrigerator[SEP]drip pan	part of	refrigerator<|endoftext|>
+blood sugar	has property	bad[SEP]sugar	has property	bad for diabetic person<|endoftext|>
+people	reply to	mails[SEP]people	capable of	reply to mail<|endoftext|>
+caffeine	keep	awake[SEP]caffeine	used for	staying awake<|endoftext|>
+swimmers	go into	pool[SEP]swimmers	at location	pool<|endoftext|>
+people	take	advantage of other people[SEP]people	desires	take advantage of other people<|endoftext|>
+herpes	has property	incurable[SEP]herpes and aids virus	has property	incurable<|endoftext|>
+river	has property	seen[SEP]river	has property	cool<|endoftext|>
+waiter	serve	food[SEP]waiter	capable of	serve meal<|endoftext|>
+people	have	different ears[SEP]people	has a	smaller ears than other people<|endoftext|>
+knife	has property	pierced[SEP]knife	used for	piercing<|endoftext|>
+northumbria	has property	england[SEP]northumbria	part of	england<|endoftext|>
+human	desire	to around with other humans[SEP]person	desires	around other persons<|endoftext|>
+ocean	has property	water[SEP]ocean	has a	water<|endoftext|>
+trash receptacle	has property	made[SEP]trash receptacle	used for	putting garbage into<|endoftext|>
+fluoride help	prevent	tooth decay[SEP]fluoride mouthwash	used for	preventing tooth decay<|endoftext|>
+moisturizer	help	skin[SEP]moisturizer	used for	stopping skin from drying out<|endoftext|>
+neurotic	has property	person[SEP]people	has property	neurotic<|endoftext|>
+fort worth	has property	texas[SEP]fort worth	part of	texas<|endoftext|>
+stringed instrument	play in	tune[SEP]stringed instrument	used for	playing music<|endoftext|>
+automobile engine	has property	parts[SEP]engine	part of	automobile<|endoftext|>
+sound	produced on	crash cymbals[SEP]crash cymbal	used for	make loud sound<|endoftext|>
+snore	can	review[SEP]snore	has subevent	might wake up<|endoftext|>
+oregon grape	has property	state flower[SEP]oregon state flower	defined as	oregon grape<|endoftext|>
+homeless person	have	no homes[SEP]homeless people	has a	no home<|endoftext|>
+currency	change in	value[SEP]change	distinct from	currency<|endoftext|>
+spinal cord	be important to	nervous system[SEP]spinal cord	part of	nervous system<|endoftext|>
+fast food chain	has place	up[SEP]fast food chain	at location	region<|endoftext|>
+chalk	be used	write on blackboard[SEP]write on chalkboard chalk	receives action	needed<|endoftext|>
+pretzel	be different from	bread[SEP]pretzel	instance of	bread<|endoftext|>
+fluoride	be used in	toothpaste[SEP]fluoride toothpaste	used for	ensuring fresh breath<|endoftext|>
+human	smile	when they 're happy[SEP]humans	capable of	smile when happy<|endoftext|>
+people	forgive	others[SEP]people	capable of	forgive<|endoftext|>
+co2	cause	temperature to rise[SEP]rising level of co2	causes	increasing temperature<|endoftext|>
+eat hamburger	has property	diet[SEP]eating hamburger	used for	following mainstream style of living<|endoftext|>
+gym	has property	expensive[SEP]gym equipment	has property	expensive<|endoftext|>
+fighter	get	cauliflower ear[SEP]fighter	capable of	box ear to cauliflower<|endoftext|>
+cars	need	oil[SEP]cars	capable of	need oil<|endoftext|>
+credit score work	need too	a good credit card[SEP]pay by credit card	has prerequisite	maintain good credit rating<|endoftext|>
+front	has property	porch[SEP]porch	at location	front yard<|endoftext|>
+door knob	placed	near the edge of the door[SEP]knob	at location	door<|endoftext|>
+people	has property	beautiful[SEP]many people	has property	beautiful in own way<|endoftext|>
+orange	has property	juicy[SEP]orange	has property	sweet<|endoftext|>
+hunter	like	to kill animals[SEP]hunter	capable of	kill animal<|endoftext|>
+muslim	worship	at a mosque[SEP]muslims	at location	mosque<|endoftext|>
+typewriter keyboard	can	work[SEP]typewriter keyboard	used for	writing<|endoftext|>
+eat	has property	good food[SEP]food	has property	nice to eat<|endoftext|>
+city	have	tall buildings[SEP]city	has a	many tall buildings<|endoftext|>
+people	speak	english[SEP]people	capable of	speaking english<|endoftext|>
+light bulb	generate	light[SEP]light bulb	capable of	generate light<|endoftext|>
+brushing tooth	prevent	tooth decay[SEP]tooth decay	receives action	prevented by brushing teeth<|endoftext|>
+harmonic analysis	has property	harmonic[SEP]harmonic analysis	part of	mathematical analysis<|endoftext|>
+ventilator	has property	air[SEP]ventilator	part of	ventilation<|endoftext|>
+people	fight for	inheritance[SEP]people	capable of	fight for inheritance<|endoftext|>
+fresh air	has property	ventilation system[SEP]ventilation system	used for	getting fresh air<|endoftext|>
+politician	tell	lies[SEP]politician	capable of	tell lies<|endoftext|>
+sand	be at	bottom of ocean[SEP]sand	at location	bottom of sea<|endoftext|>
+staircase	have	13 steps[SEP]stairway	has a	steps<|endoftext|>
+ear piercing	has property	painful[SEP]getting ears pierced	has property	painful<|endoftext|>
+desk drawer	has property	helped[SEP]desk drawer	has property	opened or closed<|endoftext|>
+some jacket	have	two zippers[SEP]zipper	part of	jacket<|endoftext|>
+anchorage alaska	have	location[SEP]anchorage	part of	alaska<|endoftext|>
+instrument	be used in	music[SEP]instrument	used for	playing<|endoftext|>
+burning	has effect	dangerous[SEP]fire	has a	effect of burning<|endoftext|>
+shoelace	has property	the best way to tie shoes[SEP]tying shoelace	has prerequisite	shoes with laces<|endoftext|>
+snoring	happen	asleep[SEP]snoring	has prerequisite	being asleep<|endoftext|>
+mountains	be in	colorado[SEP]mountain	at location	colorado<|endoftext|>
+cats	can	heat[SEP]cats	capable of	like heat<|endoftext|>
+doctor	check	vital signs[SEP]check vital signs	has prerequisite	call doctor<|endoftext|>
+microphone	amplify	sound[SEP]microphone	used for	amplify<|endoftext|>
+freezer	can	use[SEP]freezer	used for	freeze<|endoftext|>
+garbage	has property	recycled[SEP]most garbage	has property	recycled if recycling facilities available<|endoftext|>
+saw	has property	suitable tool for cutting wood[SEP]saw	used for	cutting things such as wood<|endoftext|>
+cupboard	be made of	wood[SEP]cupboards	made of	wood<|endoftext|>
+peer pressure	exist in	high schools[SEP]peer pressure	at location	school<|endoftext|>
+human	has body part	fingers[SEP]10 fingers	part of	normal human body<|endoftext|>
+trees	grow	wider[SEP]trees	capable of	grow bigger<|endoftext|>
+pilot	has property	plane[SEP]pilot	has property	flying in or airplane<|endoftext|>
+san francisco	be called	bay area[SEP]bay area	part of	san francisco<|endoftext|>
+people	has property	are rude[SEP]people	has property	rude<|endoftext|>
+trash receptacle	has property	made[SEP]trash receptacle	used for	place to throw unwanted things<|endoftext|>
+the lock	work	on a canal[SEP]lock	part of	canal<|endoftext|>
+drug	has property	illegal[SEP]drugs	has property	illegal<|endoftext|>
+inhaler	has property	sneezing[SEP]sneeze	has subevent	inhale<|endoftext|>
+couch	can	utilize[SEP]couch	used for	comfort<|endoftext|>
+mayor	has property	office[SEP]president	has property	more important than mayor<|endoftext|>
+programming	has property	fun[SEP]programming	has property	fun and rewarding<|endoftext|>
+vowel	has property	available[SEP]e	has property	vowel<|endoftext|>
+giraffe	has property	nurse[SEP]giraffe	has property	female<|endoftext|>
+electric pencil sharpener	has property	effective[SEP]electric pencil sharpener	used for	keep pencils working<|endoftext|>
+vodka	have	no smell[SEP]vodka	has a	no odor<|endoftext|>
+paraphrase	be used in	sentence[SEP]translate	manner of	paraphrase<|endoftext|>
+radiator	heat up	room[SEP]radiator	capable of	heat room<|endoftext|>
+good luck charm	has property	necklace[SEP]necklace to	used for	wear good luck charm<|endoftext|>
+houston	be	as a city[SEP]houston	instance of	city<|endoftext|>
+corn	be used in	cooking[SEP]corn	used for	baking<|endoftext|>
+utah	have	basketball team[SEP]state of utah	has a	basketball team<|endoftext|>
+ice	has property	less dense water[SEP]ice	has property	less dense than water<|endoftext|>
+two odd number	has property	added even[SEP]even number	has property	divisible by two<|endoftext|>
+shower stall	has property	attached[SEP]shower stall	used for	containing water within boundaries<|endoftext|>
+poem	be considered	examples of self-expression[SEP]writing poem	has subevent	self expression<|endoftext|>
+britain	have	monarchy[SEP]britain	has a	monarchy<|endoftext|>
+people	has property	ugly[SEP]humans	has property	considered ugly<|endoftext|>
+desk	has place	down[SEP]desk	used for	place on<|endoftext|>
+tongue	can	taste[SEP]tongue	capable of	taste flavor<|endoftext|>
+planet	really orbit	around the sun[SEP]planet's orbit	capable of	near sun<|endoftext|>
+can of soda	get	filled[SEP]can of soda	used for	holding soda<|endoftext|>
+condom	work	to prevent pregnancy[SEP]condoms	used for	prevent pregnancy<|endoftext|>
+fart	has property	odorless[SEP]fart	has subevent	emit foul odors<|endoftext|>
+sport	have	play[SEP]sport	manner of	have<|endoftext|>
+word	can be	hurtful[SEP]words	capable of	hurtful<|endoftext|>
+watermelon	have	black seeds[SEP]watermelon	has a	black seeds<|endoftext|>
+pillow case	has property	handmade[SEP]pillow case	used for	holding items<|endoftext|>
+doha	has place	near[SEP]doha	part of	doha<|endoftext|>
+dieting	has manner	rapidly[SEP]diet	manner of	fast<|endoftext|>
+eastern brown snake	has property	related[SEP]eastern brown snake	has property	venomous<|endoftext|>
+country	be in	africa[SEP]country	at location	africa<|endoftext|>
+federal	has property	way washington[SEP]federal way	part of	washington state<|endoftext|>
+dust	can	appear[SEP]dust	capable of	appear from nowhere<|endoftext|>
+eyeglass	improve	vision[SEP]eyeglasses	used for	improve eyesight<|endoftext|>
+united states post office	has place	outside[SEP]united states post office	at location	new york<|endoftext|>
+self discipline	be key to	success[SEP]improving yourself	has prerequisite	self discipline<|endoftext|>
+horses	used for	racing[SEP]horse	used for	horse racing<|endoftext|>
+computer virus	get	around[SEP]virus	at location	computer<|endoftext|>
+ice cream	has property	creamy[SEP]ice cream	has property	cold creamy and sweet<|endoftext|>
+saw	has property	suitable tool for cutting wood[SEP]saw	capable of	cut wood<|endoftext|>
+myanmar	has property	yangon[SEP]yangon	part of	myanmar<|endoftext|>
+april fools day	be in	april[SEP]april fools	part of	april<|endoftext|>
+mast	be attached to	sailboat[SEP]mast	part of	sailboat<|endoftext|>
+bird	has body part	wing[SEP]wing	part of	bird<|endoftext|>
+single crochet	has property	quilted[SEP]single crochet	manner of	crochet<|endoftext|>
+architect	design	a house[SEP]architect	capable of	design house<|endoftext|>
+intimacy	has property	developed[SEP]intimacy	has property	desirable<|endoftext|>
+brake	be used in	car[SEP]brake	at location	car<|endoftext|>
+bolivia	differ from	other countries in south america[SEP]bolivia	part of	south america<|endoftext|>
+hair care article	has property	made[SEP]hair care article	used for	health<|endoftext|>
+earth	has property	different from all the other planets[SEP]earth	has property	one of many planets<|endoftext|>
+kissing	cause	arousal[SEP]kissing	causes	pleasurable<|endoftext|>
+people	use	vehicles[SEP]people	at location	vehicles<|endoftext|>
+acupuncture needle	has property	nerve[SEP]acupuncture needles	receives action	placed along peripheral nerves<|endoftext|>
+house	face	south[SEP]house	capable of	face south<|endoftext|>
+tattoo ink	has property	made[SEP]tattoo	has property	created with ink<|endoftext|>
+squirrel	be different from	rats[SEP]squirrel	distinct from	rat<|endoftext|>
+some animal	has body part	bones[SEP]animals	has a	bones<|endoftext|>
+paint	can	use[SEP]can of paint	used for	painting things<|endoftext|>
+indian restaurant	make	curry[SEP]indian restaurant	at location	curry<|endoftext|>
+radio antenna	has property	made[SEP]antenna	part of	radio<|endoftext|>
+god	has property	mighty[SEP]god	has property	very powerful<|endoftext|>
+shellfish	has property	high risk food[SEP]shellfish	has property	expensive but delicious<|endoftext|>
+repetition	reinforce	theme[SEP]repetition	used for	reinforce<|endoftext|>
+electric smoke alarm	has property	battery[SEP]smoke alarm	has property	battery powered<|endoftext|>
+plywood	be used	make[SEP]machine	used for	make plywood<|endoftext|>
+broken bone	can heal	itself[SEP]broken bones	capable of	heal over time<|endoftext|>
+lead	has property	metal[SEP]one of chemical elements	has property	lead<|endoftext|>
+peanut butter	has place	up[SEP]peanut butter	at location	container<|endoftext|>
+whipping cream	be same as	cream[SEP]whipped cream	instance of	cream<|endoftext|>
+chocolate milk	has property	types[SEP]milk	has property	chocolate flavored<|endoftext|>
+credit card	has property	rectangular[SEP]credit card	has property	rectangular<|endoftext|>
+fly	has body part	wings[SEP]fly	has a	wings<|endoftext|>
+becoming scuba diver	can	help[SEP]becoming scuba diver	used for	good swimmers<|endoftext|>
+foyer	has property	room[SEP]foyer	part of	house<|endoftext|>
+trees	bloom in	spring[SEP]trees	capable of	flower in spring<|endoftext|>
+sumo wrestling	be popular in	japan[SEP]sumo wrestling	at location	japan<|endoftext|>
+glass	has property	opaque[SEP]glass	has property	opaque to visible light<|endoftext|>
+infrared spectrum	has property	produced[SEP]infrared	part of	infrared spectrum<|endoftext|>
+trafalgar square	be famous in	london[SEP]trafalgar square	at location	london<|endoftext|>
+scientist	study	the movement of galaxies in the universe[SEP]galaxies	at location	universe<|endoftext|>
+birds of prey	have	good eyesight[SEP]birds of prey	has a	sharp eyes<|endoftext|>
+universe	has property	accelerating[SEP]expansion of universe	has property	accelerating<|endoftext|>
+day	have	24 hours[SEP]one day	has a	24 hours<|endoftext|>
+most animals	has body part	eyes[SEP]most animals	has a	eyes<|endoftext|>
+battery	has property	flat[SEP]if battery	has property	flat then does not work<|endoftext|>
+rack	work	anyway[SEP]rack	manner of	work<|endoftext|>
+deflation	be more serious than	inflation[SEP]fighting inflation	causes	deflation<|endoftext|>
+memorial day	be in	may[SEP]memorial day	part of	may<|endoftext|>
+some seed	remain	dormant[SEP]seeds	capable of	lie dormant for years<|endoftext|>
+attic	has property	greek[SEP]attic greek	at location	attica<|endoftext|>
+bus station	have	lockers[SEP]lockers	at location	bus depot<|endoftext|>
+food	has property	fried[SEP]food	has property	fried in wok<|endoftext|>
+height matter	be in	basketball[SEP]height	capable of	matter in basketball<|endoftext|>
+carbon	has property	essential in all living organisms[SEP]carbon	has property	essential to all known biological life<|endoftext|>
+people	care for	elderly[SEP]elderly people	capable of	need more care<|endoftext|>
+vending stand	has property	made[SEP]vending stand	used for	sell goods<|endoftext|>
+human heart	has property	shaped[SEP]heart	has property	natural or artificial<|endoftext|>
+hospital gown	be in	germany[SEP]hospital gown	at location	hospital<|endoftext|>
+stick of butter	has property	different[SEP]stick of butter	has property	yellow<|endoftext|>
+laundry room	has property	visible[SEP]laundry room	at location	apartment building<|endoftext|>
+alligator	has property	species[SEP]alligators	has property	carnivorous<|endoftext|>
+cold faucet	can	work[SEP]cold faucet	used for	get water isn't hot<|endoftext|>
+haircut	feel	good[SEP]having haircut	used for	looking great<|endoftext|>
+biloxi	has property	mississippi[SEP]biloxi	part of	mississippi<|endoftext|>
+maldives	be called	crossroads of indian ocean[SEP]maldives	part of	indian ocean<|endoftext|>
+20	has property	after[SEP]20	has property	twenty<|endoftext|>
+flood	has property	hazard[SEP]flood waters	has property	dangerous<|endoftext|>
+person	feel	sleepy[SEP]person	capable of	feel sleepy<|endoftext|>
+germ	be spread through	coughing[SEP]coughing	capable of	spread germs<|endoftext|>
+disposable razor	has property	made[SEP]disposable razor	used for	artistic etchings<|endoftext|>
+grocery store	pay for	inventory[SEP]grocery shop	has subevent	pay for groceries<|endoftext|>
+koala	be in	zoos[SEP]koala	at location	brookfield zoo<|endoftext|>
+deck of cards	have	52[SEP]standard deck	has a	52 cards<|endoftext|>
+arch	be used in	architecture[SEP]arch	used for	aesthetically pleasing architecture<|endoftext|>
+beaker	be used	in laboratories[SEP]beaker	at location	laboratory<|endoftext|>
+writer	use	personal anecdotes[SEP]anecdote	at location	story<|endoftext|>
+florida	has property	beaches[SEP]florida	has a	beaches<|endoftext|>
+bridgeport	be	connecticut[SEP]bridgeport	part of	connecticut<|endoftext|>
+basketball	has property	traditional orange[SEP]basketball	has property	big and orange<|endoftext|>
+tickling	has property	fun[SEP]tickling	used for	fun<|endoftext|>
+cereal	be considered	breakfast food[SEP]cereal	part of	balanced breakfast<|endoftext|>
+art	has property	valuable[SEP]paintings	has property	very valuable<|endoftext|>
+titanic	be at	bottom of ocean[SEP]titanic	at location	bottom of sea<|endoftext|>
+storage furniture	has property	made[SEP]storage furniture	used for	decoration<|endoftext|>
+teacher	can help students	learning[SEP]teacher	capable of	help student to learn<|endoftext|>
+people	move from	one place to another[SEP]people	capable of	move from one place to another<|endoftext|>
+empire state building	be in	new york[SEP]empire state building	part of	new york<|endoftext|>
+snoring	particularly is	annoying[SEP]snoring	used for	annoying people<|endoftext|>
+love	has property	painful[SEP]love	has property	painful<|endoftext|>
+carbonated beverage	keep in	bubbles[SEP]carbonated beverages have bubbles unless	has a	gone flat<|endoftext|>
+fireplace	has property	made[SEP]fireplaces	has property	hot<|endoftext|>
+asthmatic	have	trouble breathing[SEP]have asthma attack	has first subevent	have difficulty breathing<|endoftext|>
+propane	be used for	barbecues[SEP]propane gas	used for	barbecue meat<|endoftext|>
+satsuma	be called	satsumas[SEP]satsuma	part of	satsuma<|endoftext|>
+drink	cause	hangover[SEP]getting drunk	causes	hangover<|endoftext|>
+twitter	like	tweets[SEP]twitter	made of	tweets<|endoftext|>
+federal law	has property	legal[SEP]state law	has property	independent of federal law<|endoftext|>
+horses	has property	and[SEP]horses	has property	brown<|endoftext|>
+work day	has property	8 hours[SEP]eight hour work day	has property	common in united states<|endoftext|>
+laser	use	light[SEP]laser	used for	light<|endoftext|>
+student	succeed in	school[SEP]student	capable of	succeed in class<|endoftext|>
+sweating help	regulate	body temperature[SEP]humans	capable of	reduce body temperature by sweating<|endoftext|>
+sunset	has property	beautiful[SEP]sunsets	has property	romantic<|endoftext|>
+hair roller	has property	produced[SEP]hair roller	used for	make hair curly<|endoftext|>
+feather	be used in	pillows[SEP]feathers	used for	stuff pillows<|endoftext|>
+prerequisite	can	sleep[SEP]sleep	has prerequisite	get in bed<|endoftext|>
+suspension cable	can	work[SEP]suspension cable	used for	supporting<|endoftext|>
+dolphin	be close to	shore[SEP]dolphin	at location	ocean<|endoftext|>
+hug	feel	good[SEP]hug	capable of	make feel better<|endoftext|>
+pigs	can smell	truffles[SEP]pigs	capable of	smell truffles<|endoftext|>
+jellyfish	live	in the seashore[SEP]jellyfish	at location	atlantic ocean<|endoftext|>
+glass	has property	worn[SEP]glass	has property	dirty<|endoftext|>
+eyeglass	improve	vision[SEP]eyeglasses	used for	improving vision<|endoftext|>
+scrotum	be outside of	body[SEP]scrotum	part of	body<|endoftext|>
+underground water	come on	surface[SEP]water	at location	underground<|endoftext|>
+water	has property	odorless colorless[SEP]water	has property	colorless<|endoftext|>
+accessory cephalic vein	has property	painful[SEP]accessory cephalic vein	part of	forearm<|endoftext|>
+pisces	has property	zodiac sign[SEP]pisces	defined as	twelfth sign of zodiac<|endoftext|>
+dentist chair	has place	on[SEP]dentist chair	at location	dental surgary<|endoftext|>
+pens and pencils	can	know[SEP]pens and pencils	capable of	show what inside of<|endoftext|>
+laughter	has property	contagious[SEP]expressing how funny	causes	contagious laughter<|endoftext|>
+sunset	has property	reddish[SEP]sunsets	has property	reddish<|endoftext|>
+car engine	need	radiator[SEP]car radiator	used for	cool engine<|endoftext|>
+plastic	has property	sticky[SEP]plastic	has property	opaque<|endoftext|>
+artillery	be called	battery[SEP]artillery	part of	battery<|endoftext|>
+south dakota	has property	known for[SEP]south dakota	has property	one state of many<|endoftext|>
+hammer drill	has property	produced[SEP]hammer in	manner of	drill<|endoftext|>
+bread dough	need	to rise[SEP]making bread	has subevent	dough will rise<|endoftext|>
+acne	clear	up[SEP]medicine	capable of	clear up acne<|endoftext|>
+television	has property	useful[SEP]television	has property	informative<|endoftext|>
+fire extinguisher	be used in	fires[SEP]fire extinguisher	used for	propel yourself across room<|endoftext|>
+check vital signs	can	know[SEP]checking vital signs	has prerequisite	knowledge<|endoftext|>
+doctor	check	vital signs[SEP]doctor	capable of	check vital signs<|endoftext|>
+fireplace	can	use[SEP]fireplace	used for	get warm<|endoftext|>
+arm hair	has property	visible[SEP]hair	at location	arm<|endoftext|>
+fruits	has property	sour[SEP]fruits	has property	sour<|endoftext|>
+people	have	different blood types[SEP]people	has a	different blood types<|endoftext|>
+large food store	has property	made[SEP]large food store	used for	grand display of products<|endoftext|>
+booth	has property	similar[SEP]booth	has property	one kind of structure people make<|endoftext|>
+vertebrate	have	backbone[SEP]vertebrates	has a	backbones<|endoftext|>
+movie	be called	steel magnolias[SEP]steel magnolias	defined as	name of movie<|endoftext|>
+hectare	can	know[SEP]are	part of	hectare<|endoftext|>
+six	has property	the square root of thirty six[SEP]square root of sixty four	has property	eight<|endoftext|>
+itinerary	be important for	travelers[SEP]travel	has prerequisite	fill out itinerary<|endoftext|>
+day	have	24 hours[SEP]day	has a	24 hours<|endoftext|>
+harlem	has property	new york[SEP]harlem	part of	new york city<|endoftext|>
+some disease	exist	in labs[SEP]disease	at location	lab<|endoftext|>
+roller coaster	has property	at[SEP]roller coaster	at location	fairgrounds<|endoftext|>
+people	lately change frequently	moods[SEP]people	has a	changing moods<|endoftext|>
+microprocessor	work in	computer[SEP]microprocessor	at location	computer<|endoftext|>
+dog	has property	hairy[SEP]dogs	has property	hairy<|endoftext|>
+knight	take pieces in	chess[SEP]chess knight	used for	taking other pieces<|endoftext|>
+bird	can	squawk[SEP]bird	capable of	squawk<|endoftext|>
+fast food restaurant	has place	nearby[SEP]fast food restaurant	at location	center of town<|endoftext|>
+salt water	has property	salt[SEP]salt	at location	salt water<|endoftext|>
+plane	can	fall[SEP]plane	capable of	fall<|endoftext|>
+smoking cigarette	have	cause lung cancer[SEP]smoking	causes	having carcinogens in lungs<|endoftext|>
+beam	used	as support[SEP]beam	used for	structural support<|endoftext|>
+blue eye	has property	them[SEP]eyes	has property	blue<|endoftext|>
+legal issue	has property	important in a business[SEP]business activity	has property	subject to litigation<|endoftext|>
+people	has property	are crazy[SEP]people	has property	crazy<|endoftext|>
+prerequisite	can	sleep[SEP]go to sleep	has prerequisite	sleepy<|endoftext|>
+saxophone	be used in	jazz[SEP]jazz music	capable of	uses saxophone<|endoftext|>
+silver	be used	in making jewelry[SEP]silver	used for	making into jewelry<|endoftext|>
+people	visit	national park[SEP]people	at location	national park<|endoftext|>
+selling	has property	bad[SEP]selling out	has property	bad<|endoftext|>
+clouds	hold	rainwater[SEP]clouds	capable of	rain water<|endoftext|>
+plane	manage	to land on runways[SEP]plane	capable of	land on runway<|endoftext|>
+earth	has property	water[SEP]most of earth's surface	has property	water<|endoftext|>
+frankfort	be capital of	kentucky[SEP]frankfort	part of	kentucky<|endoftext|>
+fact	be different from	fiction[SEP]fact	distinct from	fiction<|endoftext|>
+tartu	has property	estonia[SEP]tartu	part of	estonia<|endoftext|>
+television transmitter	has property	made[SEP]television transmitter	part of	television<|endoftext|>
+bread	be called	pudding[SEP]bread	used for	pudding<|endoftext|>
+yellowstone	be in	idaho[SEP]yellowstone national park	at location	idaho<|endoftext|>
+large intestine	be involved in	digestion[SEP]large intestines	part of	intestinal tract<|endoftext|>
+protest	be held in	public places[SEP]protest	at location	city<|endoftext|>
+tobacco	has property	bad[SEP]tobacco	has property	bad for health<|endoftext|>
+balalaika	make	sound[SEP]balalaika	used for	make music<|endoftext|>
+capitol reef national park	has property	usa[SEP]capitol reef national park	at location	united states<|endoftext|>
+water	has property	weight[SEP]most of human's weight	has property	water<|endoftext|>
+george orwell	wrote	1984[SEP]george orwell	defined as	author of 1984<|endoftext|>
+muscle strength	prevent injury to	bones[SEP]maintaining muscle strength	used for	avoiding muscle injury<|endoftext|>
+potato	be used in	food[SEP]potato	used for	eating<|endoftext|>
+tanning lotion	has movement	quick[SEP]tanning lotion	used for	helping to get better tan<|endoftext|>
+temperature	be measured in	fahrenheit[SEP]temperature	receives action	measured in units of fahrenheit<|endoftext|>
+power outlet	has property	different around the world[SEP]power outlets in us	has property	different from in europe<|endoftext|>
+koala	live	in a tree[SEP]koala	at location	branches of tree<|endoftext|>
+pouch	has property	made[SEP]pouch	has property	similar to pocket<|endoftext|>
+power screwdriver	can	work[SEP]power screwdriver	used for	easily working with screws<|endoftext|>
+theory	be disprove	briefly[SEP]theory	capable of	disproven<|endoftext|>
+some coconut	have	milk[SEP]coconuts	has a	milk<|endoftext|>
+hot faucet	has property	made[SEP]hot faucet	at location	own house<|endoftext|>
+barbershop	has place	near[SEP]barbershop	at location	mini mall<|endoftext|>
+written communication	be used in	business[SEP]writing	used for	communicating<|endoftext|>
+deodorant	eliminate	body odor[SEP]deodorant	used for	reduce body odour<|endoftext|>
+verdict	has property	read[SEP]verdict	has property	guilty or innocent<|endoftext|>
+hawthorne	has property	california[SEP]hawthorne	part of	california<|endoftext|>
+dolphin	be spotted	on the surface of water[SEP]dolphin	at location	water<|endoftext|>
+ozone layer	exist in	stratosphere[SEP]ozone layer	part of	stratosphere<|endoftext|>
+prerequisite	can	sleep[SEP]sleep	has prerequisite	go to bed<|endoftext|>
+human	have	longer lifespan than most mammals[SEP]human beings	has a	longest lifespan of mammal<|endoftext|>
+airplanes	be used for	travel[SEP]airplanes	used for	travel from one place to another<|endoftext|>
+cholesterol level	has property	bad[SEP]high cholesterol level	has property	bad for health<|endoftext|>
+chess game	end	in a draw[SEP]chess games between grandmasters	capable of	end in draw<|endoftext|>
+infant	can	cry[SEP]baby	capable of	cry<|endoftext|>
+magician	come up with	magic tricks[SEP]magician	capable of	master new trick<|endoftext|>
+chopping firewood	has property	made[SEP]chopping firewood	used for	people who sell fire wood<|endoftext|>
+marsh	has property	creek[SEP]marsh	has property	wet<|endoftext|>
+horses	have	four legs[SEP]horses	has a	four legs<|endoftext|>
+plant	cause	biological watering[SEP]watering plant	causes	plant to grow<|endoftext|>
+hallway	has property	visible[SEP]hallway	used for	walking in<|endoftext|>
+fish	need	scales[SEP]scales	at location	fish<|endoftext|>
+decameter	has property	hectometer[SEP]decameter	part of	hectometer<|endoftext|>
+canada	has property	called north america[SEP]canada	has property	located north of united states<|endoftext|>
+thesaurus	differ from	dictionary[SEP]dictionary	distinct from	thesaurus<|endoftext|>
+percussion instrument	make	sound[SEP]percussion instrument	used for	make noise<|endoftext|>
+breathing	allow	oxygen to enter the blood[SEP]breathing	used for	supplying oxygen to blood<|endoftext|>
+mammal	has body part	hair[SEP]hair	part of	mammal<|endoftext|>
+preschooler	take	naps[SEP]preschool students	has a	naps in day<|endoftext|>
+manila	has property	capital city[SEP]manila	instance of	capital city<|endoftext|>
+adult	have	birthday parties[SEP]people	has a	parties in birthdays<|endoftext|>
+robin	has property	egg[SEP]robin's eggs	has property	blue<|endoftext|>
+verdict	be decided by	jury[SEP]verdict	defined as	decision of jury<|endoftext|>
+processor	has property	needed[SEP]processor	has property	needed to make software useful<|endoftext|>
+spreadsheet	has property	structured[SEP]layout of spreadsheet	has property	important<|endoftext|>
+visceral pericardium	differ from	parietal pericardium[SEP]parietal pericardium	part of	pericardium<|endoftext|>
+muscle strength	decrease with	aging[SEP]maintain muscle strength	has subevent	delay effects of aging<|endoftext|>
+molecule	make up	matter[SEP]matter	made of	molecules<|endoftext|>
+wholesaler	provide services to	retailers[SEP]wholesaler	capable of	supply retailer with goods<|endoftext|>
+ice	be made from	hot water clear[SEP]cooled water	capable of	form ice on ground<|endoftext|>
+shepherd	has property	good police dogs[SEP]police dogs	has property	intelligent<|endoftext|>
+pillow case	has color	white[SEP]pillow case	used for	covering pillow<|endoftext|>
+cars	be made out of	plastic[SEP]alot of cars	receives action	made out of nothing but plastic<|endoftext|>
+charity	use	donations[SEP]donations	used for	helping charities<|endoftext|>
+milkshake	be called	milkshakes[SEP]milkshake	instance of	drink<|endoftext|>
+piano accordion	has property	keyboard[SEP]accordion	has a	keyboard like piano<|endoftext|>
+alcohol	can relieve	stress[SEP]drinking alcohol	used for	relieving stress<|endoftext|>
+vitamin c	be used in	body[SEP]vitamin c	used for	health<|endoftext|>
+exhaust fan	be in	kitchen[SEP]exhaust fan	at location	kitchen<|endoftext|>
+wine	improve with	age[SEP]wine	capable of	age well<|endoftext|>
+refrigerator	has property	visible[SEP]inside of refrigerator	has property	cool<|endoftext|>
+garbage	has place	down[SEP]garbage	at location	ground<|endoftext|>
+patriotism	has property	shown[SEP]patriotism	has property	both creative and destructive<|endoftext|>
+colorado river	be in	texas[SEP]colorado river	instance of	texas<|endoftext|>
+making decision	has property	effective[SEP]make correct decisions	has property	good<|endoftext|>
+hairdresser	wear	hair[SEP]hairdresser	capable of	part hair<|endoftext|>
+sea anemone	has property	ejected[SEP]sea anemone	receives action	found in inter tidal zone<|endoftext|>
+dog	respond	to being called a certain name[SEP]dog	capable of	come when call name<|endoftext|>
+kazakhstan	be part of	europe[SEP]kazakhstan	part of	asia<|endoftext|>
+equality	be core of	democracy[SEP]equality for everyone	created by	political ideology<|endoftext|>
+plane	manage	to land on runways[SEP]plane	capable of	land at airport<|endoftext|>
+animal	have	rabies[SEP]rabid animals	has a	rabies<|endoftext|>
+moderator	be important in	nuclear reactor[SEP]moderator	part of	nuclear reactor<|endoftext|>
+rock star	have	long hair[SEP]rock stars	has a	long hair<|endoftext|>
+blind person	use braille	read[SEP]blind people	capable of	read using braille<|endoftext|>
+linux	has property	a great alternative to windows[SEP]linux	has property	better than windows<|endoftext|>
+georgia	be considered	south[SEP]georgia	part of	south<|endoftext|>
+bill	be made into	law[SEP]law	capable of	ratified into being bill<|endoftext|>
+electric guitar	make	sound[SEP]electric guitar	used for	making loud music<|endoftext|>
+asia	be called	worlds largest continent[SEP]mathmatically asia	defined as	largest continent on earth<|endoftext|>
+wave	form	sound waves[SEP]wave	part of	sound<|endoftext|>
+roof	be made of	slate[SEP]slate	manner of	roof<|endoftext|>
+holes	be in	swiss cheese made[SEP]hole	at location	swiss cheese<|endoftext|>
+epileptic	has property	fit causes[SEP]having epileptic fit	has subevent	spasm<|endoftext|>
+marmite	has property	available in the uk[SEP]marmite	has property	popular in britain<|endoftext|>
+prince edward island	has property	province[SEP]prince edward island	part of	maritime provinces<|endoftext|>
+shower curtain	has property	fully[SEP]shower curtain	has property	very lightweight<|endoftext|>
+desktop icon	has property	internet explorer[SEP]internet explorer	has a	icon on windows desktop<|endoftext|>
+folding door	has property	together[SEP]folding door	capable of	fold<|endoftext|>
+plane	be used for	transportation[SEP]aircraft	used for	transport<|endoftext|>
+supermarket	use	plastic bags[SEP]supermarket	used for	buy groceries<|endoftext|>
+spoon	go in	dishwasher[SEP]spoon	at location	dishwasher<|endoftext|>
+sun	has property	important for life on the earth[SEP]sun	has property	necessary for life on planet<|endoftext|>
+trees	fall	down[SEP]trees	capable of	fall down<|endoftext|>
+clouds	form	at different heights in the atmosphere[SEP]clouds	at location	air<|endoftext|>
+consciousness	has property	visible[SEP]because of consciousness	has property	limited to senses<|endoftext|>
+stranger	seem	familiar[SEP]stranger	distinct from	known<|endoftext|>
+prerequisite	can	go[SEP]get	has prerequisite	say please<|endoftext|>
+bleach	turn	litmus paper white[SEP]bleach	used for	make paper white<|endoftext|>
+lens	work in	microscope[SEP]lens	part of	microscope<|endoftext|>
+orange fruit	has color	orange[SEP]orange	part of	fruit<|endoftext|>
+apples orange	has property	alike[SEP]apples	has property	red yellow or green<|endoftext|>
+renaissance	differ from	italian renaissance[SEP]italian renaissance	part of	renaissance<|endoftext|>
+shadow	cast shadow on	ground[SEP]shadow	at location	ground<|endoftext|>
+egg	has property	round[SEP]egg	has property	round<|endoftext|>
+amygdala	affect	brain[SEP]amygdala	part of	brain<|endoftext|>
+mauna loa	has property	location[SEP]mauna loa	at location	united states<|endoftext|>
+hydrogen atom	be arranged in	space[SEP]hydrogen atoms	at location	space<|endoftext|>
+human	can	smile[SEP]human	capable of	smile<|endoftext|>
+dryer	dry	clothes[SEP]clothes dryer	capable of	dry clothes<|endoftext|>
+pen	has place	on[SEP]pen	at location	pen<|endoftext|>
+airpost	has property	made[SEP]airposts	has property	well designed<|endoftext|>
+little rock	be capital of	arkansas[SEP]capital city of arkansas	has property	little rock<|endoftext|>
+pocket knife	have	pocket clip[SEP]pocket knife	at location	pocket<|endoftext|>
+vitriol	be used in	sentence[SEP]vitriol	manner of	subject<|endoftext|>
+head	can	ache[SEP]head	capable of	ache<|endoftext|>
+dishwasher	get	dirty[SEP]dirty dishes	used for	dishwasher<|endoftext|>
+first epistle to timothy	has property	in the bible[SEP]first epistle of paul apostle to timothy	part of	new testament<|endoftext|>
+electric socket	has property	good plugs[SEP]electric socket	used for	provide power<|endoftext|>
+human	have	two lungs[SEP]humans	has a	two lungs<|endoftext|>
+lottery ticket	can take	place[SEP]ticket	at location	lottery<|endoftext|>
+bar	put in	drinks[SEP]bar place	capable of	go to drink<|endoftext|>
+toothpaste	be in	tube[SEP]toothpaste	at location	tube<|endoftext|>
+people	have	10 fingers[SEP]people	has a	12 fingers instead of 10<|endoftext|>
+chlamydia	affect	reproductive system[SEP]sexual relationships	capable of	cause chlamydia<|endoftext|>
+liquid	has effect	toxic[SEP]liquids	has property	toxic<|endoftext|>
+people	has property	unenlightened[SEP]society tends to like people who	has property	just<|endoftext|>
+assam	be part of	india[SEP]assam	part of	india<|endoftext|>
+capitalization	can	know[SEP]capitalize	manner of	see<|endoftext|>
+kinshasa	has property	congo[SEP]kinshasa	part of	congo<|endoftext|>
+new book	has property	used for[SEP]books	has property	like new<|endoftext|>
+human	has body part	hand[SEP]hand	part of	human<|endoftext|>
+townhouse	can	know[SEP]townhouse	at location	town<|endoftext|>
+castor bean	has property	oil[SEP]castor bean	part of	castor oil plant<|endoftext|>
+moving walkway	be in	airports[SEP]moving walkway	used for	airports<|endoftext|>
+batter	crowd	the plate[SEP]batter	capable of	crowd plate<|endoftext|>
+space	has property	flat[SEP]flat space	has property	hard to find<|endoftext|>
+sarcasm	has effect	dangerous[SEP]sarcasm	capable of	bring hostility<|endoftext|>
+animal	live	at the zoo[SEP]animal	at location	zoo<|endoftext|>
+proton	be made of	quarks[SEP]proton	made of	quarks<|endoftext|>
+pain	has property	painful[SEP]pain	has property	painful<|endoftext|>
+being sick	has property	essential[SEP]when sick	has property	difficult to work<|endoftext|>
+sugar	be in	flour[SEP]sugar	distinct from	flour<|endoftext|>
+sea shells	be made out	on the beach[SEP]sea shells	at location	beach<|endoftext|>
+reading	be as	way of thinking[SEP]thinking	part of	reading<|endoftext|>
+penalty box	be in	hockey[SEP]penalty box	part of	ice hockey<|endoftext|>
+adhesive material	can	work[SEP]adhesives	used for	stick things together<|endoftext|>
+toothbrush bristle	can	review[SEP]toothbrush bristle	at location	bathroom<|endoftext|>
+baby formula	be good for	current feeding[SEP]baby formula	used for	feeding infants<|endoftext|>
+enemy	has property	alike[SEP]enemies	has property	hostile to one another<|endoftext|>
+radio	receive	signals[SEP]radio	used for	receive signals<|endoftext|>
+physical activity help	lose	weight[SEP]getting physical activity	causes	losing weight<|endoftext|>
+moisture content	be in	air[SEP]moisture	at location	air<|endoftext|>
+toll road	be in	united states[SEP]toll road	at location	united states<|endoftext|>
+kingstown	be capital of	st vincent[SEP]kingstown	part of	saint vincent<|endoftext|>
+human being	tell	stories[SEP]people	capable of	tell stories<|endoftext|>
+grasshopper	live in	grasslands[SEP]grasshopper around	at location	meadow<|endoftext|>
+sodomy	has property	illegal[SEP]sodomy laws	has property	controversial<|endoftext|>
+western meadowlark	has property	state bird of wyoming[SEP]th wyoming state bird	defined as	western meadowlark<|endoftext|>
+delicatessen food	has property	made[SEP]delicatessen	used for	selling meals<|endoftext|>
+tibet	be part of	china[SEP]tibet	part of	asia<|endoftext|>
+dream	make sense	asleep[SEP]dream	part of	sleeping<|endoftext|>
+old house	has property	held[SEP]houses	has property	old<|endoftext|>
+wood	can	petrify[SEP]wood	capable of	petrify<|endoftext|>
+radiator	has property	warm when heating off[SEP]radiator	used for	radiating heat<|endoftext|>
+people	have	bad habits[SEP]people	has a	bad habits<|endoftext|>
+certain book	has property	etc[SEP]books	has property	full of writing<|endoftext|>
+pain	be felt in	part of body[SEP]pain	at location	body part<|endoftext|>
+film projector	has property	filmed[SEP]film projector	at location	movie<|endoftext|>
+connection	can	link[SEP]link	used for	connection<|endoftext|>
+planet	orbit	stars[SEP]stars	at location	orbit<|endoftext|>
+money	solve	problem[SEP]money	capable of	solve lot of problems<|endoftext|>
+handbag	has property	packaged[SEP]handbag	used for	personal items<|endoftext|>
+sea water	has property	unsafe to drink[SEP]ocean water	has property	unsafe to drink<|endoftext|>
+bicycle	have	two wheels[SEP]bicycles	has a	two wheels<|endoftext|>
+mercury	has property	densest planet[SEP]mercury	defined as	densest planet in solar system<|endoftext|>
+kidney	function in	body[SEP]kidney	part of	body<|endoftext|>
+sprained ankle	has property	painful[SEP]sprained ankle	has property	very painful<|endoftext|>
+russia	has property	world[SEP]russia	has property	one of worlds countries<|endoftext|>
+fungi	grow in	moist areas[SEP]fungus	at location	moist area<|endoftext|>
+saudi arabia	has property	dhahran[SEP]dhahran	part of	saudi arabia<|endoftext|>
+dunkirk	be included in	world war 2[SEP]dunkirk	part of	world war ii<|endoftext|>
+jewish people	eat	kosher food[SEP]jewish people	has a	eat kosher food<|endoftext|>
+deciduous tree	be different from	coniferous trees[SEP]deciduous tree	distinct from	conifer<|endoftext|>
+asia	be called	worlds largest continent[SEP]asia	defined as	biggest continent<|endoftext|>
+diaphragm	prevent	pregnancy[SEP]diaphragm	used for	prevent conception<|endoftext|>
+dead sea	has property	jordan[SEP]dead sea	part of	jordan<|endoftext|>
+digestive enzyme	be secreted into	small intestine[SEP]no digestive enzymes	receives action	secreted in large intestine<|endoftext|>
+paper sign	has property	made[SEP]paper sign	used for	advertising service<|endoftext|>
+knife	can	hurt[SEP]knife	capable of	hurt<|endoftext|>
+aspirin	can relieve	headache[SEP]aspirin	used for	relieve headache<|endoftext|>
+roses	has property	planted[SEP]roses	has property	cultivated in yard<|endoftext|>
+roofer	has place	near[SEP]roofer	at location	roof<|endoftext|>
+mind	remember	something[SEP]mind	manner of	remember<|endoftext|>
+fast car	has movement	slow[SEP]fast car	capable of	pass slow car<|endoftext|>
+leading question	be allowed in	cross examination[SEP]leading question	part of	cross examination<|endoftext|>
+taste	be determined by	smell[SEP]taste	manner of	identify<|endoftext|>
+pentagram	has property	made[SEP]pentagram	has property	shaped like star<|endoftext|>
+fork	have	3 prongs[SEP]fork	has a	prongs<|endoftext|>
+snake	know	when shed[SEP]snake	at location	shed<|endoftext|>
+rockhopper penguin	has property	endangered[SEP]rockhopper penguin species	has property	classified as vulnerable<|endoftext|>
+biceps brachii	has property	attached[SEP]biceps brachii	part of	arm<|endoftext|>
+edmonton	be located in	alberta canada[SEP]edmonton	part of	alberta<|endoftext|>
+good health	has property	necessary[SEP]good health	has property	necessary for long life<|endoftext|>
+exercise	physically cause	weight loss[SEP]getting exercise	causes	weight loss<|endoftext|>
+human	has body part	hand[SEP]hand	part of	body<|endoftext|>
+akira	has property	manga[SEP]akira	instance of	manga<|endoftext|>
+lions	can eat	raw meat[SEP]lions	capable of	eating raw flesh<|endoftext|>
+insect	has body part	compound eyes[SEP]insects	has a	compound eyes<|endoftext|>
+percussion instrument	make	sound[SEP]percussion instrument	used for	provide rhythmic beat<|endoftext|>
+tortilla	has property	good for[SEP]tortillas	has property	very economical<|endoftext|>
+fish	live	underwater[SEP]fish	capable of	live underwater<|endoftext|>
+people	has property	intellectually dishonest[SEP]many people	has property	dishonest<|endoftext|>
+prophase	be important in	mitosis[SEP]prophase	part of	mitosis<|endoftext|>
+typing	cause	carpal tunnel syndrome[SEP]using computer	causes	carpal tunnel syndrome<|endoftext|>
+people	get	cremated[SEP]people	receives action	cremated<|endoftext|>
+chimpanzee	eat	in the zoo[SEP]chimpanzee	at location	zoo<|endoftext|>
+ball bearing	has property	suitable[SEP]ball bearing	at location	can<|endoftext|>
+human	need	to earn money[SEP]human	capable of	need money<|endoftext|>
+ocean	has property	water[SEP]oceans	has property	wet<|endoftext|>
+feeling	has property	positive[SEP]positive personal or constructive feeling	has property	caring<|endoftext|>
+leather	be made into	leather jacket[SEP]leather	used for	make coats<|endoftext|>
+fish	die out of	water[SEP]fish	capable of	die out of water<|endoftext|>
+healthy eating	can improve	health[SEP]eating healthily	causes	better health<|endoftext|>
+eyelet curtain	has property	made[SEP]eyelet	part of	curtain<|endoftext|>
+candle	burn facing	up[SEP]candle	capable of	burn brightly<|endoftext|>
+spiral binding	has property	effective[SEP]spiral binding	has property	cheap<|endoftext|>
+contact lens	be different from	glasses[SEP]glasses	distinct from	contact lens<|endoftext|>
+and	has body part	arm[SEP]arm	part of	body<|endoftext|>
+blowjob	has property	more common[SEP]blowjobs	has property	cool<|endoftext|>
+radiation harmful	has property	to[SEP]radiation	has property	toxic<|endoftext|>
+chemist	relate to	chemistry[SEP]chemist	capable of	understand chemistry<|endoftext|>
+wood	be used for	fuel[SEP]wood	used for	fuel fire<|endoftext|>
+bishop	serve	church[SEP]bishop	at location	church<|endoftext|>
+clothes	smell	after washing[SEP]washing clothes	used for	getting to smell fresh<|endoftext|>
+cornea	protect	eye[SEP]cornea	part of	eye<|endoftext|>
+pentagon	have	five sides[SEP]pentagon	has a	five sides<|endoftext|>
+human	go through	puberty[SEP]humans	capable of	go through puberty<|endoftext|>
+noise	has property	unpleasant sound[SEP]noise	has property	unpleasant to hear<|endoftext|>
+music artist	can create	music[SEP]artist	capable of	creates music<|endoftext|>
+illness	be different from	disease[SEP]disease	distinct from	health<|endoftext|>
+bass drum	make	sound[SEP]bass drum	used for	make loud noise<|endoftext|>
+different country	speak	different languages[SEP]differing countries	capable of	speak differing languages<|endoftext|>
+gel	be used	for styling hair[SEP]gel	used for	shape hair<|endoftext|>
+chinook salmon	has property	known[SEP]chinook salmon	part of	chinook<|endoftext|>
+earth	have	gravity[SEP]earth	has a	gravity<|endoftext|>
+big ben	be built in	london[SEP]big ben	part of	london<|endoftext|>
+turnpike	has property	used for[SEP]turnpike	used for	driving on<|endoftext|>
+laundry room	has property	treated[SEP]laundry room	used for	clean clothing<|endoftext|>
+toilet paper	has property	centerpieces[SEP]toilet paper	at location	cabinet<|endoftext|>
+italian restaurant	serve	bread[SEP]italian restaurant	used for	eat good bread<|endoftext|>
+piano	have	black keys[SEP]piano	has a	black and white keys<|endoftext|>
+airplanes	be built with	landing gear down[SEP]airplanes	capable of	raise landing gear<|endoftext|>
+purchase cellular phone	can	used[SEP]purchasing cellular phone	used for	need to communicate<|endoftext|>
+comparison shopping	be important	of big purchase items[SEP]buying products	causes	comparison shopping<|endoftext|>
+scientist	develop	theories[SEP]theory	created by	scientist<|endoftext|>
+iran	engage in	middle east[SEP]iran	part of	middle east<|endoftext|>
+touch	feel	good[SEP]feel	Entails	touch<|endoftext|>
+hair dryer	have	cold setting[SEP]hair dryer	used for	blowing cold air<|endoftext|>
+country	be with	large populations[SEP]countries	has a	populations<|endoftext|>
+bone marrow	be considered	part of immune system[SEP]marrow	part of	immune system<|endoftext|>
+people	has property	basis[SEP]people	has property	wise<|endoftext|>
+dark light	has property	dark[SEP]light	has property	dark<|endoftext|>
+tall person	get	tall[SEP]tall person	capable of	reach height<|endoftext|>
+bane	has property	evil[SEP]bane which	has property	evil or dangerous<|endoftext|>
+huddersfield	has property	known[SEP]huddersfield	has property	urban<|endoftext|>
+people	hunt	exotic animals[SEP]people	capable of	hunt animals<|endoftext|>
+kissing	has body part	lips[SEP]kiss	has subevent	touch lips<|endoftext|>
+balloon	rise up in	air[SEP]balloon	capable of	rise into air<|endoftext|>
+panda	live on	bamboo[SEP]pandas	capable of	live on bamboo<|endoftext|>
+punishment	be necessary for	criminals[SEP]committing crime	capable of	lead to punishment<|endoftext|>
+lava	has property	liquid[SEP]lava	has property	liquid rock<|endoftext|>
+make patchwork quilt	has property	done[SEP]making patchwork quilt	used for	creating<|endoftext|>
+falling	can	hurt[SEP]falling	capable of	hurt<|endoftext|>
+congo	can	know[SEP]congo	part of	congo<|endoftext|>
+article	published in	magazines[SEP]magazine article	part of	magazine<|endoftext|>
+grass	has property	cut[SEP]grass	has property	cut up into turves and moved<|endoftext|>
+scuba diver	breathe	pressurized air[SEP]scuba dive	has prerequisite	breathe pressurized air<|endoftext|>
+spraying	has property	water[SEP]water	at location	spray<|endoftext|>
+honey bees	make	honey[SEP]bees	capable of	make honey<|endoftext|>
+valley	has property	alike[SEP]valley	has property	beautiful to behold<|endoftext|>
+human	has body part	muscles[SEP]muscle	part of	body<|endoftext|>
+shelter tent	can	work[SEP]tent	capable of	shelter<|endoftext|>
+humor	cause	laughter[SEP]entertaining	causes	laughter<|endoftext|>
+farrier	shoe	a horse[SEP]farrier	capable of	shoe horse<|endoftext|>
+hand sanitizer	contain	alcohol[SEP]hand sanitizer	made of	alcohol<|endoftext|>
+hen	create	egg[SEP]egg	created by	hen<|endoftext|>
+ethanol	has property	harm[SEP]ethanol	has property	harmful for people<|endoftext|>
+kissing	feel	good[SEP]kissing	has subevent	good feeling<|endoftext|>
+revolutionary calendar month	can	work[SEP]revolutionary calendar month	part of	revolutionary calendar<|endoftext|>
+jerusalem	belong to	israel[SEP]jerusalem	part of	israel<|endoftext|>
+ocean	has property	saline[SEP]oceans	has property	saline based<|endoftext|>
+attention	has property	visible[SEP]attention	has property	drawn to different<|endoftext|>
+thermal energy	be transferred	from steam to a radiator[SEP]radiator	used for	get steam heat<|endoftext|>
+nylon	has property	rope[SEP]nylon	at location	rope<|endoftext|>
+sponge	has property	soft material[SEP]sponge	has property	soft<|endoftext|>
+halloween	be same as	christmas[SEP]christmas	distinct from	halloween<|endoftext|>
+lake champlain	has property	united[SEP]lake champlain	at location	united states<|endoftext|>
+table	be used in	documents[SEP]table	used for	writing at<|endoftext|>
+refrigerator	smell	bad[SEP]bad smell	at location	fridge<|endoftext|>
+gas stove	use	electricity[SEP]stove	capable of	electric or natural gas<|endoftext|>
+state	form	counties[SEP]state	made of	counties<|endoftext|>
+felt	be made for	hats[SEP]felt	used for	make hat<|endoftext|>
+person	want	to sleep all the time[SEP]person	desires	geet enough sleep<|endoftext|>
+detergent	remove stains from	clothes[SEP]wash clothes	has subevent	apply detergent to stains<|endoftext|>
+petri dish	be labeled on	bottom[SEP]petri dish	at location	laboratory<|endoftext|>
+grain	has property	wood[SEP]wood	has a	grain to<|endoftext|>
+sunlight	be necessary for	plant growth[SEP]plants	capable of	require sunlight to grow<|endoftext|>
+people	has property	fun[SEP]people do things	has property	fun<|endoftext|>
+water	be used	cool[SEP]shallow water	used for	cool off<|endoftext|>
+cleanliness	has property	activity[SEP]clean things	has property	attractive<|endoftext|>
+people	suffer	pain[SEP]people	capable of	suffer pain<|endoftext|>
+football team	be in	college[SEP]football team	at location	university<|endoftext|>
+europe	divided into	many small countries[SEP]low countries	part of	europe<|endoftext|>
+dynamic host configuration protocol	has property	based[SEP]dynamic host configuration protocol	has property	abbreviated to'dhcp<|endoftext|>
+perspective	has property	view[SEP]perspective	has property	point of view<|endoftext|>
+prophylaxis	be different from	prevention[SEP]prophylaxis	capable of	fight disease<|endoftext|>
+shower	be	distributed[SEP]shower	manner of	provide<|endoftext|>
+something	can accelerate	changing[SEP]accelerate	manner of	change<|endoftext|>
+kurdistan	be part of	iraq[SEP]iraqi kurdistan	part of	kurdistan<|endoftext|>
+scientist	perform	experiments[SEP]scientist	capable of	experiment<|endoftext|>
+fire extinguisher	be used in	fires[SEP]fire extinguisher	used for	use in emergencies<|endoftext|>
+irises	has property	unique[SEP]each person's iris	has property	unique to person<|endoftext|>
+lemon juice	has property	sticky[SEP]lemon juice	has property	very tart<|endoftext|>
+bronze	be different to	gold[SEP]bronze	distinct from	gold<|endoftext|>
+microscope	can see	small objects[SEP]microscope	capable of	view very small objects<|endoftext|>
+cold	give	runny nose[SEP]have cold	has subevent	blow nose<|endoftext|>
+human	own	things[SEP]person	desires	own things<|endoftext|>
+people	cry at	funeral[SEP]crying people	at location	funeral<|endoftext|>
+fire	create	smoke[SEP]smoke	created by	fire<|endoftext|>
+lemon	has property	yellow in different places[SEP]lemons	has property	yellow colored<|endoftext|>
+science	has property	art[SEP]science art and art	has property	science<|endoftext|>
+cheddar	has property	cheese orange[SEP]cheddar cheese	has property	orange<|endoftext|>
+poison	has property	deadly[SEP]poison	has property	dangerous or deadly<|endoftext|>
+sound	produced on	crash cymbals[SEP]cymbal	used for	make crashing sound<|endoftext|>
+elder	get	wrinkles[SEP]getting wrinkles	part of	growing older<|endoftext|>
+black color	has property	then white[SEP]white	has property	opposite from black<|endoftext|>
+fireplace	be used in	modern bedrooms[SEP]fireplace	used for	make room look nice<|endoftext|>
+puppy	has temperature	hot[SEP]warm puppy	capable of	heat source<|endoftext|>
+water	feel	wet[SEP]water	capable of	feel wet<|endoftext|>
+nassau	has property	bahamas[SEP]nassau	part of	bahamas<|endoftext|>
+most mammals	has body part	tails[SEP]most mammals	has a	tail<|endoftext|>
+government	has property	corrupt[SEP]most governments	has property	corrupt<|endoftext|>
+chimpanzee	raise	babies[SEP]chimpanzee	capable of	hold baby<|endoftext|>
+photographer	be present in	portrait[SEP]photographer	capable of	position subject for photograph<|endoftext|>
+canada	has property	considered north america[SEP]canada	has property	north of united states<|endoftext|>
+cellulose	be used in	paper[SEP]paper	made of	cellulose<|endoftext|>
+venus	have	dense atmosphere[SEP]venus	has a	dense atmosphere<|endoftext|>
+cardboard	has property	box[SEP]cardboard	at location	box<|endoftext|>
+cocoa bean	be used in	chocolate[SEP]chocolate	part of	cocoa bean<|endoftext|>
+electricity	can heat	house[SEP]electricity	used for	heat house<|endoftext|>
+salt in water	has property	a solution[SEP]salt	capable of	disolved in water<|endoftext|>
+jax	has property	games[SEP]jax	has property	fun to play with<|endoftext|>
+milky way	be included in	local group[SEP]milky way	part of	local group<|endoftext|>
+adhesive bandage	can	look[SEP]adhesive bandage	at location	medicine cabinet<|endoftext|>
+map	help	determine[SEP]map	capable of	help find way<|endoftext|>
+pill	can	use[SEP]pill	used for	medication<|endoftext|>
+red	has property	dress[SEP]clothing	has property	red<|endoftext|>
+glass	get in	cabinet[SEP]glass	at location	cabinet<|endoftext|>
+lamb	have	soft ears[SEP]lambs	has a	ears<|endoftext|>
+sidewalk	has property	concrete[SEP]sidewalk	has property	paved with concrete<|endoftext|>
+fork	go on	left side of plate[SEP]fork	at location	plate<|endoftext|>
+prior knowledge	affect	new learning[SEP]learning new	causes	greater understanding<|endoftext|>
+chinese restaurant	make	egg rolls[SEP]chinese restaurant	used for	eat egg rolls<|endoftext|>
+bald eagle	adapt to	habitat[SEP]bald eagle	at location	wildlife refuge<|endoftext|>
+greed	has property	relevant in today's society[SEP]materialism	has property	conducive to greed<|endoftext|>
+glacier	be on top of	mountains[SEP]glacier	at location	top of mountain<|endoftext|>
+violin	has property	expensive[SEP]good violins	has property	very expensive<|endoftext|>
+mexican food	has property	unique[SEP]mexican foods	has property	very colorful<|endoftext|>
+stationery	has place	near[SEP]stationery	at location	office<|endoftext|>
+carbon dioxide	regulate	breathing[SEP]breathing	causes	eliminating carbon dioxide<|endoftext|>
+the south pole	be located	on antarctica[SEP]south pole	part of	antarctica<|endoftext|>
+sun	has property	weather[SEP]sun	has property	rising in morning<|endoftext|>
+ear	has property	hurting[SEP]ear	has property	very fragile<|endoftext|>
+tuxedo	has property	made[SEP]tuxedo	has property	black and white<|endoftext|>
+bread knife	has property	effective[SEP]serated knife	has property	good for cutting bread<|endoftext|>
+older adult	live in	retirement homes[SEP]elderly	capable of	live in retirement home<|endoftext|>
+basidiomycete	has property	formed[SEP]basidiocarp	part of	basidiomycete<|endoftext|>
+birth control pill	prevent from	pregnancy[SEP]birth control pill	capable of	prevent woman from becoming impregnated<|endoftext|>
+bass clarinet	play in	orchestras[SEP]clarinet	at location	orchestra<|endoftext|>
+people	have	five fingers[SEP]people	has a	five fingers<|endoftext|>
+the trophy	has property	award[SEP]winning trophy	has property	fun<|endoftext|>
+stratosphere	related	to the atmosphere[SEP]stratosphere	part of	atmosphere<|endoftext|>
+snare drum	be called	a snare drum[SEP]snare drum	used for	percussion<|endoftext|>
+scale	can	up[SEP]scale up	Entails	increase<|endoftext|>
+canned food	has place	near[SEP]canned food	at location	store<|endoftext|>
+hong kong	be part of	china[SEP]hong kong	part of	china<|endoftext|>
+angel	has property	terrifying[SEP]every angel	has property	terrifying<|endoftext|>
+balance	be	blissful[SEP]balance	manner of	be<|endoftext|>
+prerequisite	can	sleep[SEP]go to sleep	has prerequisite	do by all means<|endoftext|>
+coal	has property	underground[SEP]coal	at location	underground<|endoftext|>
+jump rope help	can	exercise[SEP]jump rope	used for	exercise<|endoftext|>
+stupidity	has property	bad[SEP]stupidity	has property	contagious<|endoftext|>
+bass drum	be played	in an orchestra[SEP]drum	at location	orchestra<|endoftext|>
+fish	live in	coral reef[SEP]fish	at location	coral reef<|endoftext|>
+bath	relieve	stress[SEP]taking bath	used for	soaking to eliminate stress<|endoftext|>
+loudspeaker	has property	operated[SEP]loudspeaker	part of	public address system<|endoftext|>
+rubber eraser	has property	made[SEP]erasers	has property	rubber<|endoftext|>
+marathon runner	get	hypothermia[SEP]running in marathon	causes	hypothermia<|endoftext|>
+reality tv	has property	known[SEP]reality tv	has property	popular<|endoftext|>
+windshield wiper	has property	made[SEP]windshield wiper	part of	automobile<|endoftext|>
+celery	go in	refrigerator[SEP]celery	at location	refrigerator<|endoftext|>
+matter	differ from	energy[SEP]matter	distinct from	energy<|endoftext|>
+brain damage	can affect	memory[SEP]damage to brain	capable of	cause loss of memories<|endoftext|>
+procrastination	can	begin[SEP]beginning work	has subevent	procrastination<|endoftext|>
+some planet	has property	bigger than others[SEP]planets compared to most other things	has property	very huge<|endoftext|>
+computer	has property	expensive[SEP]computer hardware	has property	expensive<|endoftext|>
+college degree	can	know[SEP]college degree	capable of	further career<|endoftext|>
+subway	have doors in	front[SEP]door	at location	subway<|endoftext|>
+sun	has property	gases[SEP]sun	made of	gases<|endoftext|>
+deodorant	eliminate	body odor[SEP]deodorant	used for	body odor<|endoftext|>
+snowflake	has temperature	cold[SEP]snowflake	at location	winter<|endoftext|>
+fact	has property	true[SEP]fact	has property	true<|endoftext|>
+lens	be used in	telescopes[SEP]lens	used for	telescope<|endoftext|>
+solar system	differ from	galaxy[SEP]solar system	part of	galaxy<|endoftext|>
+central america	belong	north america[SEP]central america	part of	america<|endoftext|>
+bail	can	empty[SEP]bail	manner of	empty<|endoftext|>
+bush	has property	alive[SEP]bush	has property	alive<|endoftext|>
+stranger	differ from	friends[SEP]stranger	distinct from	friend<|endoftext|>
+harvard	be in	cambridge[SEP]harvard university	part of	cambridge<|endoftext|>
+castle	be in	england[SEP]castle	at location	england<|endoftext|>
+hunger	feel	unpleasant[SEP]hunger	manner of	ache<|endoftext|>
+data	be sent in	packets[SEP]packets	used for	transmit data<|endoftext|>
+airport	has property	designed[SEP]airports	has property	well designed<|endoftext|>
+everglades national park	has place	outside[SEP]everglades national park	at location	florida<|endoftext|>
+no clock	has property	in a casino[SEP]lack of clock.s	at location	casino<|endoftext|>
+referee	use	whistles[SEP]refereeing	has subevent	blowing whistle<|endoftext|>
+boxer	train	for a fight[SEP]boxer	capable of	train for fight<|endoftext|>
+everything	use	a hard drive to store data[SEP]hard drives	capable of	store data<|endoftext|>
+global warming	has property	related[SEP]basic tenets of global warming	has property	solid<|endoftext|>
+rat poison	kill	rat[SEP]poison	capable of	kill rats<|endoftext|>
+fluoride	be used in	toothpaste[SEP]fluoride toothpaste	used for	keeping teeth white<|endoftext|>
+food	pass	through the digestive system[SEP]digestive system	has a	do with food<|endoftext|>
+sleep	be different from	wakefulness[SEP]sleep	distinct from	wakefulness<|endoftext|>
+east	be	en west germany[SEP]east central german	at location	germany<|endoftext|>
+deaf person	can use	sign language[SEP]deaf person	capable of	sign words<|endoftext|>
+bulkhead	be used on	ships[SEP]bulkhead	part of	ship<|endoftext|>
+realtor	sell	house[SEP]realtor	capable of	sell houses<|endoftext|>
+loud voice	has property	opposite[SEP]voice	has property	loud<|endoftext|>
+hair shaping gel	has property	made[SEP]hair shaping gel	used for	shaping hair<|endoftext|>
+forklift	can	lift[SEP]forklift	capable of	lift heavy things<|endoftext|>
+nucleus	be important part of	cell[SEP]nucleus	part of	cell<|endoftext|>
+lawyer	charge	fees[SEP]lawyer	capable of	charge fee for service<|endoftext|>
+popcorn	has property	at the movies[SEP]popcorn	at location	drive in movie<|endoftext|>
+japanese restaurant	queen	town[SEP]japanese restaurant	at location	major city<|endoftext|>
+bird	fly in	air[SEP]bird flying	at location	air<|endoftext|>
+trust	be essential in	relationship[SEP]trust	manner of	trust<|endoftext|>
+paperweight	has property	related[SEP]paperweight	has property	heavy<|endoftext|>
+doctor	request	mri[SEP]mri	at location	doctor's office<|endoftext|>
+new york	be known as	world trade center[SEP]world trade center	part of	new york<|endoftext|>
+submarine	know	depth of sea[SEP]submarine	at location	surface of ocean<|endoftext|>
+inference	be used	in deriving conclusions from the facts[SEP]inference	defined as	forming of conclusion from premises by logical methods<|endoftext|>
+playing piano	has property	used for[SEP]playing piano	used for	entertainment<|endoftext|>
+bread flour	has property	yeast[SEP]making bread	has subevent	measure flour and yeast<|endoftext|>
+club	be called	a club[SEP]club	used for	club<|endoftext|>
+wine bar	has place	out[SEP]wine	at location	bar<|endoftext|>
+epileptic	has property	fit causes[SEP]having epileptic fit	causes	convulsions<|endoftext|>
+dog	paw	um[SEP]paw	part of	canine<|endoftext|>
+airplanes	be used	during the war[SEP]airplanes	at location	war<|endoftext|>
+united states house of representatives	has place	outside[SEP]united states house of representatives	at location	united states<|endoftext|>
+lemur	live	in the rainforest[SEP]lemur	at location	wilderness<|endoftext|>
+money	even have	value[SEP]money	has a	value<|endoftext|>
+swimming in	has property	open water dangerous[SEP]swimming in rough open water	has property	difficult<|endoftext|>
+wedding ring	has property	symbol[SEP]wedding ring	used for	symbolizing marriage<|endoftext|>
+razor cut	has property	used for[SEP]razor	used for	cut<|endoftext|>
+bread	has property	toasted[SEP]bread	used for	toasting<|endoftext|>
+research	generated	knowledge[SEP]research	used for	learning<|endoftext|>
+balcony seat	has property	view[SEP]balcony seat	capable of	provide nice view<|endoftext|>
+hair stylist	cut	hair[SEP]cut hair	has subevent	go to hair stylist<|endoftext|>
+arm hair	grow	back[SEP]hair	capable of	grow on arm<|endoftext|>
+bridge	be anchored over	water[SEP]bridge	at location	over water<|endoftext|>
+fireplace mantel	has property	produced[SEP]mantel	part of	fireplace<|endoftext|>
+fish	has property	bridge[SEP]fish	at location	bridge<|endoftext|>
+eastern brown snake	has property	related[SEP]eastern brown snake	has property	dangerous<|endoftext|>
+hair dryer	can	help[SEP]hair dryer	used for	drying hair<|endoftext|>
+laser	read	cd[SEP]laser	used for	reading cd or cd rom<|endoftext|>
+some plane	have	two tails[SEP]planes	has a	tails<|endoftext|>
+wind turbine	be arranged in	wind farms[SEP]wind turbine	part of	wind farm<|endoftext|>
+ranch	be different from	farm[SEP]farm	distinct from	ranch<|endoftext|>
+trees	fall	down[SEP]trees	capable of	fall<|endoftext|>
+old book	has property	shop[SEP]old books	has property	beautiful to look at<|endoftext|>
+people	have	one nose[SEP]people	has a	one nose<|endoftext|>
+carpet	be used in	floor[SEP]carpeting	used for	cover floor<|endoftext|>
+student	read	books[SEP]student	capable of	read book<|endoftext|>
+attitude	affect	others[SEP]person	desires	affect attitude<|endoftext|>
+procrastinator	can	procrastinate[SEP]procrastinate	manner of	procrastinate<|endoftext|>
+eagles	have	good eyesight[SEP]eagles	has a	excellent eyesight<|endoftext|>
+flash card	has property	useful[SEP]flash cards	has property	available for physics<|endoftext|>
+walk	be called	constitutional[SEP]constitutionalize	manner of	walk<|endoftext|>
+lawn mower blade	has property	made[SEP]blade	part of	lawn mower<|endoftext|>
+bubonic plague	has property	contracted[SEP]bubonic plague	has property	fatal<|endoftext|>
+fridge freezer	make	ice[SEP]refrigerator freezer	used for	get ice<|endoftext|>
+prophase	be important in	meiosis[SEP]prophase	part of	meiosis<|endoftext|>
+bluebird	has property	new york state bird[SEP]new york state bird	defined as	bluebird<|endoftext|>
+flooring	has property	made[SEP]flooring	has property	material used to create floor<|endoftext|>
+bank	store	money[SEP]money	at location	bank<|endoftext|>
+shop	has place	near[SEP]shop	at location	town<|endoftext|>
+division	be different from	subtraction[SEP]division	distinct from	subtract<|endoftext|>
+ring binder	has property	made[SEP]ring binder	used for	storing documents<|endoftext|>
+flashing light	cause	epileptic fits[SEP]rapidly flashing lights	causes desire	have epileptic fit<|endoftext|>
+backyard	has property	front yard[SEP]backyard	at location	neighborhood<|endoftext|>
+scientist	work in	labs[SEP]researcher	at location	laboratory<|endoftext|>
+needle	has property	sized[SEP]needle	has property	small<|endoftext|>
+greenland	be part of	europe[SEP]greenland	part of	atlantic<|endoftext|>
+cataloged procedure	can	work[SEP]cataloged procedure	part of	library<|endoftext|>
+people	have	preferences for food[SEP]most people	has a	preferences for certain foods<|endoftext|>
+virus	cause	diseases[SEP]virus	causes	disease<|endoftext|>
+misery	has property	working[SEP]misery	has property	undesirable<|endoftext|>
+hole-in-the-wall	has place	up[SEP]hole	at location	wall<|endoftext|>
+jumping rope	has property	good exercise[SEP]jumping rope	used for	getting fit<|endoftext|>
+elastic rebound	has property	made[SEP]elastic	capable of	rebound<|endoftext|>
+some house	have	a porch[SEP]porch	part of	house<|endoftext|>
+person	has body part	lips[SEP]person	has a	two lips<|endoftext|>
+brown	has property	dog[SEP]dog	has property	brown<|endoftext|>
+basketball	has property	black peoples[SEP]black people	has property	good at basketball<|endoftext|>
+year	be	decade[SEP]year	part of	decade<|endoftext|>
+people	have problem in	general[SEP]people	has a	complex problems<|endoftext|>
+ice	has property	snow[SEP]ice	has property	cold<|endoftext|>
+pneumatic tire	go	up[SEP]interior of pneumatic tire	receives action	filled with air<|endoftext|>
+sun	has property	important for life on the earth[SEP]sun	used for	maintain life on earth<|endoftext|>
+animal	can	procreate[SEP]animals	capable of	procreate<|endoftext|>
+as	turn	out[SEP]turn out	manner of	turn<|endoftext|>
+rosebush	has property	scene[SEP]rosebush	at location	n<|endoftext|>
+music	has property	art[SEP]music	has property	artistic<|endoftext|>
+thing	change	as a result[SEP]specialize	manner of	change<|endoftext|>
+jellyfish	live in	seashore[SEP]jellyfish	at location	bay<|endoftext|>
+apple	say	location[SEP]apple	at location	house<|endoftext|>
+storage furniture	has property	made[SEP]storage furniture	used for	keeping things tidy<|endoftext|>
+haircut	has place	off[SEP]having haircut	has subevent	sit<|endoftext|>
+hardwood	has trait	soft[SEP]hardwood	distinct from	soft<|endoftext|>
+jumping rope	has place	down[SEP]jump rope	has subevent	jumping off ground<|endoftext|>
+latex	be used in	gloves[SEP]latex gloves	at location	laboratory<|endoftext|>
+lake tahoe	be in	nevada[SEP]lake tahoe	part of	california<|endoftext|>
+bomb	be used in	war[SEP]bomb	used for	war<|endoftext|>
+water	has property	refreshing[SEP]water	has property	refreshing<|endoftext|>
+cotton	be used for	towels[SEP]towels	receives action	made mostly from cotton<|endoftext|>
+piano	contain	sounding board[SEP]sounding board	part of	piano<|endoftext|>
+tanning lotion	has property	used for[SEP]tanning lotion	used for	looking good<|endoftext|>
+sperm	be in	semen[SEP]sperm	part of	semen<|endoftext|>
+teacher	need	to prepare a lesson plan[SEP]teacher	capable of	plan to teach lesson<|endoftext|>
+frozen vegetable	get	freezer burn[SEP]frozen vegetables	at location	freezer<|endoftext|>
+people	make	peanut butter[SEP]people	capable of	spread peanut butter<|endoftext|>
+many person	be	buy car[SEP]people	capable of	buy car<|endoftext|>
+parachute	slow	down[SEP]parachute	capable of	slow descent through air<|endoftext|>
+infant	cry	lot[SEP]baby	capable of	cry lot<|endoftext|>
+asthma	cause	bad breath[SEP]having asthma attack	causes	loss of breath<|endoftext|>
+gresham	has property	oregon[SEP]gresham	part of	oregon<|endoftext|>
+vagina	be known as	pussy[SEP]pussy	capable of	mean vagina<|endoftext|>
+cat	has body part	eye[SEP]cat	has a	eyes<|endoftext|>
+rain	has property	but[SEP]when going outdoors	has property	possible one will encounter rain<|endoftext|>
+utensil	have	plastic handles[SEP]many utensils	has a	handles<|endoftext|>
+debate	be important in	politics[SEP]debate politics	has prerequisite	research issues<|endoftext|>
+celestial sphere	has property	zenith[SEP]zenith	part of	celestial sphere<|endoftext|>
+street	has property	parking[SEP]parking area	has property	paved with asphalt<|endoftext|>
+cats	have	short tails[SEP]most cats	has a	tails<|endoftext|>
+beaker	be important in	chemistry lab[SEP]beakers	at location	chemistry lab<|endoftext|>
+snare	be called	snare drum[SEP]snare	part of	snare drum<|endoftext|>
+best man	be in	wedding[SEP]best man	at location	wedding<|endoftext|>
+glass	can be	a liquid[SEP]glass	capable of	cup liquid<|endoftext|>
+metal rod	has property	used for[SEP]metal rod	used for	support<|endoftext|>
+fire extinguisher	has property	construction[SEP]fire extinguisher	at location	building<|endoftext|>
+gun	required on	firing[SEP]gun	used for	shoot<|endoftext|>
+steel cable	has property	made[SEP]steel cable	used for	carrying weight<|endoftext|>
+rehearsing room	has property	done[SEP]rehearsing room	used for	rehearse<|endoftext|>
+masturbating	has property	addictive[SEP]masturbating	has property	fun<|endoftext|>
+triskaidekaphobia	can	mean[SEP]triskaidephobia	defined as	fear of number thirteen<|endoftext|>
+social interaction	has property	important for[SEP]social interaction	has property	essential in human life<|endoftext|>
+caliper	be used	measure[SEP]caliper	used for	measuring<|endoftext|>
+liver	do in	digestive system[SEP]liver	part of	digestive system<|endoftext|>
+can of soda	get	filled[SEP]can of soda	used for	contain soda<|endoftext|>
+carrot	has property	vegetable[SEP]carrots	has property	vegetables<|endoftext|>
+calculator	be called	a calculator[SEP]use calculator	has prerequisite	get calculator<|endoftext|>
+take oath	has property	oaths[SEP]take oath	has prerequisite	understand implications of oath<|endoftext|>
+eyeglasses case	can	work[SEP]eyeglasses case	at location	eyeglasses<|endoftext|>
+food	be at	airport expensive[SEP]overpriced food	at location	airport<|endoftext|>
+laser	produce	coherent light[SEP]lasers	used for	generate coherent light<|endoftext|>
+gin	differ from	vodka[SEP]vodka	distinct from	gin<|endoftext|>
+basket flower	has property	made[SEP]basket	used for	carrying flowers<|endoftext|>
+plane	be used for	transportation[SEP]airplane	used for	air transportation<|endoftext|>
+cars	has property	expensive[SEP]all cars	has property	expensive<|endoftext|>
+door	has property	when open[SEP]door	has property	open or closed<|endoftext|>
+bicycle	has property	good for the environment[SEP]biking	has property	good for health<|endoftext|>
+people	want	cat[SEP]many people	desires	have cat<|endoftext|>
+drinking water	be essential for	health[SEP]drinking	used for	water for health<|endoftext|>
+soapy water	make	bubbles[SEP]soapy water	used for	making bubbles<|endoftext|>
+human	has property	the main cause of extinction[SEP]where humans go extinction	has property	sure to follow<|endoftext|>
+growing vegetables	has property	good for the environment[SEP]growing vegetables	causes	ecological land use<|endoftext|>
+lunar month	compared	with a calendar month[SEP]lunar month	part of	lunar year<|endoftext|>
+olive oil	be called	sweet oil[SEP]olive oil	defined as	oil from olive fruit<|endoftext|>
+cream	be good for	skin[SEP]cream	used for	skin<|endoftext|>
+furnace	has place	on[SEP]furnace	at location	house<|endoftext|>
+change	happen in	society[SEP]changing society	causes	society progresses<|endoftext|>
+squirrel	eat	an acorn[SEP]squirrel	capable of	gather acorns<|endoftext|>
+butcher	kill	animals[SEP]butcher	manner of	kill<|endoftext|>
+scientist	use	carbon dating[SEP]carbon dating techniques	capable of	date materials millions of years old<|endoftext|>
+chicken meat	be called	chicken[SEP]chicken	has a	chicken meat on<|endoftext|>
+radio	has property	useful[SEP]radio	has property	useful for listening to music<|endoftext|>
+helmet	protect	head[SEP]helmets	used for	protect one's head<|endoftext|>
+boat	can	capsize[SEP]boat	used for	capsize<|endoftext|>
+article	published in	magazines[SEP]articles	at location	magazine<|endoftext|>
+oryctolagus cuniculus	has property	made[SEP]oryctolagus cuniculus	has a	changed world<|endoftext|>
+restaurant	has place	near[SEP]restaurant	at location	building<|endoftext|>
+in winter	has property	temperature[SEP]temperatures	has property	freezing in winter<|endoftext|>
+steel	be used for	cable in suspension bridges[SEP]steel cable	at location	suspension bridge<|endoftext|>
+lightning	has property	deadly[SEP]lightning	has property	very dangerous even deadly<|endoftext|>
+fish	be different from	mammals[SEP]fish	distinct from	mammal<|endoftext|>
+hockey puck	has property	small[SEP]hockey puck	has property	hard and small<|endoftext|>
+august	have	31 days[SEP]august	has a	thirty one days<|endoftext|>
+football	has property	the most common sport in america[SEP]american football	has property	more like rugby than football<|endoftext|>
+phillips screwdriver	can	work[SEP]phillips screwdriver	used for	turning phillips headed screws<|endoftext|>
+central heating radiator	has property	made[SEP]radiator	part of	heating system<|endoftext|>
+foundation	has property	structure[SEP]foundation	part of	structure<|endoftext|>
+management	has property	top[SEP]top management	has property	responsible for policy<|endoftext|>
+triceps brachii	can	know[SEP]triceps brachii	part of	arm<|endoftext|>
+fast food restaurant	has place	nearby[SEP]fast food restaurant	at location	populated area<|endoftext|>
+terrace railing	has property	made[SEP]terrace railing	used for	providing boundary<|endoftext|>
+fuego	has property	guatemala[SEP]fuego	part of	guatemala<|endoftext|>
+armoire	has property	furniture[SEP]armoire	at location	furniture store<|endoftext|>
+dishwasher	has place	down[SEP]dishwasher	at location	apartment<|endoftext|>
+people	desire	happy[SEP]person	desires	others to happy<|endoftext|>
+guinea	be in	africa[SEP]guinea	part of	africa<|endoftext|>
+silk screen print	has manner	easily[SEP]silkscreen	manner of	print<|endoftext|>
+nanotechnology	help	ordinary person[SEP]person	desires	nanotechnology<|endoftext|>
+buying a house	has property	stressful[SEP]buying house	causes	stress<|endoftext|>
+wheel	has property	round[SEP]wheels	has property	round<|endoftext|>
+player	score goals in	soccer[SEP]soccer player	capable of	score goal<|endoftext|>
+firefighter	extinguish	fires[SEP]fireman	desires	extinguish fires<|endoftext|>
+secret	can	box[SEP]box	capable of	hold secret<|endoftext|>
+puerto rico	be considered	territory[SEP]puerto rico	defined as	name of territory<|endoftext|>
+touching	feel	good[SEP]feel	manner of	touch<|endoftext|>
+wool	be used for	winter clothing[SEP]wool	used for	sweaters<|endoftext|>
+highway	be	in to the city[SEP]highway	at location	city<|endoftext|>
+massage	be used	treat[SEP]massage	manner of	treat<|endoftext|>
+mammoth cave national park	has place	about[SEP]mammoth cave national park	at location	kentucky<|endoftext|>
+bridge	has property	related to a river[SEP]bridge	capable of	bridge river<|endoftext|>
+people	has property	interested[SEP]people	has property	very interested in other people's business<|endoftext|>
+musculus biceps femoris	has property	different[SEP]musculus biceps femoris	part of	thigh<|endoftext|>
+beaver	build	a lodge[SEP]beaver	at location	lodge<|endoftext|>
+retribution	be best form of	punishment[SEP]revenge	manner of	punish<|endoftext|>
+robots	can be used	in the future[SEP]future robots will	has a	great computing power<|endoftext|>
+gate	can	swing[SEP]gate	capable of	swing<|endoftext|>
+annotation	can	be[SEP]annotate	manner of	write<|endoftext|>
+change	be in	state considered[SEP]get into	manner of	change state<|endoftext|>
+car engine	use	oil[SEP]oil	at location	car engine<|endoftext|>
+dream	make sense	asleep[SEP]dream	Entails	sleep<|endoftext|>
+taxing	has property	effort[SEP]work	has property	taxing<|endoftext|>
+tsunami	get in	shallow water[SEP]water	at location	tsunami<|endoftext|>
+laryngeal vein	has property	made[SEP]laryngeal vein	part of	larynx<|endoftext|>
+horseback riding	has property	a sport[SEP]horseback riding	has property	romantic<|endoftext|>
+contempt	be different from	disdain[SEP]contempt	distinct from	respect<|endoftext|>
+cutlery drawer	has property	organizer[SEP]cutlery drawer	used for	storing things<|endoftext|>
+macadam	has property	pavement[SEP]macadam	has property	like asphalt<|endoftext|>
+wine	be different from	beer[SEP]wine	distinct from	beer<|endoftext|>
+monkey	carry	diseases[SEP]monkeys	capable of	carry disease<|endoftext|>
+black keys	be on	piano[SEP]black keys	at location	piano<|endoftext|>
+food	be used for	energy[SEP]food	used for	energy<|endoftext|>
+plant	grow in	dirt[SEP]plant	at location	dirt<|endoftext|>
+united states public health service	has property	customer[SEP]united states public health service	part of	department of health and human services<|endoftext|>
+radio	receive	electronic signals[SEP]radio	used for	receiving radio signals<|endoftext|>
+a	be	lie[SEP]lie	manner of	be<|endoftext|>
+certain thought	cause	anxiety[SEP]threatening thought	capable of	cause anxiety<|endoftext|>
+latitude	be different from	longitude[SEP]longitude	distinct from	latitude<|endoftext|>
+black bear	be different from	polar bears[SEP]black bear	distinct from	polar bear<|endoftext|>
+jupiter	be made of	hydrogen[SEP]hydrogen	defined as	main constituent of jupiter<|endoftext|>
+umbilical cord	has body part	blood[SEP]umbilical vein	part of	umbilical cord<|endoftext|>
+thunder	be associated by	lightning[SEP]lightning	distinct from	thunder<|endoftext|>
+switzerland	be part of	europe[SEP]switzerland	part of	europe<|endoftext|>
+cd-rom	read	information[SEP]cd rom	used for	storing information<|endoftext|>
+some plant	have	petals[SEP]plant	capable of	flower petals<|endoftext|>
+washing machine	have	two different compartments for detergent[SEP]wash clothes	has subevent	add detergent to washing machine<|endoftext|>
+many product	be in	shops[SEP]products	at location	shop<|endoftext|>
+stars	appear in	night sky[SEP]stars at night	at location	sky<|endoftext|>
+skin help	control	body temperature[SEP]skin	used for	adjusting body temperature<|endoftext|>
+zipper	has body part	teeth[SEP]zipper	made of	teeth<|endoftext|>
+dentist	fill	cavities[SEP]dentist office	used for	filling cavities<|endoftext|>
+sleet	differ from	freezing rain[SEP]sleet	distinct from	rain<|endoftext|>
+nice	has property	france[SEP]nice	part of	france<|endoftext|>
+corner shop	be called	corner shops[SEP]corner shop	at location	street corner<|endoftext|>
+international atomic energy agency	has property	ipa[SEP]international atomic energy agency	has property	abbreviated to iaea<|endoftext|>
+ice cream	cause	headache[SEP]eating ice cream	causes	headaches<|endoftext|>
+basketball court	be in	yards[SEP]ball	at location	basketball court<|endoftext|>
+electronic transistor	has property	made[SEP]transistor	part of	elctronic device<|endoftext|>
+snoring	has property	irritating noise[SEP]snoring	causes	annoying sounds<|endoftext|>
+grass	has property	the color green[SEP]colour of lawns	has property	green<|endoftext|>
+woman	have	less body hair than men[SEP]generally female people	has a	less hair than men people<|endoftext|>
+theatre	make	popcorn[SEP]theatre	used for	sell popcorn<|endoftext|>
+fish	differ from	meat[SEP]fish	distinct from	meat<|endoftext|>
+arnold schwarzenegger	be in	terminator[SEP]arnold schwarzenegger	defined as	actor who plays terminator<|endoftext|>
+honey bees	has property	good for the environment[SEP]bees	has property	good for crops<|endoftext|>
+info	has property	record[SEP]record	has a	information<|endoftext|>
+medical marijuana	have	thc[SEP]marijuana	has a	thc<|endoftext|>
+church	do	sunday school[SEP]sunday school	at location	church<|endoftext|>
+pub	has place	near[SEP]pub	at location	town's center<|endoftext|>
+jellyfish	can	see[SEP]jellyfish	at location	see<|endoftext|>
+plumber	clear blocked	drains[SEP]plumber	capable of	clear clogged drain<|endoftext|>
+leaning tower of pisa	has property	famous[SEP]leaning tower	part of	pisa<|endoftext|>
+larger molecule	has property	produced[SEP]molecule	used for	forming larger objects<|endoftext|>
+bike	can	skid[SEP]bike	capable of	skid<|endoftext|>
+oil	used for	cooking[SEP]oil	used for	oiling<|endoftext|>
+packaging	can	use[SEP]can	used for	packaging things<|endoftext|>
+inhaler	improve	the health of asthma sufferers[SEP]having asthma attack	has prerequisite	use of inhaler<|endoftext|>
+proofreading	can	know[SEP]proofread	manner of	see<|endoftext|>
+yogurt	go	bad[SEP]yogurt	capable of	go bad<|endoftext|>
+seaweed	be at	beach[SEP]seaweed	at location	beach<|endoftext|>
+felony	has property	crime[SEP]felony	has property	one kind of serious crime<|endoftext|>
+freezer	preserve	food[SEP]freezer	used for	preserve food<|endoftext|>
+people	travel to	other places[SEP]people	capable of	travel places<|endoftext|>
+plant	die	of over watering[SEP]watering plant	causes	plant to die<|endoftext|>
+staple remover	can	used[SEP]staple remover	has a	teeth<|endoftext|>
+joke	has property	ok[SEP]joke	has property	good<|endoftext|>
+computer	make	decisions[SEP]computer	capable of	make decisions<|endoftext|>
+reverse engineering	has property	useful[SEP]find out how	has property	engineered by reverse engineering<|endoftext|>
+philippines	be part of	asia[SEP]philippines	part of	philippines<|endoftext|>
+rotten food	has property	bad[SEP]rotten food	has property	bad for people<|endoftext|>
+knowledge	be essential	understanding[SEP]understanding better	has prerequisite	knowledge of<|endoftext|>
+steakhouse	has property	used for[SEP]steakhouse	used for	place to work<|endoftext|>
+factory	be located outside of	major cities[SEP]factory	at location	industrial area of city<|endoftext|>
+synapse	be used by	nervous system[SEP]synapse	part of	nerve<|endoftext|>
+heat	create	fire[SEP]heat	created by	fire<|endoftext|>
+gas	differ from	liquid[SEP]gas	distinct from	fluidity<|endoftext|>
+caring	has property	others[SEP]people	has property	caring<|endoftext|>
+bubbles	has property	bad[SEP]bubbles	has property	very fragile<|endoftext|>
+graphite	be used	in pencils[SEP]graphite pencil	used for	sketching<|endoftext|>
+barbecue	be popular in	australia[SEP]barbecue	at location	australia<|endoftext|>
+cocktail cabinet	has property	made[SEP]cocktail cabinet	used for	store small things<|endoftext|>
+check	cashed	work[SEP]cashing in	used for	checks<|endoftext|>
+tomato	has property	color red[SEP]tomatoes	has property	red<|endoftext|>
+california	be most populous state of	united states[SEP]california	defined as	most populous state<|endoftext|>
+condensed milk	has property	ready[SEP]condensed milk	at location	can<|endoftext|>
+thermometer	has property	accurate[SEP]thermometer	capable of	measure degrees<|endoftext|>
+getting	make	people laugh[SEP]making people laugh	causes	getting happy<|endoftext|>
+mississauga	be important to	ontario[SEP]mississauga	part of	ontario<|endoftext|>
+kindness	make	world better[SEP]making better world	has prerequisite	human kindness<|endoftext|>
+telescope	can see	planets[SEP]telescopes	capable of	spot planets<|endoftext|>
+central america	belong	north america[SEP]central america	part of	north america<|endoftext|>
+emotion	has property	good thing[SEP]emotion	has property	pleasant<|endoftext|>
+money	be made	in the stock market[SEP]knowing how stock market performed	causes	making money<|endoftext|>
+business	make	money[SEP]business	used for	make money<|endoftext|>
+people	have	patience for to hard[SEP]people	has a	hard time with patience<|endoftext|>
+living thing	can	grow[SEP]all living things	capable of	grow<|endoftext|>
+speech	become	slurred when drunk[SEP]get drunk	has subevent	speech gets slurred<|endoftext|>
+rocking chair	be used	to ease an infant to sleep[SEP]rocking chair	used for	rock baby to sleep<|endoftext|>
+congee	be different from	porridge[SEP]congee	instance of	porridge<|endoftext|>
+physical activity	can improve	health[SEP]getting physical activity	used for	better health<|endoftext|>
+diaphragm help	be in	breathing[SEP]breathe	has prerequisite	use diaphragm to suck in air<|endoftext|>
+pickled ginger	be served with	sushi[SEP]pickled ginger	receives action	eaten with sushi<|endoftext|>
+body hair	be present in	mammals[SEP]hair	at location	mammals<|endoftext|>
+buying a house	has property	a good investment[SEP]buying house	used for	making good investment<|endoftext|>
+outfielder	catch	fly balls[SEP]outfielder	capable of	catch fly ball<|endoftext|>
+gym	has property	do[SEP]do in gym	has property	spot<|endoftext|>
+plastic container	has property	made[SEP]containers	has property	plastic<|endoftext|>
+nun	can	pray[SEP]nun	capable of	pray<|endoftext|>
+radiator	shroud keep	the engine from overheating[SEP]overheated radiator	capable of	cause damage to engine<|endoftext|>
+buckingham palace	be in	london[SEP]buckingham palace	at location	united kingdom<|endoftext|>
+labelling	has property	labeling[SEP]labeler	used for	labeling<|endoftext|>
+water	has property	cycle[SEP]water	has a	cycle<|endoftext|>
+vending stand	has property	made[SEP]vending stand	at location	street<|endoftext|>
+referee	allow	hockey players[SEP]referee	at location	hockey game<|endoftext|>
+toilet paper	be made of	paper[SEP]toilet paper	used for	proper toilet hygiene<|endoftext|>
+brick row house	has property	made[SEP]brick row house	used for	easy building<|endoftext|>
+farmer	feed	pigs[SEP]farmer	capable of	feed pigs<|endoftext|>
+air traffic control	has property	in a tower[SEP]air traffic control tower	at location	airport<|endoftext|>
+cotton fabric	has property	visible[SEP]cotton	at location	fabric<|endoftext|>
+sponge	can absorb	water[SEP]sponge	capable of	collect water<|endoftext|>
+seventh avenue	be in	manhattan ny[SEP]seventh avenue	part of	manhattan<|endoftext|>
+cheque book	has property	printed[SEP]cheque book	has a	cheques<|endoftext|>
+people	go to	movies on dates[SEP]people on date	capable of	go to movie<|endoftext|>
+three	has property	two[SEP]three	has property	3<|endoftext|>
+cars	be in	cars made[SEP]cars	made of	parts<|endoftext|>
+people	has property	evil[SEP]if people do evil things	has property	evil<|endoftext|>
+brain	has property	function[SEP]brain	has property	complex in function<|endoftext|>
+hair dryer	can	help[SEP]hair dryer	used for	drying wet hair<|endoftext|>
+roses	has property	the symbol of love[SEP]red roses	has property	symbolic of love<|endoftext|>
+lock	can	utilize[SEP]lock	used for	protecting<|endoftext|>
+map	say	directions[SEP]map	used for	getting directions<|endoftext|>
+pharmacist	count	pills[SEP]pharmacists	has a	machines count pills<|endoftext|>
+solarization	has property	formed[SEP]solarize	manner of	develop<|endoftext|>
+cochlea	has body part	ear[SEP]cochlea	part of	inner ear<|endoftext|>
+sleep	has property	necessary for regaining energy[SEP]sleeping	used for	gaining energy<|endoftext|>
+regular exercise	has property	beneficial[SEP]exercise	has property	best done on regular basis<|endoftext|>
+burning wood	create	energy[SEP]wood	used for	burning to gain energy<|endoftext|>
+pumpkin plant	has property	edible[SEP]pumpkins	has property	edible<|endoftext|>
+zoom lens	has property	zoomed[SEP]zoom lens	used for	observing distant object<|endoftext|>
+sailing	has property	fun[SEP]sailing	has property	fun<|endoftext|>
+beer mug	have	glass bottoms[SEP]beer mugs	has a	glass bottoms<|endoftext|>
+keypad	be on	phone[SEP]keypad	at location	phone<|endoftext|>
+elephant	has property	large animals[SEP]elephants	has property	large<|endoftext|>
+terrace	has property	useful[SEP]terrace	has property	very useful in hilly country<|endoftext|>
+earth's core	has property	molten[SEP]earths core	has property	molten rock<|endoftext|>
+injury	has property	painful[SEP]injuries	has property	painful<|endoftext|>
+some bird	have	different beaks[SEP]birds	has a	beaks<|endoftext|>
+phillips screwdriver	has property	made[SEP]phillips head screwdriver	used for	constructing things<|endoftext|>
+prince	be in	england[SEP]prince	at location	england<|endoftext|>
+mathematician	prove	theorems[SEP]mathematicians	capable of	prove mathematical theorem<|endoftext|>
+bagpipe	be called	bagpipes in the long run[SEP]bagpipes	used for	play music<|endoftext|>
+hair dye	change	the color of hair[SEP]hair dye	used for	change color of hair<|endoftext|>
+san francisco	have	hills[SEP]san francisco	has a	many hills<|endoftext|>
+english	has property	in english[SEP]english	has property	english for english<|endoftext|>
+couch	has property	available[SEP]couch	has property	black<|endoftext|>
+food	has property	spicy[SEP]food	has property	spicy hot<|endoftext|>
+thing	fall over	seemingly[SEP]fall over	manner of	break down<|endoftext|>
+meat	get	heated in a frying pan[SEP]frying pan	used for	cooking meats at high temperature<|endoftext|>
+portrait	has property	review[SEP]portrait	has property	one kind of painting or photograph<|endoftext|>
+riverside	has property	california[SEP]riverside	part of	california<|endoftext|>
+laundromat	can	help[SEP]go to laundromat	has prerequisite	find laundromat<|endoftext|>
+acre	has property	43560 square feet[SEP]acre	has a	43 560 square feet<|endoftext|>
+daniel	be unique among	old testament books[SEP]daniel	part of	old testament<|endoftext|>
+electromagnet	be used in	electric bell[SEP]electromagnet	part of	electric bell<|endoftext|>
+sulphur	has property	essential[SEP]sulphur	has property	essential to life<|endoftext|>
+curry	can	smell[SEP]curry	has a	strong smell<|endoftext|>
+portuguese	has property	romance language[SEP]brazilian portuguese	part of	romance languages<|endoftext|>
+closet	get	musty[SEP]closet for clothes	capable of	become musty<|endoftext|>
+serotonin	relate to	depression[SEP]serotonin	has property	low in people with depression<|endoftext|>
+boat	be made up of	wood[SEP]wood	used for	build boat<|endoftext|>
+oatmeal help	reduce	cholesterol[SEP]oatmeal	capable of	lower cholesterol<|endoftext|>
+dentist chair	has place	on[SEP]dentist chair	used for	sitting in<|endoftext|>
+water	has property	liquid[SEP]water	has property	liquid<|endoftext|>
+gold	have	value[SEP]gold	has a	value<|endoftext|>
+athlete	keep breaking	world records[SEP]athlete	capable of	attempt to break world record<|endoftext|>
+cats	need	to lie on something[SEP]cats	capable of	lie down<|endoftext|>
+green vegetable	has property	big[SEP]many vegetables	has property	green<|endoftext|>
+bastille	be famous in	french history[SEP]bastille	part of	paris<|endoftext|>
+black truffle	has property	found[SEP]truffles	has property	black<|endoftext|>
+people	has property	mad[SEP]people	has property	mad<|endoftext|>
+promise	made	broken[SEP]promise	receives action	broken<|endoftext|>
+tile	has property	slippery[SEP]wet tile surface	has property	slippery<|endoftext|>
+staten island	be part of	nyc[SEP]new york city	part of	staten island<|endoftext|>
+tape dispenser	can	work[SEP]tape dispenser	used for	convenience<|endoftext|>
+frying pan	has property	produced[SEP]frying pan	used for	frying<|endoftext|>
+canvas	be used for	painting[SEP]canvas	used for	painting<|endoftext|>
+sky	during	storm[SEP]storm	at location	sky<|endoftext|>
+gasoline	have	lower boiling point[SEP]gasoline	has a	lower boiling point than water<|endoftext|>
+sheep	can	graze[SEP]sheep	capable of	graze<|endoftext|>
+shopping	can	store[SEP]can	at location	grocery store<|endoftext|>
+art critic	judge	art[SEP]critic	capable of	judge art<|endoftext|>
+phillips screwdriver	can	work[SEP]phillips screwdriver	used for	turning cross head screws<|endoftext|>
+light	appear through	smoke[SEP]light up	Entails	smoke<|endoftext|>
+retired person	can	know[SEP]retired person	capable of	complete crossword<|endoftext|>
+sugar	can be identified	by name[SEP]sugar	capable of	form of name calling<|endoftext|>
+spring binder	can	work[SEP]spring binder	used for	hold class notes<|endoftext|>
+america	has property	violent[SEP]america	has property	dangerous<|endoftext|>
+dog	have	more than one pup[SEP]dogs	has a	puppies<|endoftext|>
+south vietnam	be involved in	vietnam war[SEP]south vietnam	part of	vietnam<|endoftext|>
+internet	has property	made[SEP]internet	has property	modern<|endoftext|>
+promise	has property	oath[SEP]oath	has property	similar to promise<|endoftext|>
+screwdriver	has property	available[SEP]screwdriver	at location	toolbox<|endoftext|>
+burner	be used inside	hot air balloons[SEP]burner	part of	hot air balloon<|endoftext|>
+government	pay	taxes[SEP]people	has a	pay taxes to government<|endoftext|>
+good book	has property	put[SEP]good book	has property	hard to put down<|endoftext|>
+potato	be called	which of the andes[SEP]potato	at location	andes<|endoftext|>
+sea	has property	water[SEP]sea	has property	wet<|endoftext|>
+eel	has property	swimming[SEP]eel	at location	water<|endoftext|>
+people	enjoy	alcohol beer[SEP]people	desires	relax by drinking beer<|endoftext|>
+sound wave	be converted into	nerve impulse[SEP]ear	capable of	convert sound waves into nerve impulses<|endoftext|>
+houston	be located in	texas[SEP]houston	part of	texas<|endoftext|>
+french horn	be used in	pairs in orchestras[SEP]french horn	used for	play in orchestra<|endoftext|>
+greece	be part of	europe[SEP]greece	part of	europe<|endoftext|>
+crotch	has body part	skin[SEP]crotch	part of	body<|endoftext|>
+asthma	cause	coughing[SEP]having asthma attack	causes	coughing<|endoftext|>
+eyewitness testimony	can	know[SEP]eyewitness	manner of	witness<|endoftext|>
+clothes	be smelly	washing[SEP]wash clothes	has subevent	clothes smell nice<|endoftext|>
+plant	grow close to	ground[SEP]plants	at location	ground<|endoftext|>
+cyclic redundancy check	has property	made[SEP]cyclic redundancy check	has property	abbreviated to'crc<|endoftext|>
+bookshelf	can	use[SEP]bookshelf	used for	hold books<|endoftext|>
+science	related	with technology[SEP]science	at location	technology<|endoftext|>
+computer	has property	machine[SEP]computer	has property	machine<|endoftext|>
+swimming pool	has property	needed[SEP]swimming pool	used for	enhancing property<|endoftext|>
