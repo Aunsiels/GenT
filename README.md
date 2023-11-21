@@ -35,6 +35,18 @@ Our generated new datasets, Quasimodo-GenT and Ascent-GenT, are available on Hug
 
 These are the variants using the LM-based alignment, inverted, and with 10 generations per triple. Please ask if you require other settings.
 
+## Get the models
+
+The models are available on HuggingFace:
+    * Quasimodo
+        * [Rule-based alignment](https://huggingface.co/Aunsiels/QuasimodoGenT-Rule)
+        * [LM-based alignment](https://huggingface.co/Aunsiels/QuasimodoGenT-LM)
+        * [LM-based alignment inversed](https://huggingface.co/Aunsiels/QuasimodoGenT-LMINV)
+    * Ascent++
+        * [Rule-based alignment](https://huggingface.co/Aunsiels/AscentGenT-Rule)
+        * [LM-based alignment](https://huggingface.co/Aunsiels/AscentGenT-LM)
+        * [LM-based alignment inversed](https://huggingface.co/Aunsiels/AnscentGenT-LMINV)
+
 ## Alignment
 
 ### Rule Based
